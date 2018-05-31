@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.clang_complete
+doc
+build
+data
+plots
+
