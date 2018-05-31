@@ -13,6 +13,8 @@
 using namespace std;
 
 int main(int argc, char** argv) {
+    cerr << "Deprecated for now, insert with bear.cc" << endl;
+
     if (argc < 2) {
         cerr << "ERROR: Insert command must be invoked as '[-v] patch_id s|p [+|- cd.nt [file_2.nt [...]]]*' " << endl;
         return 1;
