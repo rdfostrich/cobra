@@ -1,5 +1,7 @@
 language: cpp
 services:
   - docker
-install:
+before_install:
   - docker build -t cobra .
+script:
+  - echo "Done"
