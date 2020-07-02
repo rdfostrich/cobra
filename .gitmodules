@@ -1,0 +1,10 @@
+[submodule "deps/gtest"]
+	path = deps/gtest
+	url = https://github.com/google/googletest.git
+[submodule "deps/hdt"]
+	path = deps/hdt
+	url = https://github.com/rubensworks/hdt-cpp.git
+	branch = feature-loadtriples
+[submodule "Experiments/OSTRICH"]
+	path = Experiments/OSTRICH
+	url = https://github.com/rdfostrich/ostrich.git

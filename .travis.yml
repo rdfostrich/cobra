@@ -1,0 +1,5 @@
+language: cpp
+services:
+  - docker
+install:
+  - docker build -t cobra .
