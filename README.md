@@ -7,6 +7,8 @@ _Change-based Offset-enabled Bidirectional RDF Archive._
 **COBRA** is a bidirectional extension of [**OSTRICH**](https://github.com/rdfostrich/ostrich/),
 an _RDF triple store_ that allows _multiple versions_ of a dataset to be stored and queried at the same time.
 
+**Warning: this is experimental software**
+
 The store is a hybrid between _snapshot_, _delta_ and _timestamp-based_ storage,
 which provides a good trade-off between storage size and query time.
 It provides several built-in algorithms to enable efficient iterator-based queries _at_ a certain version, _between_ any two versions, and _for_ versions. These queries support limits and offsets for any triple pattern.
