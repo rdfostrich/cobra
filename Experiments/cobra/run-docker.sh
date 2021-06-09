@@ -75,7 +75,7 @@ docker run --rm -it \
 -v ${evalrundir}:/var/evalrun \
 -v ${datasetdir}:/var/patches \
 -v ${querydir}:/var/queries \
-${imagename} /var/patches ${patch_id_start} ${patch_id_end} /var/queries/${query} > ${outputdir}/$query.txt
+${imagename} /var/patches ${patch_id_start} ${patch_id_end} /var/queries/${query} ${replications} > ${outputdir}/$query.txt
 
 done
 
