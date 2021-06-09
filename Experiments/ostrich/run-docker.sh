@@ -33,10 +33,10 @@ esac
 
 evalrundir=${writedir}evalrun-$1/
 mkdir -p ${evalrundir}
-if [[ ! -d ${evalrundir} ]] ; then echo "Could not create ${evalrundir}; provide access and come back!" ; exit 2 ; fi
+if [[ ! -d ${evalrundir} ]] ; then echo "Adapt permissions to allow creation of ${evalrundir} and come back!" ; exit 2 ; fi
 outputdir=${writedir}output-$1/
 mkdir -p ${outputdir}
-if [[ ! -d ${outputdir} ]] ; then echo "Could not create ${outputdir}; provide access and come back!" ; exit 2 ; fi
+if [[ ! -d ${outputdir} ]] ; then echo "Adapt permissions to allow creation of ${outputdir} and come back!" ; exit 2 ; fi
 
 imagename=${experiment}
 replications=5
