@@ -1,3 +1,0 @@
-# Reproducing OSTRICH experiments
-
-TODO
