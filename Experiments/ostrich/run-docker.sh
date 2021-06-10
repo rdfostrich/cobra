@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# The only difference between run-docker.sh for cobra vs. for ostrich should be the definition of 'experiment' below
-experiment=ostrich
 # directory 'basedir' should exist and you should have rwx access to it
 basedir=/mnt/datastore/data/dslab/experimental/patch/
-writedir=${basedir}${experiment}-2021/
+writedir=${basedir}ostrich-2021/
 
 case "$1" in
   beara)
@@ -38,7 +36,7 @@ outputdir=${writedir}output-$1/
 mkdir -p ${outputdir}
 if [[ ! -d ${outputdir} ]] ; then echo "Adapt permissions to allow creation of ${outputdir} and come back!" ; exit 2 ; fi
 
-imagename=${experiment}
+imagename=ostrich
 replications=5
 
 queries=$(cd ${querydir} && ls -v)
@@ -58,7 +56,7 @@ echo ${queries}
 
 
 # ingest
-echo "===== Running docker to ingest for $1"
+echo "===== Running ${imagename} docker to ingest for $1"
 containername=${imagename}-ingest
 docker run -it --name ${containername} \
 -v ${evalrundir}:/var/evalrun \
@@ -70,7 +68,7 @@ docker rm ${containername}
 # query
 for query in ${queries[@]}; do
 
-echo "===== Running docker for $1, ${query} "
+echo "===== Running ${imagename} docker for $1, ${query} "
 docker run --rm -it \
 -v ${evalrundir}:/var/evalrun \
 -v ${datasetdir}:/var/patches \
