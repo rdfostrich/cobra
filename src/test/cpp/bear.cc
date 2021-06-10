@@ -74,7 +74,7 @@ void test_lookups_for_queries(int line_number, int patch_count, Experimenter& ev
                     replications,
                     line_split.size() > 4 ? std::atoi(line_split[3].c_str()) : 0, // offset
                     line_split.size() > 4 ? std::atoi(line_split[4].c_str()) : -2 // limit
-            );break;
+            );
         }
     }
     cout << "---QUERIES END---" << endl;
