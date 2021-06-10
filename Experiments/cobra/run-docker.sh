@@ -53,6 +53,12 @@ echo ${queries}
 
 
 # ingest
+#
+# arguments in docker run command after ${imagename}:
+# 1: ingestion option ("cobra_opt")
+# 2: base directory
+# 3: path to prepared data for ingestion (patches)
+# 4: number of patches to handle
 echo "===== Running ${imagename} docker to ingest for $1"
 containername=${imagename}-ingest
 docker run -it --name ${containername} \
@@ -63,14 +69,21 @@ docker logs ${containername} > ${outputdir}ingest-output.txt 2> ${outputdir}inge
 docker rm ${containername}
 
 # query
+#
+# arguments in docker run command after ${imagename}:
+# 1: query option ("query")
+# 2: base directory
+# 3: path to query file
+# 4: number of patches to handle
+# 5: number of replications
+# 6: number of lines to skip in the query file
 for query in ${queries[@]}; do
 
 echo "===== Running ${imagename} docker for $1, ${query} "
 docker run --rm -it \
 -v ${evalrundir}:/var/evalrun \
--v ${datasetdir}:/var/patches \
 -v ${querydir}:/var/queries \
-${imagename} query ./ /var/patches ${number_of_patches} /var/queries/${query} ${replications} 0 > ${outputdir}/$query.txt
+${imagename} query ./ /var/queries/${query} ${number_of_patches} ${replications} 0 > ${outputdir}/$query.txt
 
 done
 

@@ -56,6 +56,11 @@ echo ${queries}
 
 
 # ingest
+#
+# arguments in docker run command after ${imagename}:
+# 1: path to prepared data for ingestion (patches)
+# 2: number of first patch to handle
+# 3: number of last patch to handle
 echo "===== Running ${imagename} docker to ingest for $1"
 containername=${imagename}-ingest
 docker run -it --name ${containername} \
@@ -66,6 +71,13 @@ docker logs ${containername} > ${outputdir}ingest-output.txt 2> ${outputdir}inge
 docker rm ${containername}
 
 # query
+#
+# arguments in docker run command after ${imagename}:
+# 1: path to prepared data for ingestion (patches)
+# 2: number of first patch to handle
+# 3: number of last patch to handle
+# 4: path to query file
+# 5: number of replications
 for query in ${queries[@]}; do
 
 echo "===== Running ${imagename} docker for $1, ${query} "
