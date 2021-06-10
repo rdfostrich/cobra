@@ -1,25 +1,26 @@
 #!/bin/bash
 
-# directory 'basedir' should exist and you should have rwx access to it
-basedir=/mnt/datastore/data/dslab/experimental/patch/
-writedir=${basedir}ostrich-2021/
+# directory ${parentdir} should exist and you should have rwx access to it. It should also contain prepared input data
+parentdir=/mnt/datastore/data/dslab/experimental/patch/
+evalrunbasedir=${parentdir}evalrun-2021-ostrich/
+outputbasedir=${parentdir}output-2021-ostrich/
 
 case "$1" in
   beara)
-    datasetdir=${basedir}data/
-    querydir=${basedir}BEAR/queries_new/
+    datasetdir=${parentdir}data/
+    querydir=${parentdir}BEAR/queries_new/
     patch_id_start=1
     patch_id_end=10
     ;;
   bearb-day)
-    datasetdir=${basedir}rawdata-bearb/patches-day/
-    querydir=${basedir}BEAR/queries_bearb/
+    datasetdir=${parentdir}rawdata-bearb/patches-day/
+    querydir=${parentdir}BEAR/queries_bearb/
     patch_id_start=1
     patch_id_end=89
     ;;
   bearb-hour)
-    datasetdir=${basedir}rawdata-bearb/patches-hour/
-    querydir=${basedir}BEAR/queries_bearb/
+    datasetdir=${parentdir}rawdata-bearb/patches-hour/
+    querydir=${parentdir}BEAR/queries_bearb/
     patch_id_start=1
     patch_id_end=1299
     ;;
@@ -29,10 +30,10 @@ case "$1" in
     ;;
 esac
 
-evalrundir=${writedir}evalrun-$1/
+evalrundir=${evalrunbasedir}$1/
 mkdir -p ${evalrundir}
 if [[ ! -d ${evalrundir} ]] ; then echo "Adapt permissions to allow creation of ${evalrundir} and come back!" ; exit 2 ; fi
-outputdir=${writedir}output-$1/
+outputdir=${outputbasedir}$1/
 mkdir -p ${outputdir}
 if [[ ! -d ${outputdir} ]] ; then echo "Adapt permissions to allow creation of ${outputdir} and come back!" ; exit 2 ; fi
 
