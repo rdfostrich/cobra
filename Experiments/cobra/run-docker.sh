@@ -65,7 +65,7 @@ containername=${imagename}-ingest
 docker run -it --name ${containername} \
 -v ${evalrundir}/:/var/evalrun \
 -v ${datasetdir}/:/var/patches \
-${imagename} cobra_opt . /var/patches ${number_of_patches}
+${imagename} cobra_opt ./ /var/patches ${number_of_patches}
 docker logs ${containername} > ${outputdir}/ingest-output.txt 2> ${outputdir}/ingest-stderr.txt
 docker rm ${containername}
 # TODO remove next temporary copy operation
@@ -86,7 +86,7 @@ echo "===== Running ${imagename} docker for $1, ${query} "
 docker run --rm -it \
 -v ${evalrundir}/:/var/evalrun \
 -v ${querydir}/:/var/queries \
-${imagename} query . /var/queries/${query} ${number_of_patches} ${replications} 0 > ${outputdir}/${query}.overall.txt
+${imagename} query ./ /var/queries/${query} ${number_of_patches} ${replications} 0 > ${outputdir}/${query}.overall.txt
 mv ${evalrundir}/query.txt ${outputdir}/${query}.txt
 # TODO remove next temporary copy operation
 cp -pr ${evalrundir} ${evalrundir}-${query}
