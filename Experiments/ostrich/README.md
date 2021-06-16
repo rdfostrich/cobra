@@ -61,7 +61,8 @@ Note - on the server you may want to do this in a **screen** session.
 # this line is optional; execute in case you don't have rwx access to the folder
 sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 
-./run-docker.sh beara 2>&1 | tee beara.log
-./run-docker.sh bearb-day 2>&1 | tee bearb-day.log
-./run-docker.sh bearb-hour 2>&1 | tee bearb-hour.log
+# ingestion + querying, all bearkinds
+./run-docker.sh ingest-query beara      2>&1 | tee ingest-query-beara.log
+./run-docker.sh ingest-query bearb-day  2>&1 | tee ingest-query-bearb-day.log
+./run-docker.sh ingest-query bearb-hour 2>&1 | tee ingest-query-bearb-hour.log
 ```

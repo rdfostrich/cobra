@@ -5,7 +5,19 @@ parentdir=/mnt/datastore/data/dslab/experimental/patch
 evalrunbasedir=${parentdir}/evalrun-2021-ostrich
 outputbasedir=${parentdir}/output-2021-ostrich
 
-case "$1" in
+whattodo=$1
+bearkind=$2
+
+case "${whattodo}" in
+  ingest | query | ingest-query)
+    ;;
+  *)
+    echo "Usage: $0 {ingest|query|ingest-query} ..."
+    exit 2
+    ;;
+esac
+
+case "${bearkind}" in
   beara)
     datasetdir=${parentdir}/data
     querydir=${parentdir}/BEAR/queries_new
@@ -25,15 +37,15 @@ case "$1" in
     patch_id_end=1299
     ;;
   *)
-    echo "Usage: $0 {beara|bearb-day|bearb-hour}"
+    echo "Usage: $0 {ingest|query|ingest-query} {beara|bearb-day|bearb-hour}"
     exit 2
     ;;
 esac
 
-evalrundir=${evalrunbasedir}/$1
+evalrundir=${evalrunbasedir}/${bearkind}
 mkdir -p ${evalrundir}
 if [[ ! -d ${evalrundir} ]] ; then echo "Adapt permissions to allow creation of ${evalrundir} and come back!" ; exit 2 ; fi
-outputdir=${outputbasedir}/$1
+outputdir=${outputbasedir}/${bearkind}
 mkdir -p ${outputdir}
 if [[ ! -d ${outputdir} ]] ; then echo "Adapt permissions to allow creation of ${outputdir} and come back!" ; exit 2 ; fi
 
@@ -45,7 +57,7 @@ echo ${queries}
 
 # Overrides for local testing - to be put in comments in committed version
 #replications=1
-#case "$1" in
+#case "${bearkind}" in
 #  beara)
 #    queries="po-queries-lowCardinality.txt"
 #    ;;
@@ -62,7 +74,9 @@ echo ${queries}
 # 1: path to prepared data for ingestion (patches)
 # 2: number of first patch to handle
 # 3: number of last patch to handle
-echo "===== Running ${imagename} docker to ingest for $1"
+if [[ ${whattodo} =~ ingest.* ]]; then
+
+echo "===== Running ${imagename} docker to ingest for ${bearkind}"
 containername=${imagename}-ingest
 docker run -it --name ${containername} \
 -v ${evalrundir}/:/var/evalrun \
@@ -70,6 +84,8 @@ docker run -it --name ${containername} \
 ${imagename} /var/patches ${patch_id_start} ${patch_id_end}
 docker logs ${containername} > ${outputdir}/ingest-output.txt 2> ${outputdir}/ingest-stderr.txt
 docker rm ${containername}
+
+fi
 
 # query
 #
@@ -79,9 +95,11 @@ docker rm ${containername}
 # 3: number of last patch to handle
 # 4: path to query file
 # 5: number of replications
+if [[ ${whattodo} =~ .*query ]]; then
+
 for query in ${queries[@]}; do
 
-echo "===== Running ${imagename} docker for $1, ${query} "
+echo "===== Running ${imagename} docker for ${bearkind}, ${query} "
 docker run --rm -it \
 -v ${evalrundir}/:/var/evalrun \
 -v ${datasetdir}/:/var/patches \
@@ -90,3 +108,4 @@ ${imagename} /var/patches ${patch_id_start} ${patch_id_end} /var/queries/${query
 
 done
 
+fi

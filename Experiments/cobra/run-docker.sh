@@ -5,7 +5,20 @@ parentdir=/mnt/datastore/data/dslab/experimental/patch
 evalrunbasedir=${parentdir}/evalrun-2021-cobra
 outputbasedir=${parentdir}/output-2021-cobra
 
-case "$1" in
+whattodo=$1
+bearkind=$2
+ingestionkind=$3
+
+case "${whattodo}" in
+  ingest | query | ingest-query)
+    ;;
+  *)
+    echo "Usage: $0 {ingest|query|ingest-query} ..."
+    exit 2
+    ;;
+esac
+
+case "${bearkind}" in
   beara)
     datasetdir=${parentdir}/data
     querydir=${parentdir}/BEAR/queries_new
@@ -22,15 +35,24 @@ case "$1" in
     number_of_patches=1299
     ;;
   *)
-    echo "Usage: $0 {beara|bearb-day|bearb-hour}"
+    echo "Usage: $0 {ingest|query|ingest-query} {beara|bearb-day|bearb-hour} ..."
     exit 2
     ;;
 esac
 
-evalrundir=${evalrunbasedir}/$1
+case "${ingestionkind}" in
+  cobra_opt | pre_fix_up | fix_up)
+    ;;
+  *)
+    echo "Usage: $0 {ingest|query|ingest-query} {beara|bearb-day|bearb-hour} {cobra_opt|pre_fix_up|fix_up}"
+    exit 2
+    ;;
+esac
+
+evalrundir=${evalrunbasedir}/${bearkind}/${ingestionkind}
 mkdir -p ${evalrundir}
 if [[ ! -d ${evalrundir} ]] ; then echo "Adapt permissions to allow creation of ${evalrundir} and come back!" ; exit 2 ; fi
-outputdir=${outputbasedir}/$1
+outputdir=${outputbasedir}/${bearkind}/${ingestionkind}
 mkdir -p ${outputdir}
 if [[ ! -d ${outputdir} ]] ; then echo "Adapt permissions to allow creation of ${outputdir} and come back!" ; exit 2 ; fi
 
@@ -42,7 +64,7 @@ echo ${queries}
 
 # Overrides for local testing - to be put in comments in committed version
 #replications=1
-#case "$1" in
+#case "${bearkind}" in
 #  beara)
 #    queries="po-queries-lowCardinality.txt"
 #    ;;
@@ -60,7 +82,9 @@ echo ${queries}
 # 2: base directory
 # 3: path to prepared data for ingestion (patches)
 # 4: number of patches to handle
-echo "===== Running ${imagename} docker to ingest for $1"
+if [[ ${whattodo} =~ ingest.* ]]; then
+
+echo "===== Running ${imagename} docker to ingest for ${bearkind}, ${ingestionkind}"
 containername=${imagename}-ingest
 docker run -it --name ${containername} \
 -v ${evalrundir}/:/var/evalrun \
@@ -68,6 +92,8 @@ docker run -it --name ${containername} \
 ${imagename} cobra_opt ./ /var/patches ${number_of_patches}
 docker logs ${containername} > ${outputdir}/ingest-output.txt 2> ${outputdir}/ingest-stderr.txt
 docker rm ${containername}
+
+fi
 
 # query
 #
@@ -78,9 +104,11 @@ docker rm ${containername}
 # 4: number of patches to handle
 # 5: number of replications
 # 6: number of lines to skip in the query file
+if [[ ${whattodo} =~ .*query ]]; then
+
 for query in ${queries[@]}; do
 
-echo "===== Running ${imagename} docker for $1, ${query} "
+echo "===== Running ${imagename} docker for ${bearkind}, ${ingestionkind}, ${query} "
 docker run --rm -it \
 -v ${evalrundir}/:/var/evalrun \
 -v ${querydir}/:/var/queries \
@@ -89,3 +117,4 @@ mv ${evalrundir}/query.txt ${outputdir}/${query}.txt
 
 done
 
+fi
