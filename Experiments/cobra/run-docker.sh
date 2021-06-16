@@ -95,6 +95,7 @@ docker run -it --name ${containername} \
 ${imagename} ${ingestionkind} ./ /var/patches ${number_of_patches}
 docker logs ${containername} > ${outputdir}/ingest-output.txt 2> ${outputdir}/ingest-stderr.txt
 docker rm ${containername}
+mv ${evalrundir}/${ingestionkind}.txt ${outputdir}/
 
 fi
 
