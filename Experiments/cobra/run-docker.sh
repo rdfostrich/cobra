@@ -41,7 +41,11 @@ case "${bearkind}" in
 esac
 
 case "${ingestionkind}" in
-  cobra_opt | pre_fix_up | fix_up)
+  cobra_opt)
+    evalrundir=${evalrunbasedir}/${bearkind}/cobra_opt
+    ;;
+  pre_fix_up | fix_up)
+    evalrundir=${evalrunbasedir}/${bearkind}/pre_fix_up-fix_up
     ;;
   *)
     echo "Usage: $0 {ingest|query|ingest-query} {beara|bearb-day|bearb-hour} {cobra_opt|pre_fix_up|fix_up}"
@@ -49,7 +53,6 @@ case "${ingestionkind}" in
     ;;
 esac
 
-evalrundir=${evalrunbasedir}/${bearkind}/${ingestionkind}
 mkdir -p ${evalrundir}
 if [[ ! -d ${evalrundir} ]] ; then echo "Adapt permissions to allow creation of ${evalrundir} and come back!" ; exit 2 ; fi
 outputdir=${outputbasedir}/${bearkind}/${ingestionkind}
