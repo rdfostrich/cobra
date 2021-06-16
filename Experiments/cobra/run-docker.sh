@@ -92,7 +92,7 @@ containername=${imagename}-ingest
 docker run -it --name ${containername} \
 -v ${evalrundir}/:/var/evalrun \
 -v ${datasetdir}/:/var/patches \
-${imagename} cobra_opt ./ /var/patches ${number_of_patches}
+${imagename} ${ingestionkind} ./ /var/patches ${number_of_patches}
 docker logs ${containername} > ${outputdir}/ingest-output.txt 2> ${outputdir}/ingest-stderr.txt
 docker rm ${containername}
 
