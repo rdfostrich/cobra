@@ -58,18 +58,20 @@ Note - on the server you may want to do this in a **screen** session.
 sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 
 # ingestion + querying, all bearkinds, ingestion option cobra_opt
-./run-docker.sh ingest-query beara      cobra_opt 2>&1 | tee ingest-query-beara-cobra_opt.log
+# (in preferred order of execution)
 ./run-docker.sh ingest-query bearb-day  cobra_opt 2>&1 | tee ingest-query-bearb-day-cobra_opt.log
 ./run-docker.sh ingest-query bearb-hour cobra_opt 2>&1 | tee ingest-query-bearb-hour-cobra_opt.log
+./run-docker.sh ingest-query beara      cobra_opt 2>&1 | tee ingest-query-beara-cobra_opt.log
 
-# ingestion only, all bearkinds, ingestion option pre_fix_up
-./run-docker.sh ingest beara      pre_fix_up 2>&1 | tee ingest-beara-pre_fix_up.log
+# ingestion only, all bearkinds, ingestion options pre_fix_up and fix_up in sequence
+# (in preferred order of execution)
 ./run-docker.sh ingest bearb-day  pre_fix_up 2>&1 | tee ingest-bearb-pre_fix_up.log
+./run-docker.sh ingest bearb-day  fix_up     2>&1 | tee ingest-bearb-fix_up.log
 ./run-docker.sh ingest bearb-hour pre_fix_up 2>&1 | tee ingest-bearb-pre_fix_up.log
+./run-docker.sh ingest bearb-hour fix_up     2>&1 | tee ingest-bearb-fix_up.log
+./run-docker.sh ingest beara      pre_fix_up 2>&1 | tee ingest-beara-pre_fix_up.log
+./run-docker.sh ingest beara      fix_up     2>&1 | tee ingest-beara-fix_up.log
 
 # ingestion only, all bearkinds, ingestion option fix_up
 # to be executed after pre_fix_up ingestion only!
-./run-docker.sh ingest beara      fix_up 2>&1 | tee ingest-beara-fix_up.log
-./run-docker.sh ingest bearb-day  fix_up 2>&1 | tee ingest-bearb-fix_up.log
-./run-docker.sh ingest bearb-hour fix_up 2>&1 | tee ingest-bearb-fix_up.log
 ```
