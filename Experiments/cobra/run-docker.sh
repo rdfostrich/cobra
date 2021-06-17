@@ -113,11 +113,14 @@ if [[ ${whattodo} =~ .*query ]]; then
 for query in ${queries[@]}; do
 
 echo "===== Running ${imagename} docker for ${bearkind}, ${ingestionkind}, ${query} "
-docker run --rm -it \
+containername=${imagename}-query
+docker run --name ${containername} -it \
 -v ${evalrundir}/:/var/evalrun \
 -v ${querydir}/:/var/queries \
-${imagename} query ./ /var/queries/${query} ${number_of_patches} ${replications} 0 > ${outputdir}/${query}.overall.txt
+${imagename} query ./ /var/queries/${query} ${number_of_patches} ${replications} 0
 mv ${evalrundir}/query.txt ${outputdir}/${query}.txt
+docker logs ${containername} > ${outputdir}/${query}.overall.txt 2> ${outputdir}/${query}.stderr.txt
+docker rm ${containername}
 
 done
 

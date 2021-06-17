@@ -100,11 +100,14 @@ if [[ ${whattodo} =~ .*query ]]; then
 for query in ${queries[@]}; do
 
 echo "===== Running ${imagename} docker for ${bearkind}, ${query} "
-docker run --rm -it \
+containername=${imagename}-query
+docker run --name ${containername} -it \
 -v ${evalrundir}/:/var/evalrun \
 -v ${datasetdir}/:/var/patches \
 -v ${querydir}/:/var/queries \
-${imagename} /var/patches ${patch_id_start} ${patch_id_end} /var/queries/${query} ${replications} > ${outputdir}/${query}.txt
+${imagename} /var/patches ${patch_id_start} ${patch_id_end} /var/queries/${query} ${replications}
+docker logs ${containername} > ${outputdir}/${query}.txt 2> ${outputdir}/${query}.stderr.txt
+docker rm ${containername}
 
 done
 
