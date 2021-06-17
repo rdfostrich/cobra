@@ -71,7 +71,4 @@ sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 ./run-docker.sh ingest bearb-hour fix_up     2>&1 | tee ingest-bearb-fix_up.log
 ./run-docker.sh ingest beara      pre_fix_up 2>&1 | tee ingest-beara-pre_fix_up.log
 ./run-docker.sh ingest beara      fix_up     2>&1 | tee ingest-beara-fix_up.log
-
-# ingestion only, all bearkinds, ingestion option fix_up
-# to be executed after pre_fix_up ingestion only!
 ```
