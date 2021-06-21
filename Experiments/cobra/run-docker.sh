@@ -21,7 +21,7 @@ esac
 case "${bearkind}" in
   beara)
     datasetdir=${parentdir}/data
-    querydir=${parentdir}/BEAR/queries_new
+    querydir=${parentdir}/BEAR/queries_new/split
     number_of_patches=10
     ;;
   bearb-day)

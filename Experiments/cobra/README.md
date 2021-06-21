@@ -50,6 +50,8 @@ rsync -rtvz donizetti.labnet:/mnt/datastore/data/dslab/experimental/patch/BEAR/q
 popd
 ```
 
+Note: the `query_news` directory has a subdirectory `split`, containing queries split in single lines. These were made using the `/utils/split-in-lines.sh` script of this project.
+
 ## Run the experiments
 
 Note - on the server you may want to do this in a **screen** session.
