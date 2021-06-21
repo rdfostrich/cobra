@@ -509,14 +509,15 @@ void Experimenter::test_lookup(int patch_count, string s, string p, string o, in
     // only one dict supported for delta materialized
     performance_file << "--- ---DELTA MATERIALIZED" << endl;
     performance_file << "patch_start,patch_end,offset,limit,count-ms,lookup-mus,results" << endl;
-    for(int i = 0; i < patch_count; i++) {
+    int i = 0;
+    //for(int i = 0; i < patch_count; i++) {
         for(int j = i + 1; j < patch_count; j++) {
             int result_count1 = 0;
             long dcount = measure_count_delta_materialized(triple_pattern, i, j, replications);
             long d1 = measure_lookup_delta_materialized(*dict, triple_pattern, offset, i, j, limit, replications, result_count1);
             performance_file << "" << i << "," << j << "," << offset << "," << limit << "," << dcount << "," << d1 << "," << result_count1 << endl;
         }
-    }
+    //}
 
     performance_file << "--- ---VERSION" << endl;
     performance_file << "offset,limit,count-ms,lookup-mus,results" << endl;
