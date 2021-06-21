@@ -74,3 +74,6 @@ sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 ./run-docker.sh ingest beara      pre_fix_up 2>&1 | tee ingest-beara-pre_fix_up.log
 ./run-docker.sh ingest beara      fix_up     2>&1 | tee ingest-beara-fix_up.log
 ```
+
+Note: to join output of queries on split query files, use the `/utils/join-xyzt.sh` script of this project.
+

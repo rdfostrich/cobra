@@ -3,7 +3,7 @@
 #
 # Parameters
 #   $1: input directory (default: .)
-#   $2: output directory (will be created) (default: ./split)
+#   $2: output directory (will be created) (default: $1/split)
 #   $3: input file selection pattern (default: *.txt)
 
 INDIR=${1:-.}
