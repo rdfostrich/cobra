@@ -67,3 +67,8 @@ sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 ./run-docker.sh ingest-query bearb-hour 2>&1 | tee ingest-query-bearb-hour.log
 ./run-docker.sh ingest-query beara      2>&1 | tee ingest-query-beara.log
 ```
+
+## Copy the data to this repo
+
+We can copy the data on the server (donizetti) to this repo, in a subdirectory `Results/output` of the current folder
+using the bash script `./get-output.sh`.

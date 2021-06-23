@@ -77,3 +77,7 @@ sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 
 Note: to join output of queries on split query files, use the `/utils/join-xyzt.sh` script of this project.
 
+## Copy the data to this repo
+
+We can copy the data on the server (donizetti) to this repo, in a subdirectory `Results/output` of the current folder
+using the bash script `./get-output.sh`.
