@@ -1,0 +1,5 @@
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 89
+---QUERIES START: /var/queries/po.txt---
+---QUERIES END---

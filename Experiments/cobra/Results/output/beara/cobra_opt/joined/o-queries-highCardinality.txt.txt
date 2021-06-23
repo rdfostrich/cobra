@@ -1,0 +1,1350 @@
+---PATTERN START:   http://www.loa-cnr.it/ontologies/DUL.owl#Entity .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,31180,1092,0
+7,0,-2,8756,1046,0
+8,0,-2,9780,920,0
+9,0,-2,11324,682,0
+4,0,-2,34950,696,0
+3,0,-2,1203,673,0
+2,0,-2,2167,672,0
+1,0,-2,680,675,0
+0,0,-2,1167,694,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,1324,3305,66
+0,2,0,-2,1321,3299,68
+0,3,0,-2,1321,3300,68
+0,4,0,-2,1322,3323,67
+0,5,0,-2,662,3718,67
+0,6,0,-2,1720,5007,67
+0,7,0,-2,1702,5063,68
+0,8,0,-2,1568,5048,68
+0,9,0,-2,1331,5964,68
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,2257,279854,48
+---PATTERN START:   http://swrc.ontoware.org/ontology#Project .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,30810,10012,0
+7,0,-2,16473,8495,0
+8,0,-2,17929,7470,0
+9,0,-2,14919,1298,0
+4,0,-2,24161,6279,0
+3,0,-2,6331,7347,0
+2,0,-2,1429,2004,0
+1,0,-2,6337,6309,0
+0,0,-2,1158,6306,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,6351,21523,62
+0,2,0,-2,124,16439,158
+0,3,0,-2,6354,16419,141
+0,4,0,-2,6338,16421,115
+0,5,0,-2,64,20718,115
+0,6,0,-2,10099,33831,115
+0,7,0,-2,8556,30481,138
+0,8,0,-2,7523,30820,148
+0,9,0,-2,130,30743,158
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,14343,1833382,450
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/149 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,43549,16050,0
+7,0,-2,13558,4409,0
+8,0,-2,6082,2211,0
+9,0,-2,8759,117,0
+4,0,-2,46273,9620,0
+3,0,-2,1337,135,0
+2,0,-2,1293,123,0
+1,0,-2,1410,122,0
+0,0,-2,75,10720,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,128,32664,87
+0,2,0,-2,129,24660,203
+0,3,0,-2,127,24648,174
+0,4,0,-2,9719,24626,145
+0,5,0,-2,67,32804,145
+0,6,0,-2,16166,48753,145
+0,7,0,-2,4395,47595,203
+0,8,0,-2,2221,47609,203
+0,9,0,-2,130,47667,203
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,19191,3355982,696
+---PATTERN START:   http://xmlns.com/foaf/0.1/knows .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,5,0
+6,0,-2,23335,590,2
+7,0,-2,8205,637,2
+8,0,-2,4199,530,2
+9,0,-2,11596,485,1
+4,0,-2,20195,450,0
+3,0,-2,451,451,1
+2,0,-2,1165,454,2
+1,0,-2,454,453,2
+0,0,-2,1054,476,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,891,2488,59
+0,2,0,-2,888,2464,65
+0,3,0,-2,888,2462,63
+0,4,0,-2,886,2460,61
+0,5,0,-2,447,2565,63
+0,6,0,-2,1034,3478,62
+0,7,0,-2,988,3492,65
+0,8,0,-2,968,3489,64
+0,9,0,-2,922,3488,63
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,1538,186106,26
+---PATTERN START:   http://lod.geospecies.org/bioclasses/hzc3j .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,24564,563,0
+7,0,-2,3854,506,0
+8,0,-2,5676,458,0
+9,0,-2,5644,382,0
+4,0,-2,32873,392,0
+3,0,-2,392,387,0
+2,0,-2,391,387,0
+1,0,-2,388,387,0
+0,0,-2,6308,384,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,732,5819,81
+0,2,0,-2,734,2990,83
+0,3,0,-2,731,2990,82
+0,4,0,-2,731,2988,82
+0,5,0,-2,356,3110,82
+0,6,0,-2,920,3816,82
+0,7,0,-2,850,3800,83
+0,8,0,-2,788,3804,83
+0,9,0,-2,731,3807,83
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,1749,143328,24
+---PATTERN START:   http://d.opencalais.com/er/company/ralg-tr1r/4ee13d20-b44f-3bce-98bc-49a303e72db5 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,30782,6567,51
+7,0,-2,640,6659,51
+8,0,-2,1561,6588,56
+9,0,-2,1481,6570,59
+4,0,-2,34670,6472,0
+3,0,-2,25326,7341,53
+2,0,-2,2761,6522,56
+1,0,-2,214,6642,58
+0,0,-2,644,7782,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,163,22830,61
+0,2,0,-2,159,15206,171
+0,3,0,-2,159,16377,168
+0,4,0,-2,6819,15828,116
+0,5,0,-2,83,14911,119
+0,6,0,-2,6656,35585,111
+0,7,0,-2,159,29851,164
+0,8,0,-2,159,28079,173
+0,9,0,-2,160,30498,172
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,15822,1813407,433
+---PATTERN START:   http://www.salon.com/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,35857,7983,3
+7,0,-2,7968,7965,1
+8,0,-2,8000,7982,4
+9,0,-2,7994,8023,5
+4,0,-2,35976,5018,3
+3,0,-2,5069,5022,6
+2,0,-2,5038,5020,2
+1,0,-2,5056,5026,4
+0,0,-2,1208,5025,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5117,19589,53
+0,2,0,-2,5090,12289,51
+0,3,0,-2,5083,12264,55
+0,4,0,-2,5070,12336,52
+0,5,0,-2,68,16695,49
+0,6,0,-2,8033,25784,52
+0,7,0,-2,8064,25592,50
+0,8,0,-2,8031,25659,53
+0,9,0,-2,8049,25989,54
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,13351,505274,356
+---PATTERN START:   http://purl.org/net/nknouf/ns/bibtex#hasTitle .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,30249,8793,0
+7,0,-2,11531,7636,0
+8,0,-2,15131,6433,0
+9,0,-2,10568,5256,0
+4,0,-2,33641,5286,0
+3,0,-2,5318,5289,0
+2,0,-2,6438,5297,0
+1,0,-2,5323,5308,0
+0,0,-2,75,5321,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5381,21441,48
+0,2,0,-2,5377,13363,120
+0,3,0,-2,5375,13341,108
+0,4,0,-2,5361,13341,84
+0,5,0,-2,67,14419,84
+0,6,0,-2,8864,25245,84
+0,7,0,-2,7708,25330,120
+0,8,0,-2,6516,25347,120
+0,9,0,-2,5348,25358,120
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,12280,1247756,384
+---PATTERN START:   http://iandavis.com/id/me .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,22044,4854,2
+7,0,-2,9648,4657,7
+8,0,-2,11055,4224,14
+9,0,-2,13150,3802,14
+4,0,-2,24610,3883,18
+3,0,-2,3889,3870,18
+2,0,-2,3892,3884,18
+1,0,-2,3895,3869,14
+0,0,-2,75,3876,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3925,12843,70
+0,2,0,-2,3920,10404,122
+0,3,0,-2,3922,10408,116
+0,4,0,-2,3912,10375,98
+0,5,0,-2,66,11530,98
+0,6,0,-2,4937,18592,82
+0,7,0,-2,4733,18766,105
+0,8,0,-2,4287,18790,118
+0,9,0,-2,3856,18790,117
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,10820,520711,277
+---PATTERN START:   http://www.london-gazette.co.uk/styles/Print.css .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,20593,2295,3
+7,0,-2,4695,2286,0
+8,0,-2,7821,2161,0
+9,0,-2,7431,2253,7
+4,0,-2,28152,2466,0
+3,0,-2,3316,2464,0
+2,0,-2,2465,2461,10
+1,0,-2,2476,2463,13
+0,0,-2,1464,2471,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,2521,10291,35
+0,2,0,-2,2532,6699,80
+0,3,0,-2,2511,6714,102
+0,4,0,-2,2505,6738,97
+0,5,0,-2,68,6644,103
+0,6,0,-2,3926,10745,106
+0,7,0,-2,2269,10836,104
+0,8,0,-2,2207,10877,109
+0,9,0,-2,2314,10893,117
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,4452,377283,176
+---PATTERN START:   http://www.belfast-gazette.co.uk/styles/Print.css .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,17247,1010,0
+7,0,-2,5903,990,0
+8,0,-2,5626,1024,2
+9,0,-2,963,969,0
+4,0,-2,24693,1259,15
+3,0,-2,1252,1254,10
+2,0,-2,1252,1260,13
+1,0,-2,1256,1264,18
+0,0,-2,1256,1260,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,2473,7914,27
+0,2,0,-2,2466,4050,45
+0,3,0,-2,2464,4057,53
+0,4,0,-2,2472,4079,70
+0,5,0,-2,1242,8799,93
+0,6,0,-2,2223,10937,92
+0,7,0,-2,2203,6722,91
+0,8,0,-2,2248,6855,92
+0,9,0,-2,2185,6854,93
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,2058,163114,79
+---PATTERN START:   http://www.w3.org/2002/07/owl#sameAs .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,26780,5678,0
+7,0,-2,9470,4976,12
+8,0,-2,6699,4314,0
+9,0,-2,7847,3664,10
+4,0,-2,26339,3064,0
+3,0,-2,3087,3035,0
+2,0,-2,3068,3062,0
+1,0,-2,3069,3062,0
+0,0,-2,73,3059,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3105,10096,38
+0,2,0,-2,3113,8665,45
+0,3,0,-2,3131,7720,46
+0,4,0,-2,3132,7738,42
+0,5,0,-2,67,9414,45
+0,6,0,-2,5714,22381,40
+0,7,0,-2,5044,16876,60
+0,8,0,-2,4368,16880,44
+0,9,0,-2,3744,16940,58
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,6656,707667,237
+---PATTERN START:   http://www.biopax.org/release/biopax-level3.owl#PhysicalEntity .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,5,0
+6,0,-2,15013,3784,0
+7,0,-2,10352,3264,0
+8,0,-2,7603,2740,0
+9,0,-2,2706,2237,0
+4,0,-2,18933,2261,0
+3,0,-2,3424,2257,0
+2,0,-2,2276,2260,0
+1,0,-2,2271,2267,0
+0,0,-2,2286,2278,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4509,10391,42
+0,2,0,-2,4532,6225,70
+0,3,0,-2,4511,6224,63
+0,4,0,-2,4513,6243,56
+0,5,0,-2,2272,6979,56
+0,6,0,-2,6052,14845,56
+0,7,0,-2,5531,11797,70
+0,8,0,-2,5010,11779,70
+0,9,0,-2,4516,11797,70
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,4404,683793,168
+---PATTERN START:   http://www.bbc.co.uk/programmes/genres/drama/scifiandfantasy#genre .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,5,0
+6,0,-2,14783,1579,0
+7,0,-2,1557,1549,2
+8,0,-2,2793,1553,3
+9,0,-2,1560,1568,4
+4,0,-2,16836,1960,5
+3,0,-2,1957,1971,0
+2,0,-2,1962,1979,2
+1,0,-2,1959,1952,2
+0,0,-2,11367,1517,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3439,5934,58
+0,2,0,-2,3442,5104,58
+0,3,0,-2,3443,5104,53
+0,4,0,-2,3471,5106,61
+0,5,0,-2,1490,7295,56
+0,6,0,-2,3041,10203,54
+0,7,0,-2,3045,10346,58
+0,8,0,-2,3047,10387,59
+0,9,0,-2,3044,10376,60
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,2880,270096,110
+---PATTERN START:   http://creativecommons.org/ns#License .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,13809,1060,0
+7,0,-2,10640,940,0
+8,0,-2,6835,844,0
+9,0,-2,7912,712,0
+4,0,-2,24594,610,0
+3,0,-2,1972,607,1
+2,0,-2,618,625,0
+1,0,-2,1277,606,0
+0,0,-2,615,625,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,1198,6490,66
+0,2,0,-2,1203,3053,72
+0,3,0,-2,1200,3053,72
+0,4,0,-2,1201,3053,70
+0,5,0,-2,603,3241,70
+0,6,0,-2,1629,4707,65
+0,7,0,-2,1536,4720,70
+0,8,0,-2,1404,4725,71
+0,9,0,-2,2226,4743,69
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,1182,190640,42
+---PATTERN START:   http://www.gazettes-online.co.uk/ontology/planning#TownAndCountryPlanningNotice .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,19347,2670,0
+7,0,-2,3192,1595,0
+8,0,-2,1970,1538,0
+9,0,-2,2400,1565,2
+4,0,-2,16547,1896,0
+3,0,-2,1883,1893,0
+2,0,-2,1888,1872,1
+1,0,-2,1892,1878,3
+0,0,-2,77,1895,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,1964,10684,16
+0,2,0,-2,1961,5869,44
+0,3,0,-2,1952,5901,84
+0,4,0,-2,1949,5942,104
+0,5,0,-2,72,5949,137
+0,6,0,-2,2718,8950,135
+0,7,0,-2,1632,9000,126
+0,8,0,-2,1594,9035,131
+0,9,0,-2,1641,9134,138
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,3262,259467,127
+---PATTERN START:   http://www.esd.org.uk/standards/ipsv/2.00/ipsv-schema#PlanningTownAndCountry .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,25346,11741,0
+7,0,-2,12822,11753,0
+8,0,-2,11766,13294,0
+9,0,-2,11802,11746,2
+4,0,-2,38846,7112,0
+3,0,-2,7104,7135,0
+2,0,-2,7106,7107,2
+1,0,-2,7128,7110,3
+0,0,-2,76,7110,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7234,32828,71
+0,2,0,-2,7251,18265,70
+0,3,0,-2,7239,18260,63
+0,4,0,-2,7229,18255,57
+0,5,0,-2,68,37215,68
+0,6,0,-2,12996,40804,67
+0,7,0,-2,11887,39587,60
+0,8,0,-2,11921,39722,63
+0,9,0,-2,11932,39881,70
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,14191,1485864,521
+---PATTERN START:   http://www.loa-cnr.it/ontologies/DUL.owl#SocialObject .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,9763,2941,0
+7,0,-2,8160,2852,0
+8,0,-2,10106,2147,0
+9,0,-2,6120,1783,0
+4,0,-2,15117,1857,0
+3,0,-2,1860,1856,0
+2,0,-2,1859,1854,0
+1,0,-2,3193,1851,0
+0,0,-2,1855,1877,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3698,7659,49
+0,2,0,-2,3687,5424,57
+0,3,0,-2,3686,5424,57
+0,4,0,-2,3685,5417,53
+0,5,0,-2,1845,8401,53
+0,6,0,-2,4801,10164,53
+0,7,0,-2,4713,10178,57
+0,8,0,-2,4001,10217,57
+0,9,0,-2,3631,10209,57
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,3518,293469,136
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/210 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,25611,10880,0
+7,0,-2,4016,3100,0
+8,0,-2,3879,1597,0
+9,0,-2,2251,121,0
+4,0,-2,38465,6600,0
+3,0,-2,6608,6589,0
+2,0,-2,76,135,0
+1,0,-2,73,121,0
+0,0,-2,73,6614,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,126,24913,60
+0,2,0,-2,127,16748,140
+0,3,0,-2,6671,16716,120
+0,4,0,-2,6657,16697,100
+0,5,0,-2,66,26629,100
+0,6,0,-2,10958,33482,100
+0,7,0,-2,3096,32151,140
+0,8,0,-2,1600,32131,140
+0,9,0,-2,130,32187,140
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,12990,1713124,480
+---PATTERN START:   http://xmlns.com/wordnet/1.6/Airport .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,18572,2503,0
+7,0,-2,4863,2180,1
+8,0,-2,5038,1851,1
+9,0,-2,4991,1553,1
+4,0,-2,24219,1357,0
+3,0,-2,1358,1373,0
+2,0,-2,1361,1376,0
+1,0,-2,1360,1374,0
+0,0,-2,1358,1373,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,2691,5219,49
+0,2,0,-2,2695,4584,61
+0,3,0,-2,2690,4583,58
+0,4,0,-2,2695,4587,57
+0,5,0,-2,1352,4998,58
+0,6,0,-2,3849,8254,58
+0,7,0,-2,3518,8241,66
+0,8,0,-2,3191,8242,64
+0,9,0,-2,2895,8261,64
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,2768,458395,109
+---PATTERN START:   http://lod.geospecies.org/orders/W9XgY .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,9656,546,0
+7,0,-2,4532,493,0
+8,0,-2,2001,429,0
+9,0,-2,3470,367,0
+4,0,-2,12353,402,0
+3,0,-2,408,402,0
+2,0,-2,1424,406,0
+1,0,-2,423,404,0
+0,0,-2,12151,401,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,990,5392,85
+0,2,0,-2,769,3268,87
+0,3,0,-2,789,3282,87
+0,4,0,-2,767,3280,86
+0,5,0,-2,374,3405,86
+0,6,0,-2,915,4079,86
+0,7,0,-2,858,4079,87
+0,8,0,-2,794,4105,87
+0,9,0,-2,736,4085,87
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,616,103198,24
+---PATTERN START:   http://d.opencalais.com/er/company/ralg-tr1r/9e3f6c34-aa6b-3a3b-b221-a07aa7933633 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,5,0
+6,0,-2,30062,10129,0
+7,0,-2,85,10284,81
+8,0,-2,84,10121,84
+9,0,-2,83,10073,85
+4,0,-2,30128,9186,0
+3,0,-2,81,9390,78
+2,0,-2,1098,9661,81
+1,0,-2,82,9479,86
+0,0,-2,80,9358,4
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,141,27326,84
+0,2,0,-2,140,22638,246
+0,3,0,-2,143,22138,242
+0,4,0,-2,9440,22639,164
+0,5,0,-2,74,22503,168
+0,6,0,-2,9596,49389,168
+0,7,0,-2,144,42731,238
+0,8,0,-2,141,41532,234
+0,9,0,-2,143,42424,236
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,18621,1920029,623
+---PATTERN START:   http://purl.org/ontology/bibo/Proceedings .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,13877,2112,54
+7,0,-2,3658,2038,6
+8,0,-2,2056,2022,0
+9,0,-2,9087,1935,0
+4,0,-2,13967,274,0
+3,0,-2,279,275,0
+2,0,-2,280,276,0
+1,0,-2,702,303,0
+0,0,-2,278,298,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,537,4034,65
+0,2,0,-2,538,2813,89
+0,3,0,-2,535,2813,88
+0,4,0,-2,537,2815,88
+0,5,0,-2,270,2908,88
+0,6,0,-2,2336,7723,88
+0,7,0,-2,2317,6879,95
+0,8,0,-2,2265,6866,89
+0,9,0,-2,2216,6867,89
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,2068,78156,78
+---PATTERN START:   http://www.w3.org/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,21645,4687,2
+7,0,-2,5038,4106,0
+8,0,-2,5681,3548,0
+9,0,-2,7697,2951,0
+4,0,-2,17978,3635,0
+3,0,-2,3660,3638,1
+2,0,-2,3663,3635,1
+1,0,-2,3660,3634,1
+0,0,-2,77,3651,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3705,15415,63
+0,2,0,-2,3700,10093,67
+0,3,0,-2,3704,10091,66
+0,4,0,-2,3700,10089,63
+0,5,0,-2,68,12868,63
+0,6,0,-2,4752,19207,65
+0,7,0,-2,4159,19212,55
+0,8,0,-2,3595,19250,61
+0,9,0,-2,2994,19282,56
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,6484,527389,242
+---PATTERN START:   http://www.salon.com/favicon.ico .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,20400,8254,3
+7,0,-2,8276,8269,1
+8,0,-2,8303,8284,4
+9,0,-2,8306,8282,5
+4,0,-2,10939,5042,3
+3,0,-2,5056,5046,6
+2,0,-2,5067,5056,2
+1,0,-2,5064,5052,4
+0,0,-2,81,5055,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5131,14705,52
+0,2,0,-2,5124,12660,50
+0,3,0,-2,5118,12624,54
+0,4,0,-2,5114,12672,51
+0,5,0,-2,70,16964,48
+0,6,0,-2,8325,27281,51
+0,7,0,-2,8329,27184,49
+0,8,0,-2,8324,27199,52
+0,9,0,-2,8329,27371,53
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9989,19452,356
+---PATTERN START:   http://swrc.ontoware.org/ontology#Event .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,20919,5304,0
+7,0,-2,8962,4538,0
+8,0,-2,4028,3969,0
+9,0,-2,7396,3196,0
+4,0,-2,15651,3265,0
+3,0,-2,4532,3268,0
+2,0,-2,3285,3267,0
+1,0,-2,3283,3289,0
+0,0,-2,74,3288,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3335,15871,40
+0,2,0,-2,3340,8897,91
+0,3,0,-2,3338,8891,82
+0,4,0,-2,3332,8832,68
+0,5,0,-2,65,9677,68
+0,6,0,-2,5373,16523,68
+0,7,0,-2,4591,16555,81
+0,8,0,-2,4039,16654,86
+0,9,0,-2,3267,16606,91
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,6365,597722,241
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/258 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,45034,16712,0
+7,0,-2,10609,4700,0
+8,0,-2,8142,2398,0
+9,0,-2,3294,122,0
+4,0,-2,28215,10057,0
+3,0,-2,76,133,0
+2,0,-2,73,118,0
+1,0,-2,73,119,0
+0,0,-2,72,10032,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,126,35189,90
+0,2,0,-2,131,25276,210
+0,3,0,-2,126,25294,180
+0,4,0,-2,10204,25146,150
+0,5,0,-2,66,27730,150
+0,6,0,-2,16880,52848,150
+0,7,0,-2,4706,49913,210
+0,8,0,-2,2414,48917,210
+0,9,0,-2,131,48893,210
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,20032,2197713,720
+---PATTERN START:   http://www.w3.org/2002/07/owl#differentFrom .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,6529,260,0
+7,0,-2,262,261,0
+8,0,-2,261,260,0
+9,0,-2,269,261,1
+4,0,-2,10384,193,0
+3,0,-2,1624,194,0
+2,0,-2,203,194,0
+1,0,-2,1401,194,0
+0,0,-2,196,214,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,449,5621,85
+0,2,0,-2,373,2559,85
+0,3,0,-2,373,2565,85
+0,4,0,-2,373,2554,85
+0,5,0,-2,189,4508,85
+0,6,0,-2,440,4769,85
+0,7,0,-2,442,4771,85
+0,8,0,-2,439,4780,85
+0,9,0,-2,442,4809,86
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,268,9622,9
+---PATTERN START:   http://lod.geospecies.org/bioclasses/jSLVo .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,7674,568,0
+7,0,-2,563,506,0
+8,0,-2,484,446,0
+9,0,-2,427,386,0
+4,0,-2,11156,394,0
+3,0,-2,398,395,0
+2,0,-2,400,395,0
+1,0,-2,1423,396,0
+0,0,-2,9631,407,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,759,2905,61
+0,2,0,-2,751,2363,63
+0,3,0,-2,748,2361,62
+0,4,0,-2,751,2362,62
+0,5,0,-2,366,2493,62
+0,6,0,-2,921,3165,62
+0,7,0,-2,862,3173,63
+0,8,0,-2,801,3184,63
+0,9,0,-2,742,3173,63
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,621,7669,24
+---PATTERN START:   http://d.opencalais.com/er/company/ralg-tr1r/6fdbde51-fd7d-3efe-a181-56ad1e1f597b .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,24251,7281,0
+7,0,-2,103,7357,56
+8,0,-2,102,7390,60
+9,0,-2,100,7667,3
+4,0,-2,26027,7211,0
+3,0,-2,79,7255,58
+2,0,-2,1044,7406,57
+1,0,-2,82,7405,63
+0,0,-2,80,7373,2
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,138,27558,62
+0,2,0,-2,142,17303,183
+0,3,0,-2,141,18096,186
+0,4,0,-2,7418,16896,128
+0,5,0,-2,71,17201,129
+0,6,0,-2,7754,35915,125
+0,7,0,-2,165,31251,184
+0,8,0,-2,163,33591,180
+0,9,0,-2,145,32259,173
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,14398,1039556,470
+---PATTERN START:   http://purl.org/dc/elements/1.1/title .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,15361,686,1
+7,0,-2,4943,654,0
+8,0,-2,1001,608,1
+9,0,-2,3968,550,1
+4,0,-2,17980,391,1
+3,0,-2,388,388,1
+2,0,-2,389,387,1
+1,0,-2,388,410,0
+0,0,-2,387,410,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,750,2264,54
+0,2,0,-2,752,2266,60
+0,3,0,-2,751,2267,61
+0,4,0,-2,750,2283,60
+0,5,0,-2,377,2340,59
+0,6,0,-2,1053,3313,58
+0,7,0,-2,991,3320,56
+0,8,0,-2,970,3324,61
+0,9,0,-2,906,3327,60
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,789,112919,29
+---PATTERN START:   http://www.loa-cnr.it/ontologies/DUL.owl#Collection .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,6371,971,0
+7,0,-2,5913,675,0
+8,0,-2,1303,597,0
+9,0,-2,8409,481,0
+4,0,-2,20588,465,0
+3,0,-2,1256,466,0
+2,0,-2,474,474,0
+1,0,-2,485,466,0
+0,0,-2,468,493,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,924,2906,70
+0,2,0,-2,924,2873,74
+0,3,0,-2,934,2889,74
+0,4,0,-2,913,2880,72
+0,5,0,-2,459,3022,72
+0,6,0,-2,1170,3876,72
+0,7,0,-2,1137,3915,74
+0,8,0,-2,1047,3861,74
+0,9,0,-2,923,3868,74
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,810,65624,32
+---PATTERN START:   http://www.salon.com/feed/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,15617,8121,3
+7,0,-2,8139,8135,1
+8,0,-2,8231,8200,4
+9,0,-2,10046,8233,5
+4,0,-2,9194,4965,3
+3,0,-2,4908,4899,6
+2,0,-2,4905,4898,2
+1,0,-2,4926,4897,4
+0,0,-2,78,4893,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4958,16937,52
+0,2,0,-2,4955,12157,50
+0,3,0,-2,4959,12132,54
+0,4,0,-2,4961,12197,51
+0,5,0,-2,69,20747,48
+0,6,0,-2,8185,25783,51
+0,7,0,-2,8201,25706,49
+0,8,0,-2,8186,25794,52
+0,9,0,-2,8194,25876,53
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9770,19286,356
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/703 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,36650,14379,0
+7,0,-2,9960,4104,0
+8,0,-2,10667,2106,0
+9,0,-2,634,120,0
+4,0,-2,33093,8412,0
+3,0,-2,74,133,0
+2,0,-2,71,119,0
+1,0,-2,71,118,0
+0,0,-2,79,8429,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,125,25894,78
+0,2,0,-2,126,23165,182
+0,3,0,-2,130,21600,156
+0,4,0,-2,8525,21580,130
+0,5,0,-2,67,25423,130
+0,6,0,-2,14489,44330,130
+0,7,0,-2,4126,42032,182
+0,8,0,-2,2132,42999,182
+0,9,0,-2,141,42169,182
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,16835,1854963,624
+---PATTERN START:   http://www.w3.org/People/Berners-Lee/card#i .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,10021,818,1
+7,0,-2,3354,1063,0
+8,0,-2,2499,649,0
+9,0,-2,6004,585,0
+4,0,-2,14847,574,2
+3,0,-2,573,572,2
+2,0,-2,1650,571,2
+1,0,-2,573,569,2
+0,0,-2,567,586,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,1116,5520,71
+0,2,0,-2,1117,3115,75
+0,3,0,-2,1114,3114,75
+0,4,0,-2,1113,3121,73
+0,5,0,-2,564,3245,71
+0,6,0,-2,1369,4362,72
+0,7,0,-2,1284,4371,70
+0,8,0,-2,1198,4376,73
+0,9,0,-2,1116,4381,73
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,1000,129727,39
+---PATTERN START:   http://lod.geospecies.org/orders/oSLOJ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,5,0
+6,0,-2,4693,567,0
+7,0,-2,578,509,0
+8,0,-2,486,447,0
+9,0,-2,445,388,0
+4,0,-2,6686,426,0
+3,0,-2,442,415,0
+2,0,-2,417,414,0
+1,0,-2,416,424,0
+0,0,-2,419,420,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,784,2291,51
+0,2,0,-2,785,2259,53
+0,3,0,-2,784,2276,53
+0,4,0,-2,784,2264,52
+0,5,0,-2,382,2386,52
+0,6,0,-2,953,3043,52
+0,7,0,-2,892,3055,53
+0,8,0,-2,829,3046,53
+0,9,0,-2,773,3059,53
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,653,18770,24
+---PATTERN START:   http://d.opencalais.com/er/company/ralg-tr1r/eab9bfaa-47f1-368a-a9b7-a87bb345cf30 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,14486,6792,0
+7,0,-2,106,7029,50
+8,0,-2,961,138,0
+9,0,-2,101,6613,59
+4,0,-2,19984,6612,0
+3,0,-2,148,7023,0
+2,0,-2,7181,145,0
+1,0,-2,154,6591,58
+0,0,-2,123,6944,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,245,22454,55
+0,2,0,-2,168,15876,170
+0,3,0,-2,234,15790,172
+0,4,0,-2,6664,14951,116
+0,5,0,-2,97,15681,118
+0,6,0,-2,6991,32243,112
+0,7,0,-2,186,27926,167
+0,8,0,-2,168,29942,172
+0,9,0,-2,189,29498,168
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,12777,839464,427
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/203 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,36125,13025,0
+7,0,-2,11627,3696,0
+8,0,-2,11900,2397,0
+9,0,-2,7736,135,0
+4,0,-2,22494,7543,0
+3,0,-2,7571,7533,0
+2,0,-2,81,143,0
+1,0,-2,78,129,0
+0,0,-2,78,7619,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,137,27679,63
+0,2,0,-2,138,21326,147
+0,3,0,-2,7665,19685,126
+0,4,0,-2,7675,19609,105
+0,5,0,-2,72,22424,105
+0,6,0,-2,13189,38695,105
+0,7,0,-2,3696,38838,147
+0,8,0,-2,1887,39763,147
+0,9,0,-2,153,38916,147
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,15202,1463938,504
+---PATTERN START:   http://lod.geospecies.org/bioclasses/uRKSz .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,7463,570,0
+7,0,-2,565,509,0
+8,0,-2,481,447,0
+9,0,-2,420,380,0
+4,0,-2,5823,393,0
+3,0,-2,391,397,0
+2,0,-2,396,392,0
+1,0,-2,395,392,0
+0,0,-2,10261,392,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,741,2892,78
+0,2,0,-2,745,2892,80
+0,3,0,-2,744,2894,79
+0,4,0,-2,744,2890,79
+0,5,0,-2,362,3030,79
+0,6,0,-2,924,3705,79
+0,7,0,-2,863,3714,80
+0,8,0,-2,797,3710,80
+0,9,0,-2,735,3711,80
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,611,8439,24
+---PATTERN START:   http://www.w3.org/ns/auth/rsa#RSAPublicKey .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,8515,3344,2
+7,0,-2,7822,2906,1
+8,0,-2,6838,2465,3
+9,0,-2,7940,2068,0
+4,0,-2,14443,2475,2
+3,0,-2,2474,2479,3
+2,0,-2,2488,2495,0
+1,0,-2,2475,2493,0
+0,0,-2,2467,2493,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4953,10086,50
+0,2,0,-2,4924,6606,54
+0,3,0,-2,4933,6624,63
+0,4,0,-2,4920,6630,62
+0,5,0,-2,2463,7372,64
+0,6,0,-2,5806,11648,64
+0,7,0,-2,5356,11664,68
+0,8,0,-2,4913,11699,70
+0,9,0,-2,4514,11709,62
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,4401,515230,154
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/613 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,5,0
+6,0,-2,19112,12146,0
+7,0,-2,6770,3316,0
+8,0,-2,4374,1681,0
+9,0,-2,113,117,0
+4,0,-2,14367,6877,0
+3,0,-2,6834,6882,0
+2,0,-2,73,133,0
+1,0,-2,72,117,0
+0,0,-2,73,6905,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,126,21959,63
+0,2,0,-2,127,17318,147
+0,3,0,-2,6907,17296,126
+0,4,0,-2,6880,17289,105
+0,5,0,-2,66,26904,105
+0,6,0,-2,12149,35854,105
+0,7,0,-2,3312,34546,147
+0,8,0,-2,1691,34559,147
+0,9,0,-2,129,34616,147
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,14080,1357985,504
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/612 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,22484,12165,0
+7,0,-2,5384,3456,0
+8,0,-2,4958,1773,0
+9,0,-2,2686,122,0
+4,0,-2,20787,7105,0
+3,0,-2,7150,7103,0
+2,0,-2,1427,137,0
+1,0,-2,74,123,0
+0,0,-2,76,7136,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,132,21895,66
+0,2,0,-2,142,18370,154
+0,3,0,-2,7252,18335,132
+0,4,0,-2,7245,18315,110
+0,5,0,-2,69,20326,110
+0,6,0,-2,12320,37498,110
+0,7,0,-2,3479,35714,154
+0,8,0,-2,1788,35716,154
+0,9,0,-2,136,35779,154
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,15292,1493084,528
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/104 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,30548,13815,0
+7,0,-2,11556,3963,0
+8,0,-2,5533,2025,0
+9,0,-2,4869,121,0
+4,0,-2,20365,8138,0
+3,0,-2,77,138,0
+2,0,-2,74,122,0
+1,0,-2,76,122,0
+0,0,-2,75,8164,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,131,27004,75
+0,2,0,-2,132,20964,175
+0,3,0,-2,131,20955,150
+0,4,0,-2,8232,20927,125
+0,5,0,-2,69,24013,125
+0,6,0,-2,13887,42613,125
+0,7,0,-2,3971,41651,175
+0,8,0,-2,2040,41688,175
+0,9,0,-2,133,41667,175
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,16392,1532294,600
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/233 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,25189,10712,0
+7,0,-2,11745,9308,0
+8,0,-2,12427,7762,0
+9,0,-2,11123,6291,0
+4,0,-2,20549,7958,0
+3,0,-2,6326,6296,0
+2,0,-2,7300,6303,0
+1,0,-2,6329,6297,0
+0,0,-2,76,6340,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,6383,21677,57
+0,2,0,-2,6386,16113,133
+0,3,0,-2,6373,16084,114
+0,4,0,-2,6366,16105,95
+0,5,0,-2,70,23697,95
+0,6,0,-2,10805,33030,95
+0,7,0,-2,9343,31663,133
+0,8,0,-2,7850,32691,133
+0,9,0,-2,6421,31709,133
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,12571,1116991,456
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/213 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,31639,12081,0
+7,0,-2,12449,3331,0
+8,0,-2,3355,1698,0
+9,0,-2,1788,119,0
+4,0,-2,30244,7132,0
+3,0,-2,8145,7137,0
+2,0,-2,75,134,0
+1,0,-2,74,118,0
+0,0,-2,73,7150,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,127,22349,66
+0,2,0,-2,128,18483,154
+0,3,0,-2,7197,18460,132
+0,4,0,-2,7185,18453,110
+0,5,0,-2,67,22131,110
+0,6,0,-2,12119,37188,110
+0,7,0,-2,3327,35969,154
+0,8,0,-2,1707,35948,154
+0,9,0,-2,130,35985,154
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,14287,1196028,528
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/287 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,24132,9478,0
+7,0,-2,11280,8244,0
+8,0,-2,14299,8106,0
+9,0,-2,16020,5824,0
+4,0,-2,16254,5570,0
+3,0,-2,5627,5591,0
+2,0,-2,5664,5580,0
+1,0,-2,5636,5581,0
+0,0,-2,77,5623,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5664,19644,51
+0,2,0,-2,5658,14249,119
+0,3,0,-2,5657,14213,102
+0,4,0,-2,5675,14209,85
+0,5,0,-2,70,16264,85
+0,6,0,-2,9558,28053,85
+0,7,0,-2,8368,28196,119
+0,8,0,-2,7126,28157,119
+0,9,0,-2,5934,28179,119
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,11399,794001,408
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/359 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,28201,11472,0
+7,0,-2,6642,3252,0
+8,0,-2,3023,1667,0
+9,0,-2,128,120,0
+4,0,-2,21799,6883,0
+3,0,-2,6885,6911,0
+2,0,-2,73,131,0
+1,0,-2,72,119,0
+0,0,-2,72,6914,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,125,23643,63
+0,2,0,-2,125,17362,147
+0,3,0,-2,6956,17357,126
+0,4,0,-2,6954,17324,105
+0,5,0,-2,65,18902,105
+0,6,0,-2,11576,37285,105
+0,7,0,-2,3250,33615,147
+0,8,0,-2,1675,33642,147
+0,9,0,-2,129,33617,147
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,13627,894053,504
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/296 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,20082,10011,0
+7,0,-2,13520,8581,0
+8,0,-2,11975,7181,0
+9,0,-2,6233,5792,0
+4,0,-2,26138,5947,0
+3,0,-2,5971,7716,0
+2,0,-2,6042,6012,0
+1,0,-2,6066,6033,0
+0,0,-2,74,6038,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,6095,21454,54
+0,2,0,-2,6041,14921,126
+0,3,0,-2,6034,14892,108
+0,4,0,-2,6024,14885,90
+0,5,0,-2,65,19357,90
+0,6,0,-2,10085,29818,90
+0,7,0,-2,8686,29412,126
+0,8,0,-2,7270,29414,126
+0,9,0,-2,6846,29454,126
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,11715,956288,432
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/236 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,31085,12944,0
+7,0,-2,10846,3752,0
+8,0,-2,1909,1902,0
+9,0,-2,3766,121,0
+4,0,-2,22579,7691,0
+3,0,-2,7754,7689,0
+2,0,-2,78,137,0
+1,0,-2,76,121,0
+0,0,-2,77,7720,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,132,23294,69
+0,2,0,-2,1800,19548,161
+0,3,0,-2,7810,19506,138
+0,4,0,-2,7839,19422,115
+0,5,0,-2,69,21980,115
+0,6,0,-2,13035,38158,115
+0,7,0,-2,3748,38348,161
+0,8,0,-2,1912,38345,161
+0,9,0,-2,134,39317,161
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,15168,1050757,552
+---PATTERN START:   http://aigp.csres.utexas.edu/~aigp/school/show/106 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,19154,10497,0
+7,0,-2,11198,9030,0
+8,0,-2,10243,7584,0
+9,0,-2,12297,6180,0
+4,0,-2,17806,6410,0
+3,0,-2,6475,6480,0
+2,0,-2,6475,6421,0
+1,0,-2,6456,6477,0
+0,0,-2,75,6471,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,6558,16015,57
+0,2,0,-2,6509,16070,133
+0,3,0,-2,6501,16025,114
+0,4,0,-2,6482,16041,95
+0,5,0,-2,68,17692,95
+0,6,0,-2,10572,30746,95
+0,7,0,-2,9139,30868,133
+0,8,0,-2,7666,30875,133
+0,9,0,-2,6273,30906,133
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,12574,1189169,456

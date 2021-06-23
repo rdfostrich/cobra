@@ -1,0 +1,2 @@
+<Queries>,<mean_time>,<total>
+13,1.002,13.026

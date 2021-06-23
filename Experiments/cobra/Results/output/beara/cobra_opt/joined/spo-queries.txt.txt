@@ -1,0 +1,1350 @@
+---PATTERN START: http://www.bbc.co.uk/nature/life/Vogelkop_Bowerbird#species http://purl.org/ontology/wo/adaptation http://www.bbc.co.uk/nature/adaptations/Hearing_(sense)#adaptation .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,11456,85,0
+7,0,-2,86,87,0
+8,0,-2,86,84,0
+9,0,-2,86,84,0
+4,0,-2,13806,111,0
+3,0,-2,118,111,0
+2,0,-2,113,110,0
+1,0,-2,114,111,0
+0,0,-2,89,111,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,184,127,1
+0,2,0,-2,189,128,1
+0,3,0,-2,189,127,1
+0,4,0,-2,186,127,1
+0,5,0,-2,82,127,1
+0,6,0,-2,163,196,1
+0,7,0,-2,159,195,1
+0,8,0,-2,159,196,1
+0,9,0,-2,159,195,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,89,85,0
+---PATTERN START: http://identi.ca/user/299172 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://xmlns.com/foaf/0.1/Agent .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,6814,87,0
+7,0,-2,92,87,0
+8,0,-2,89,86,0
+9,0,-2,88,86,0
+4,0,-2,19451,98,0
+3,0,-2,99,95,0
+2,0,-2,97,95,0
+1,0,-2,97,95,0
+0,0,-2,80,103,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,159,112,1
+0,2,0,-2,158,111,1
+0,3,0,-2,159,116,1
+0,4,0,-2,160,115,1
+0,5,0,-2,74,113,1
+0,6,0,-2,154,184,1
+0,7,0,-2,153,181,1
+0,8,0,-2,153,180,1
+0,9,0,-2,153,178,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,90,85,0
+---PATTERN START: http://identi.ca/user/11272 http://xmlns.com/foaf/0.1/account http://identi.ca/user/11272#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,11473,82,0
+7,0,-2,85,82,0
+8,0,-2,83,82,0
+9,0,-2,84,82,0
+4,0,-2,2383,100,0
+3,0,-2,99,97,0
+2,0,-2,98,96,0
+1,0,-2,98,96,0
+0,0,-2,82,102,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,160,109,1
+0,2,0,-2,159,110,1
+0,3,0,-2,162,111,1
+0,4,0,-2,161,111,1
+0,5,0,-2,74,109,1
+0,6,0,-2,149,176,1
+0,7,0,-2,145,176,1
+0,8,0,-2,145,175,1
+0,9,0,-2,146,175,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,85,89,0
+---PATTERN START: http://identi.ca/varuolo/foaf http://xmlns.com/foaf/0.1/maker http://identi.ca/user/6849 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,6,0
+6,0,-2,8841,85,0
+7,0,-2,87,84,0
+8,0,-2,85,83,0
+9,0,-2,85,84,0
+4,0,-2,14844,92,0
+3,0,-2,96,93,0
+2,0,-2,96,93,0
+1,0,-2,98,93,0
+0,0,-2,82,100,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,158,108,1
+0,2,0,-2,157,109,1
+0,3,0,-2,158,108,1
+0,4,0,-2,157,107,1
+0,5,0,-2,74,107,1
+0,6,0,-2,152,174,1
+0,7,0,-2,147,173,1
+0,8,0,-2,149,175,1
+0,9,0,-2,147,174,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,87,83,0
+---PATTERN START: http://identi.ca/user/65822 http://xmlns.com/foaf/0.1/account http://identi.ca/user/65822#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,11763,79,0
+7,0,-2,83,79,0
+8,0,-2,82,79,0
+9,0,-2,81,79,0
+4,0,-2,13171,97,0
+3,0,-2,100,97,0
+2,0,-2,99,100,0
+1,0,-2,99,97,0
+0,0,-2,84,99,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,162,112,1
+0,2,0,-2,164,112,1
+0,3,0,-2,164,112,1
+0,4,0,-2,163,111,1
+0,5,0,-2,77,110,1
+0,6,0,-2,148,176,1
+0,7,0,-2,145,177,1
+0,8,0,-2,146,175,1
+0,9,0,-2,145,175,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,86,83,0
+---PATTERN START: http://eprints.ecs.soton.ac.uk/id/document/8580 http://eprints.org/relation/hasVolatileVersion http://eprints.ecs.soton.ac.uk/id/document/22818 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,7469,87,0
+7,0,-2,88,86,0
+8,0,-2,88,89,0
+9,0,-2,88,86,0
+4,0,-2,11606,105,0
+3,0,-2,111,105,0
+2,0,-2,112,110,0
+1,0,-2,107,105,0
+0,0,-2,86,111,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,177,124,1
+0,2,0,-2,176,124,1
+0,3,0,-2,177,123,1
+0,4,0,-2,176,124,1
+0,5,0,-2,80,123,1
+0,6,0,-2,161,193,1
+0,7,0,-2,158,193,1
+0,8,0,-2,157,201,1
+0,9,0,-2,167,192,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,89,87,0
+---PATTERN START: http://identi.ca/emilio/foaf http://xmlns.com/foaf/0.1/maker http://identi.ca/user/13127 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,3129,83,0
+7,0,-2,85,83,0
+8,0,-2,85,83,0
+9,0,-2,88,88,0
+4,0,-2,14917,97,0
+3,0,-2,102,96,0
+2,0,-2,98,113,0
+1,0,-2,98,96,0
+0,0,-2,81,102,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,161,110,1
+0,2,0,-2,159,109,1
+0,3,0,-2,160,110,1
+0,4,0,-2,159,109,1
+0,5,0,-2,73,109,1
+0,6,0,-2,150,176,1
+0,7,0,-2,148,175,1
+0,8,0,-2,147,175,1
+0,9,0,-2,147,177,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,84,81,0
+---PATTERN START: http://data.linkedmdb.org/resource/director/10474 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://xmlns.com/foaf/0.1/Person .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,13829,83,0
+7,0,-2,84,82,0
+8,0,-2,86,82,0
+9,0,-2,87,82,0
+4,0,-2,10757,96,0
+3,0,-2,100,99,0
+2,0,-2,98,95,0
+1,0,-2,97,96,0
+0,0,-2,81,97,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,161,110,1
+0,2,0,-2,161,108,1
+0,3,0,-2,162,109,1
+0,4,0,-2,161,109,1
+0,5,0,-2,74,107,1
+0,6,0,-2,149,175,1
+0,7,0,-2,149,173,1
+0,8,0,-2,150,173,1
+0,9,0,-2,149,174,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,90,83,0
+---PATTERN START: http://example.org/bnode/httpx3Ax2Fx2Fwwwx2Elegislationx2Egovx2Eukx2Fukpgax2F1985x2F67x2Fsectionx2F67xxdocument11 http://www.metalex.eu/metalex/2008-05-02#realizes http://www.legislation.gov.uk/id/ukpga/1985/67 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,6,0
+6,0,-2,10027,89,0
+7,0,-2,91,89,0
+8,0,-2,91,89,0
+9,0,-2,95,89,0
+4,0,-2,7458,86,0
+3,0,-2,89,87,0
+2,0,-2,90,91,0
+1,0,-2,89,87,0
+0,0,-2,90,89,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,163,72,0
+0,2,0,-2,163,71,0
+0,3,0,-2,161,72,0
+0,4,0,-2,164,71,0
+0,5,0,-2,84,71,0
+0,6,0,-2,170,144,0
+0,7,0,-2,165,143,0
+0,8,0,-2,163,144,0
+0,9,0,-2,164,141,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,95,90,0
+---PATTERN START: http://identi.ca/user/375840 http://xmlns.com/foaf/0.1/knows http://identi.ca/user/82035 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,11713,86,0
+7,0,-2,88,86,0
+8,0,-2,87,85,0
+9,0,-2,87,85,0
+4,0,-2,13109,118,0
+3,0,-2,121,118,0
+2,0,-2,119,117,0
+1,0,-2,122,118,0
+0,0,-2,94,113,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,195,132,1
+0,2,0,-2,198,132,1
+0,3,0,-2,196,132,1
+0,4,0,-2,196,131,1
+0,5,0,-2,87,131,1
+0,6,0,-2,166,201,1
+0,7,0,-2,165,201,1
+0,8,0,-2,163,201,1
+0,9,0,-2,165,200,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,91,88,0
+---PATTERN START: http://example.org/bnode/httpx3Ax2Fx2Fx78irclesx2Ecodehausx2Eorgx2Fusersx2Fscryanx2Ffoafxxbnode139 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://xmlns.com/foaf/0.1/Person .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,191,91,0
+7,0,-2,92,90,0
+8,0,-2,92,90,0
+9,0,-2,92,90,0
+4,0,-2,175,87,0
+3,0,-2,92,91,0
+2,0,-2,90,88,0
+1,0,-2,89,88,0
+0,0,-2,92,92,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,170,75,0
+0,2,0,-2,163,71,0
+0,3,0,-2,163,72,0
+0,4,0,-2,163,71,0
+0,5,0,-2,84,71,0
+0,6,0,-2,171,144,0
+0,7,0,-2,169,143,0
+0,8,0,-2,166,144,0
+0,9,0,-2,166,146,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,94,91,0
+---PATTERN START: http://identi.ca/user/374059#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/300865#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,174,82,0
+7,0,-2,84,81,0
+8,0,-2,111,81,0
+9,0,-2,85,82,0
+4,0,-2,7346,107,0
+3,0,-2,112,111,0
+2,0,-2,109,107,0
+1,0,-2,110,107,0
+0,0,-2,90,107,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,181,123,1
+0,2,0,-2,180,123,1
+0,3,0,-2,180,123,1
+0,4,0,-2,181,123,1
+0,5,0,-2,83,122,1
+0,6,0,-2,158,191,1
+0,7,0,-2,156,188,1
+0,8,0,-2,156,189,1
+0,9,0,-2,157,189,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,89,85,0
+---PATTERN START: http://identi.ca/user/291584#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/48404#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,3371,86,0
+7,0,-2,88,85,0
+8,0,-2,87,85,0
+9,0,-2,87,85,0
+4,0,-2,9013,110,0
+3,0,-2,112,110,0
+2,0,-2,111,110,0
+1,0,-2,112,111,0
+0,0,-2,88,105,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,180,123,1
+0,2,0,-2,181,123,1
+0,3,0,-2,180,121,1
+0,4,0,-2,180,122,1
+0,5,0,-2,80,123,1
+0,6,0,-2,158,190,1
+0,7,0,-2,157,190,1
+0,8,0,-2,157,189,1
+0,9,0,-2,156,191,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,86,84,0
+---PATTERN START: http://lod.geospecies.org/orders/D8gSC http://www.w3.org/2004/02/skos/core#narrowerTransitive http://lod.geospecies.org/families/tel4y .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,8056,88,0
+7,0,-2,90,91,0
+8,0,-2,89,87,0
+9,0,-2,89,89,0
+4,0,-2,18434,121,0
+3,0,-2,126,124,0
+2,0,-2,123,120,0
+1,0,-2,122,121,0
+0,0,-2,95,120,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,200,143,1
+0,2,0,-2,199,142,1
+0,3,0,-2,201,142,1
+0,4,0,-2,198,142,1
+0,5,0,-2,87,142,1
+0,6,0,-2,169,213,1
+0,7,0,-2,166,212,1
+0,8,0,-2,167,211,1
+0,9,0,-2,166,212,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,93,88,0
+---PATTERN START: http://www.advogato.org/person/strlen/foaf.rdf#me http://xmlns.com/foaf/0.1/knows http://www.advogato.org/person/rms/foaf.rdf#me .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,2678,100,0
+7,0,-2,95,80,0
+8,0,-2,82,80,0
+9,0,-2,82,80,0
+4,0,-2,10430,118,0
+3,0,-2,123,117,0
+2,0,-2,120,118,0
+1,0,-2,119,117,0
+0,0,-2,94,143,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,272,182,1
+0,2,0,-2,274,181,1
+0,3,0,-2,271,180,1
+0,4,0,-2,274,181,1
+0,5,0,-2,120,180,1
+0,6,0,-2,208,193,1
+0,7,0,-2,156,192,1
+0,8,0,-2,156,194,1
+0,9,0,-2,156,192,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,85,81,0
+---PATTERN START: http://www.ebusiness-unibw.org/ontologies/eclass/5.1.4/#C_AKH240002-tax http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.w3.org/2002/07/owl#Class .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,6,0
+6,0,-2,8180,95,0
+7,0,-2,99,95,0
+8,0,-2,96,95,0
+9,0,-2,99,95,0
+4,0,-2,13250,101,0
+3,0,-2,107,101,0
+2,0,-2,103,101,0
+1,0,-2,104,102,0
+0,0,-2,86,104,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,172,119,1
+0,2,0,-2,171,118,1
+0,3,0,-2,171,118,1
+0,4,0,-2,171,117,1
+0,5,0,-2,78,116,1
+0,6,0,-2,169,196,1
+0,7,0,-2,165,194,1
+0,8,0,-2,165,196,1
+0,9,0,-2,165,193,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,97,93,0
+---PATTERN START: http://identi.ca/user/11256 http://xmlns.com/foaf/0.1/knows http://identi.ca/user/160 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,6,0
+6,0,-2,201,102,0
+7,0,-2,104,102,0
+8,0,-2,104,105,0
+9,0,-2,104,102,0
+4,0,-2,197,110,0
+3,0,-2,112,112,0
+2,0,-2,111,109,0
+1,0,-2,112,110,0
+0,0,-2,88,106,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,182,126,1
+0,2,0,-2,182,125,1
+0,3,0,-2,182,127,1
+0,4,0,-2,183,126,1
+0,5,0,-2,81,125,1
+0,6,0,-2,176,208,1
+0,7,0,-2,175,206,1
+0,8,0,-2,178,208,1
+0,9,0,-2,175,206,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,90,87,0
+---PATTERN START: http://identi.ca/mattcen/foaf http://xmlns.com/foaf/0.1/maker http://identi.ca/user/68167 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,10924,83,0
+7,0,-2,85,87,0
+8,0,-2,84,82,0
+9,0,-2,84,82,0
+4,0,-2,6275,102,0
+3,0,-2,105,102,0
+2,0,-2,103,105,0
+1,0,-2,104,102,0
+0,0,-2,84,103,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,170,113,1
+0,2,0,-2,171,113,1
+0,3,0,-2,170,113,1
+0,4,0,-2,169,113,1
+0,5,0,-2,79,111,1
+0,6,0,-2,153,179,1
+0,7,0,-2,150,179,1
+0,8,0,-2,150,178,1
+0,9,0,-2,151,178,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,86,83,0
+---PATTERN START: http://lod.geospecies.org/orders/uySxe.rdf http://xmlns.com/foaf/0.1/primaryTopic http://lod.geospecies.org/orders/uySxe .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,9152,90,0
+7,0,-2,92,89,0
+8,0,-2,91,89,0
+9,0,-2,90,89,0
+4,0,-2,9028,101,0
+3,0,-2,103,101,0
+2,0,-2,102,101,0
+1,0,-2,107,102,0
+0,0,-2,86,106,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,175,125,1
+0,2,0,-2,167,118,1
+0,3,0,-2,167,116,1
+0,4,0,-2,167,116,1
+0,5,0,-2,77,116,1
+0,6,0,-2,159,187,1
+0,7,0,-2,156,186,1
+0,8,0,-2,158,187,1
+0,9,0,-2,156,186,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,95,92,0
+---PATTERN START: http://identi.ca/user/16938#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/3081#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,10168,100,0
+7,0,-2,105,103,0
+8,0,-2,102,99,0
+9,0,-2,101,99,0
+4,0,-2,13356,121,0
+3,0,-2,124,121,0
+2,0,-2,123,125,0
+1,0,-2,123,122,0
+0,0,-2,95,113,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,198,139,1
+0,2,0,-2,199,137,1
+0,3,0,-2,199,138,1
+0,4,0,-2,199,137,1
+0,5,0,-2,87,136,1
+0,6,0,-2,180,221,1
+0,7,0,-2,177,221,1
+0,8,0,-2,177,221,1
+0,9,0,-2,178,220,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,98,96,0
+---PATTERN START: http://example.org/bnode/httpx3Ax2Fx2Flegislationx2Edatax2Egovx2Eukx2Fukpgax2F1985x2F67x2Fdatax2Erdfxxdocument58 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.metalex.eu/metalex/2008-05-02#BibliographicExpression .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,187,90,0
+7,0,-2,101,91,0
+8,0,-2,91,89,0
+9,0,-2,91,89,0
+4,0,-2,170,85,0
+3,0,-2,103,86,0
+2,0,-2,89,87,0
+1,0,-2,90,87,0
+0,0,-2,90,89,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,177,72,0
+0,2,0,-2,162,71,0
+0,3,0,-2,162,71,0
+0,4,0,-2,166,72,0
+0,5,0,-2,85,71,0
+0,6,0,-2,170,145,0
+0,7,0,-2,165,144,0
+0,8,0,-2,165,144,0
+0,9,0,-2,164,142,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,95,92,0
+---PATTERN START: http://www.legislation.gov.uk/id/ukpga/1985/67 http://www.metalex.eu/metalex/2008-05-02#realizedBy http://example.org/bnode/httpx3Ax2Fx2Fwwwx2Elegislationx2Egovx2Eukx2Fukpgax2F1985x2F67x2Fsectionx2F123xxdocument18 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,2975,102,0
+7,0,-2,107,102,0
+8,0,-2,1174,103,0
+9,0,-2,106,103,0
+4,0,-2,22908,125,0
+3,0,-2,127,124,0
+2,0,-2,126,124,0
+1,0,-2,130,124,0
+0,0,-2,126,124,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,232,101,0
+0,2,0,-2,233,100,0
+0,3,0,-2,233,100,0
+0,4,0,-2,234,100,0
+0,5,0,-2,119,100,0
+0,6,0,-2,212,180,0
+0,7,0,-2,213,179,0
+0,8,0,-2,211,179,0
+0,9,0,-2,211,184,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,106,104,0
+---PATTERN START: http://www.ebusiness-unibw.org/ontologies/eclass/5.1.4/#C_AKH593002-tax http://www.w3.org/2000/01/rdf-schema#subClassOf http://www.ebusiness-unibw.org/ontologies/eclass/5.1.4/#C_AKH590002-tax .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,7,0
+6,0,-2,199,95,0
+7,0,-2,99,95,0
+8,0,-2,97,94,0
+9,0,-2,96,97,0
+4,0,-2,6370,97,0
+3,0,-2,101,98,0
+2,0,-2,100,98,0
+1,0,-2,102,100,0
+0,0,-2,87,102,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,166,114,1
+0,2,0,-2,166,113,1
+0,3,0,-2,167,112,1
+0,4,0,-2,166,113,1
+0,5,0,-2,76,112,1
+0,6,0,-2,168,192,1
+0,7,0,-2,162,191,1
+0,8,0,-2,163,192,1
+0,9,0,-2,162,190,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,97,93,0
+---PATTERN START: http://identi.ca/user/499245#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/123306#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,6,0
+6,0,-2,4731,89,0
+7,0,-2,91,89,0
+8,0,-2,89,87,0
+9,0,-2,1919,88,0
+4,0,-2,6425,112,0
+3,0,-2,113,111,0
+2,0,-2,116,111,0
+1,0,-2,113,111,0
+0,0,-2,92,108,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,182,128,1
+0,2,0,-2,184,126,1
+0,3,0,-2,182,126,1
+0,4,0,-2,184,126,1
+0,5,0,-2,83,125,1
+0,6,0,-2,162,196,1
+0,7,0,-2,160,194,1
+0,8,0,-2,159,194,1
+0,9,0,-2,161,194,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,87,83,0
+---PATTERN START: http://www.ebusiness-unibw.org/ontologies/eclass/5.1.4/#C_BAF294001-gen http://www.w3.org/2000/01/rdf-schema#subClassOf http://www.ebusiness-unibw.org/ontologies/eclass/5.1.4/#C_BAF294001-tax .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,5,0
+6,0,-2,194,95,0
+7,0,-2,98,95,0
+8,0,-2,97,95,0
+9,0,-2,97,96,0
+4,0,-2,5819,97,0
+3,0,-2,100,97,0
+2,0,-2,99,97,0
+1,0,-2,100,101,0
+0,0,-2,84,102,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,165,113,1
+0,2,0,-2,165,114,1
+0,3,0,-2,166,112,1
+0,4,0,-2,165,112,1
+0,5,0,-2,76,111,1
+0,6,0,-2,169,191,1
+0,7,0,-2,163,189,1
+0,8,0,-2,164,190,1
+0,9,0,-2,164,189,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,99,93,0
+---PATTERN START: http://identi.ca/user/92720 http://xmlns.com/foaf/0.1/knows http://identi.ca/user/329561 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,6587,129,0
+7,0,-2,135,130,0
+8,0,-2,132,129,0
+9,0,-2,131,129,0
+4,0,-2,5271,135,0
+3,0,-2,138,138,0
+2,0,-2,138,135,0
+1,0,-2,137,136,0
+0,0,-2,112,2727,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,230,161,1
+0,2,0,-2,232,161,1
+0,3,0,-2,230,160,1
+0,4,0,-2,231,161,1
+0,5,0,-2,103,160,1
+0,6,0,-2,225,267,1
+0,7,0,-2,224,265,1
+0,8,0,-2,224,266,1
+0,9,0,-2,223,266,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,127,123,0
+---PATTERN START: http://identi.ca/user/4522#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/217258#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,5726,82,0
+7,0,-2,84,81,0
+8,0,-2,83,81,0
+9,0,-2,83,81,0
+4,0,-2,9256,123,0
+3,0,-2,126,123,0
+2,0,-2,125,126,0
+1,0,-2,125,122,0
+0,0,-2,97,113,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,203,141,1
+0,2,0,-2,204,140,1
+0,3,0,-2,204,140,1
+0,4,0,-2,206,139,1
+0,5,0,-2,90,138,1
+0,6,0,-2,165,205,1
+0,7,0,-2,162,202,1
+0,8,0,-2,162,203,1
+0,9,0,-2,162,203,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,86,82,0
+---PATTERN START: http://identi.ca/user/39669 http://xmlns.com/foaf/0.1/knows http://identi.ca/user/74 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,9928,83,0
+7,0,-2,86,84,0
+8,0,-2,88,84,0
+9,0,-2,85,82,0
+4,0,-2,5848,99,0
+3,0,-2,101,102,0
+2,0,-2,100,98,0
+1,0,-2,100,98,0
+0,0,-2,80,101,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,166,114,1
+0,2,0,-2,164,113,1
+0,3,0,-2,165,113,1
+0,4,0,-2,165,113,1
+0,5,0,-2,75,113,1
+0,6,0,-2,151,180,1
+0,7,0,-2,150,179,1
+0,8,0,-2,148,179,1
+0,9,0,-2,148,180,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,83,79,0
+---PATTERN START: http://xircles.codehaus.org/users/xagnetti/foaf#me http://xmlns.com/foaf/0.1/knows http://example.org/bnode/httpx3Ax2Fx2Fx78irclesx2Ecodehausx2Eorgx2Fusersx2Fx78agnettix2Ffoafxxbnode64 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,5,0
+6,0,-2,10994,86,0
+7,0,-2,88,86,0
+8,0,-2,90,87,0
+9,0,-2,88,86,0
+4,0,-2,26176,96,0
+3,0,-2,99,96,0
+2,0,-2,98,96,0
+1,0,-2,98,96,0
+0,0,-2,100,98,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,180,77,0
+0,2,0,-2,178,80,0
+0,3,0,-2,190,77,0
+0,4,0,-2,180,76,0
+0,5,0,-2,92,76,0
+0,6,0,-2,171,146,0
+0,7,0,-2,168,145,0
+0,8,0,-2,167,144,0
+0,9,0,-2,168,144,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,98,90,0
+---PATTERN START: http://www.uniprot.org/taxonomy/41016 http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://rdf.geospecies.org/ont/geospecies#UniprotTaxon .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,6,0
+6,0,-2,10186,83,0
+7,0,-2,86,82,0
+8,0,-2,84,82,0
+9,0,-2,84,82,0
+4,0,-2,4896,95,0
+3,0,-2,98,95,0
+2,0,-2,96,94,0
+1,0,-2,97,94,0
+0,0,-2,84,102,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,158,110,1
+0,2,0,-2,158,110,1
+0,3,0,-2,159,111,1
+0,4,0,-2,158,110,1
+0,5,0,-2,74,109,1
+0,6,0,-2,148,175,1
+0,7,0,-2,147,175,1
+0,8,0,-2,146,174,1
+0,9,0,-2,146,175,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,85,82,0
+---PATTERN START: http://identi.ca/user/55697#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/5850#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,6,0
+6,0,-2,6429,87,0
+7,0,-2,89,87,0
+8,0,-2,93,87,0
+9,0,-2,91,87,0
+4,0,-2,13922,135,0
+3,0,-2,141,135,0
+2,0,-2,138,135,0
+1,0,-2,137,135,0
+0,0,-2,110,126,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,228,152,1
+0,2,0,-2,230,150,1
+0,3,0,-2,229,151,1
+0,4,0,-2,231,151,1
+0,5,0,-2,102,150,1
+0,6,0,-2,182,219,1
+0,7,0,-2,180,217,1
+0,8,0,-2,180,218,1
+0,9,0,-2,181,218,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,90,87,0
+---PATTERN START: http://legislation.data.gov.uk/ukpga/1985/67/section/45/england/data.htm http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.metalex.eu/metalex/2008-05-02#BibliographicManifestation .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,12459,83,0
+7,0,-2,85,83,0
+8,0,-2,85,83,0
+9,0,-2,86,83,0
+4,0,-2,18021,105,0
+3,0,-2,107,104,0
+2,0,-2,107,108,0
+1,0,-2,110,106,0
+0,0,-2,90,108,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,178,121,1
+0,2,0,-2,179,120,1
+0,3,0,-2,177,120,1
+0,4,0,-2,177,122,1
+0,5,0,-2,82,118,1
+0,6,0,-2,157,185,1
+0,7,0,-2,155,186,1
+0,8,0,-2,154,186,1
+0,9,0,-2,156,185,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,93,86,0
+---PATTERN START: http://identi.ca/user/42646 http://xmlns.com/foaf/0.1/account http://identi.ca/user/42646#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,11105,79,0
+7,0,-2,82,79,0
+8,0,-2,84,79,0
+9,0,-2,82,79,0
+4,0,-2,4722,97,0
+3,0,-2,99,97,0
+2,0,-2,98,96,0
+1,0,-2,101,96,0
+0,0,-2,81,99,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,160,108,1
+0,2,0,-2,160,109,1
+0,3,0,-2,161,108,1
+0,4,0,-2,160,108,1
+0,5,0,-2,73,107,1
+0,6,0,-2,147,172,1
+0,7,0,-2,144,171,1
+0,8,0,-2,143,173,1
+0,9,0,-2,143,172,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,82,79,0
+---PATTERN START: http://identi.ca/user/77141#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/64841#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,4375,96,0
+7,0,-2,99,99,0
+8,0,-2,98,96,0
+9,0,-2,101,97,0
+4,0,-2,10967,133,0
+3,0,-2,136,134,0
+2,0,-2,135,137,0
+1,0,-2,135,134,0
+0,0,-2,105,121,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,217,142,1
+0,2,0,-2,220,140,1
+0,3,0,-2,216,141,1
+0,4,0,-2,216,140,1
+0,5,0,-2,95,139,1
+0,6,0,-2,182,215,1
+0,7,0,-2,178,214,1
+0,8,0,-2,179,214,1
+0,9,0,-2,179,214,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,98,92,0
+---PATTERN START: http://trust.mindswap.org/cgi-bin/FilmTrust/foaf.cgi?user=TechTalk#tt0038650-TechTalk http://www.purl.org/stuff/rev#reviewer http://trust.mindswap.org/cgi-bin/FilmTrust/foaf.cgi?user=TechTalk#TechTalk .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,9925,83,0
+7,0,-2,88,86,0
+8,0,-2,85,83,0
+9,0,-2,85,82,0
+4,0,-2,14500,103,0
+3,0,-2,105,105,0
+2,0,-2,105,102,0
+1,0,-2,105,102,0
+0,0,-2,87,107,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,172,117,1
+0,2,0,-2,170,117,1
+0,3,0,-2,170,116,1
+0,4,0,-2,170,116,1
+0,5,0,-2,78,115,1
+0,6,0,-2,153,180,1
+0,7,0,-2,154,178,1
+0,8,0,-2,151,178,1
+0,9,0,-2,151,179,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,90,86,0
+---PATTERN START: http://identi.ca/user/41706#acct http://xmlns.com/foaf/0.1/accountServiceHomepage http://identi.ca/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,8724,79,0
+7,0,-2,81,79,0
+8,0,-2,82,79,0
+9,0,-2,81,83,0
+4,0,-2,4450,97,0
+3,0,-2,99,97,0
+2,0,-2,102,97,0
+1,0,-2,101,97,0
+0,0,-2,82,99,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,161,111,1
+0,2,0,-2,162,109,1
+0,3,0,-2,161,109,1
+0,4,0,-2,161,110,1
+0,5,0,-2,74,108,1
+0,6,0,-2,147,172,1
+0,7,0,-2,143,172,1
+0,8,0,-2,143,172,1
+0,9,0,-2,143,171,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,387,80,0
+---PATTERN START: http://liblists.sussex.ac.uk/people/DC8EE8AB-EACC-223B-E519-226091271237.rdf http://purl.org/dc/terms/hasFormat http://liblists.sussex.ac.uk/people/DC8EE8AB-EACC-223B-E519-226091271237.html .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,7212,83,0
+7,0,-2,86,83,0
+8,0,-2,85,83,0
+9,0,-2,85,83,0
+4,0,-2,14054,94,0
+3,0,-2,95,94,0
+2,0,-2,95,96,0
+1,0,-2,94,93,0
+0,0,-2,80,98,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,155,108,1
+0,2,0,-2,157,108,1
+0,3,0,-2,156,108,1
+0,4,0,-2,155,107,1
+0,5,0,-2,72,108,1
+0,6,0,-2,148,172,1
+0,7,0,-2,146,172,1
+0,8,0,-2,147,171,1
+0,9,0,-2,146,173,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,83,79,0
+---PATTERN START: http://lod.gesis.org/thesoz/concept/10041105 http://www.w3.org/2008/05/skos-xl#prefLabel http://lod.gesis.org/thesoz/term/10041105-fr .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,7807,84,0
+7,0,-2,83,83,0
+8,0,-2,87,84,0
+9,0,-2,86,87,0
+4,0,-2,5560,101,0
+3,0,-2,103,104,0
+2,0,-2,103,100,0
+1,0,-2,103,101,0
+0,0,-2,83,102,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,168,114,1
+0,2,0,-2,167,113,1
+0,3,0,-2,167,114,1
+0,4,0,-2,170,113,1
+0,5,0,-2,77,113,1
+0,6,0,-2,152,177,1
+0,7,0,-2,149,175,1
+0,8,0,-2,149,175,1
+0,9,0,-2,148,178,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,83,81,0
+---PATTERN START: http://identi.ca/user/1565 http://xmlns.com/foaf/0.1/knows http://identi.ca/user/1203 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,7690,84,0
+7,0,-2,86,84,0
+8,0,-2,86,84,0
+9,0,-2,88,84,0
+4,0,-2,5095,117,0
+3,0,-2,119,119,0
+2,0,-2,119,117,0
+1,0,-2,118,116,0
+0,0,-2,92,112,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,193,133,1
+0,2,0,-2,192,132,1
+0,3,0,-2,192,134,1
+0,4,0,-2,192,133,1
+0,5,0,-2,85,132,1
+0,6,0,-2,162,199,1
+0,7,0,-2,160,198,1
+0,8,0,-2,159,199,1
+0,9,0,-2,159,197,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,87,81,0
+---PATTERN START: http://edgarwrap.ontologycentral.com/vocab/us-gaap-2011-01-31#ContractTerminationClaimsDescription http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.w3.org/2004/02/skos/core#Concept .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,7418,85,0
+7,0,-2,87,84,0
+8,0,-2,88,83,0
+9,0,-2,85,83,0
+4,0,-2,10481,99,0
+3,0,-2,104,98,0
+2,0,-2,100,97,0
+1,0,-2,99,98,0
+0,0,-2,83,101,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,165,110,1
+0,2,0,-2,164,109,1
+0,3,0,-2,165,112,1
+0,4,0,-2,169,117,1
+0,5,0,-2,78,115,1
+0,6,0,-2,156,183,1
+0,7,0,-2,152,182,1
+0,8,0,-2,151,181,1
+0,9,0,-2,154,182,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,88,85,0
+---PATTERN START: http://estatwrap.ontologycentral.com/dic/geo#CH02 http://www.w3.org/2002/07/owl#sameAs http://nuts.psi.enakting.org/id/CH02 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,5786,79,0
+7,0,-2,81,81,0
+8,0,-2,82,78,0
+9,0,-2,81,79,0
+4,0,-2,15125,99,0
+3,0,-2,104,99,0
+2,0,-2,101,99,0
+1,0,-2,106,100,0
+0,0,-2,84,102,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,168,115,1
+0,2,0,-2,170,113,1
+0,3,0,-2,170,113,1
+0,4,0,-2,169,113,1
+0,5,0,-2,78,114,1
+0,6,0,-2,149,177,1
+0,7,0,-2,144,176,1
+0,8,0,-2,146,176,1
+0,9,0,-2,146,175,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,87,84,0
+---PATTERN START: http://identi.ca/xfasafer/foaf http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://xmlns.com/foaf/0.1/PersonalProfileDocument .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,3413,82,0
+7,0,-2,84,82,0
+8,0,-2,84,82,0
+9,0,-2,84,82,0
+4,0,-2,12323,93,0
+3,0,-2,95,92,0
+2,0,-2,96,94,0
+1,0,-2,95,98,0
+0,0,-2,81,99,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,156,107,1
+0,2,0,-2,156,106,1
+0,3,0,-2,159,106,1
+0,4,0,-2,156,106,1
+0,5,0,-2,72,105,1
+0,6,0,-2,148,171,1
+0,7,0,-2,145,169,1
+0,8,0,-2,144,171,1
+0,9,0,-2,144,169,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,84,80,0
+---PATTERN START: http://identi.ca/user/233847 http://xmlns.com/foaf/0.1/knows http://identi.ca/user/260560 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,7556,81,0
+7,0,-2,84,81,0
+8,0,-2,89,82,0
+9,0,-2,84,81,0
+4,0,-2,4365,112,0
+3,0,-2,117,111,0
+2,0,-2,113,111,0
+1,0,-2,113,111,0
+0,0,-2,93,111,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,187,130,1
+0,2,0,-2,187,129,1
+0,3,0,-2,188,129,1
+0,4,0,-2,186,130,1
+0,5,0,-2,85,129,1
+0,6,0,-2,161,193,1
+0,7,0,-2,158,192,1
+0,8,0,-2,159,193,1
+0,9,0,-2,157,192,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,88,83,0
+---PATTERN START: http://identi.ca/thewhite/foaf http://xmlns.com/foaf/0.1/primaryTopic http://identi.ca/user/240198 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,3806,81,0
+7,0,-2,84,80,0
+8,0,-2,82,80,0
+9,0,-2,83,83,0
+4,0,-2,8678,98,0
+3,0,-2,104,98,0
+2,0,-2,100,98,0
+1,0,-2,100,98,0
+0,0,-2,85,105,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,169,114,1
+0,2,0,-2,167,114,1
+0,3,0,-2,168,115,1
+0,4,0,-2,167,113,1
+0,5,0,-2,77,113,1
+0,6,0,-2,151,181,1
+0,7,0,-2,149,178,1
+0,8,0,-2,149,179,1
+0,9,0,-2,150,180,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,87,84,0
+---PATTERN START: http://identi.ca/user/3239#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/245165#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,6052,134,0
+7,0,-2,139,135,0
+8,0,-2,136,137,0
+9,0,-2,136,134,0
+4,0,-2,9774,122,0
+3,0,-2,124,124,0
+2,0,-2,124,121,0
+1,0,-2,123,121,0
+0,0,-2,95,112,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,261,177,1
+0,2,0,-2,265,176,1
+0,3,0,-2,265,176,1
+0,4,0,-2,269,176,1
+0,5,0,-2,118,176,1
+0,6,0,-2,287,274,1
+0,7,0,-2,214,243,1
+0,8,0,-2,214,240,1
+0,9,0,-2,213,242,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,113,110,0
+---PATTERN START: http://identi.ca/besttoy/foaf http://xmlns.com/foaf/0.1/maker http://identi.ca/user/316280 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,11,6,0
+6,0,-2,7193,84,0
+7,0,-2,86,84,0
+8,0,-2,86,84,0
+9,0,-2,86,84,0
+4,0,-2,7646,93,0
+3,0,-2,95,104,0
+2,0,-2,100,92,0
+1,0,-2,99,94,0
+0,0,-2,81,99,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,157,110,1
+0,2,0,-2,157,111,1
+0,3,0,-2,157,109,1
+0,4,0,-2,157,109,1
+0,5,0,-2,72,110,1
+0,6,0,-2,151,176,1
+0,7,0,-2,148,174,1
+0,8,0,-2,149,176,1
+0,9,0,-2,148,174,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,81,79,0
+---PATTERN START: http://trust.mindswap.org/cgi-bin/FilmTrust/foaf.cgi?user=seshat6#seshat6 http://xmlns.com/foaf/spec/made http://trust.mindswap.org/cgi-bin/FilmTrust/foaf.cgi?user=seshat6#tt0120907-seshat6 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,11598,88,0
+7,0,-2,87,84,0
+8,0,-2,86,84,0
+9,0,-2,87,84,0
+4,0,-2,13635,138,0
+3,0,-2,149,135,0
+2,0,-2,137,134,0
+1,0,-2,141,136,0
+0,0,-2,105,124,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,220,146,1
+0,2,0,-2,221,145,1
+0,3,0,-2,219,145,1
+0,4,0,-2,218,146,1
+0,5,0,-2,96,144,1
+0,6,0,-2,173,211,1
+0,7,0,-2,172,210,1
+0,8,0,-2,171,211,1
+0,9,0,-2,172,211,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,94,89,0
+---PATTERN START: http://www.legislation.gov.uk/ukpga/1985/67/england http://www.metalex.eu/metalex/2008-05-02#variant http://www.legislation.gov.uk/ukpga/1985/67/2001-08-01 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,10505,81,0
+7,0,-2,85,81,0
+8,0,-2,85,81,0
+9,0,-2,83,89,0
+4,0,-2,11604,131,0
+3,0,-2,133,130,0
+2,0,-2,144,130,0
+1,0,-2,134,131,0
+0,0,-2,104,128,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,220,153,1
+0,2,0,-2,219,151,1
+0,3,0,-2,219,151,1
+0,4,0,-2,227,153,1
+0,5,0,-2,97,153,1
+0,6,0,-2,179,219,1
+0,7,0,-2,168,216,1
+0,8,0,-2,168,218,1
+0,9,0,-2,168,221,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,99,89,0
+---PATTERN START: http://identi.ca/user/115802#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/33697#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,5,0
+6,0,-2,8749,81,0
+7,0,-2,83,81,0
+8,0,-2,83,84,0
+9,0,-2,83,81,0
+4,0,-2,6622,124,0
+3,0,-2,127,126,0
+2,0,-2,126,124,0
+1,0,-2,126,124,0
+0,0,-2,97,113,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,204,138,1
+0,2,0,-2,204,138,1
+0,3,0,-2,206,150,1
+0,4,0,-2,211,138,1
+0,5,0,-2,90,148,1
+0,6,0,-2,166,202,1
+0,7,0,-2,162,201,1
+0,8,0,-2,163,202,1
+0,9,0,-2,162,201,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,83,81,0
+---PATTERN START: http://identi.ca/user/413169#acct http://rdfs.org/sioc/ns#follows http://identi.ca/user/31996#acct .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,10,6,0
+6,0,-2,2341,89,0
+7,0,-2,91,89,0
+8,0,-2,91,92,0
+9,0,-2,90,88,0
+4,0,-2,11599,118,0
+3,0,-2,123,118,0
+2,0,-2,119,118,0
+1,0,-2,118,117,0
+0,0,-2,93,112,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,194,130,1
+0,2,0,-2,195,129,1
+0,3,0,-2,195,129,1
+0,4,0,-2,194,129,1
+0,5,0,-2,86,129,1
+0,6,0,-2,169,199,1
+0,7,0,-2,166,198,1
+0,8,0,-2,168,199,1
+0,9,0,-2,167,198,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,92,87,0

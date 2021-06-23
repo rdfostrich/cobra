@@ -1,0 +1,1350 @@
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/3470   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,683,589,0
+7,0,-2,589,587,0
+8,0,-2,589,588,0
+9,0,-2,589,589,0
+4,0,-2,497,439,0
+3,0,-2,435,436,0
+2,0,-2,436,434,0
+1,0,-2,436,434,0
+0,0,-2,396,422,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,824,954,6
+0,2,0,-2,823,954,6
+0,3,0,-2,824,953,6
+0,4,0,-2,822,951,6
+0,5,0,-2,394,1257,6
+0,6,0,-2,978,1972,6
+0,7,0,-2,979,1965,6
+0,8,0,-2,978,1971,6
+0,9,0,-2,978,1977,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,706,1337,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.html?_metadata=all,views,formats,execution,bindings&_view=publicationViewer   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,499,426,0
+7,0,-2,428,426,0
+8,0,-2,432,425,0
+9,0,-2,424,415,0
+4,0,-2,446,367,0
+3,0,-2,373,368,0
+2,0,-2,376,369,0
+1,0,-2,371,368,0
+0,0,-2,290,314,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,648,863,8
+0,2,0,-2,674,859,8
+0,3,0,-2,670,859,8
+0,4,0,-2,670,858,8
+0,5,0,-2,293,1087,8
+0,6,0,-2,728,1599,8
+0,7,0,-2,711,1603,8
+0,8,0,-2,709,1618,8
+0,9,0,-2,705,1615,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,511,967,16
+---PATTERN START: http://berrueta.net/main/about-me-and-this-site#twitterAccount   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,494,414,0
+7,0,-2,425,414,0
+8,0,-2,418,414,0
+9,0,-2,418,414,0
+4,0,-2,342,275,0
+3,0,-2,280,276,0
+2,0,-2,278,277,0
+1,0,-2,278,275,0
+0,0,-2,278,299,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,546,644,5
+0,2,0,-2,545,644,5
+0,3,0,-2,546,643,5
+0,4,0,-2,545,645,5
+0,5,0,-2,275,894,5
+0,6,0,-2,686,1396,5
+0,7,0,-2,687,1388,5
+0,8,0,-2,686,1395,5
+0,9,0,-2,691,1401,5
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,482,904,16
+---PATTERN START: http://dublincore.org   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,12723,412,0
+7,0,-2,381,376,0
+8,0,-2,340,337,0
+9,0,-2,301,299,0
+4,0,-2,8242,359,0
+3,0,-2,354,351,3
+2,0,-2,355,350,2
+1,0,-2,372,349,2
+0,0,-2,297,318,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,639,1291,8
+0,2,0,-2,645,860,12
+0,3,0,-2,643,858,12
+0,4,0,-2,642,856,12
+0,5,0,-2,296,845,12
+0,6,0,-2,708,1359,12
+0,7,0,-2,668,1373,14
+0,8,0,-2,626,1373,14
+0,9,0,-2,593,1375,14
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,515,976,18
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/103   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3939,772,0
+7,0,-2,810,802,0
+8,0,-2,571,463,0
+9,0,-2,406,403,0
+4,0,-2,1711,447,0
+3,0,-2,454,451,3
+2,0,-2,453,451,3
+1,0,-2,451,451,3
+0,0,-2,397,420,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,841,1002,7
+0,2,0,-2,841,1009,13
+0,3,0,-2,843,1008,13
+0,4,0,-2,842,1005,10
+0,5,0,-2,396,987,10
+0,6,0,-2,990,1708,10
+0,7,0,-2,920,1704,13
+0,8,0,-2,859,1707,13
+0,9,0,-2,795,1705,13
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,723,1340,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.html?_metadata=all,views,formats,execution,bindings&_view=all   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,503,435,0
+7,0,-2,434,436,0
+8,0,-2,434,437,0
+9,0,-2,429,421,0
+4,0,-2,5011,381,0
+3,0,-2,388,400,0
+2,0,-2,400,397,0
+1,0,-2,400,396,0
+0,0,-2,308,332,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,694,883,8
+0,2,0,-2,699,882,8
+0,3,0,-2,691,880,8
+0,4,0,-2,692,880,8
+0,5,0,-2,305,1105,8
+0,6,0,-2,746,2494,8
+0,7,0,-2,726,1619,8
+0,8,0,-2,717,1619,8
+0,9,0,-2,748,1628,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,504,970,16
+---PATTERN START: http://berrueta.net/main/about-me-and-this-site#slideshareAccount   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,507,428,0
+7,0,-2,413,430,0
+8,0,-2,412,413,0
+9,0,-2,413,413,0
+4,0,-2,340,279,0
+3,0,-2,280,278,0
+2,0,-2,281,285,0
+1,0,-2,279,281,0
+0,0,-2,278,301,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,551,4256,5
+0,2,0,-2,553,639,5
+0,3,0,-2,553,639,5
+0,4,0,-2,551,637,5
+0,5,0,-2,299,890,5
+0,6,0,-2,685,1376,5
+0,7,0,-2,686,1384,5
+0,8,0,-2,688,1409,5
+0,9,0,-2,689,1391,5
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,481,894,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/535   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,707,643,0
+7,0,-2,622,616,0
+8,0,-2,623,618,0
+9,0,-2,622,617,0
+4,0,-2,500,424,0
+3,0,-2,427,424,0
+2,0,-2,426,424,0
+1,0,-2,426,424,0
+0,0,-2,386,413,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,804,985,6
+0,2,0,-2,807,971,6
+0,3,0,-2,806,972,6
+0,4,0,-2,807,970,6
+0,5,0,-2,386,1286,6
+0,6,0,-2,1001,2035,6
+0,7,0,-2,1002,2037,6
+0,8,0,-2,1002,2042,6
+0,9,0,-2,1002,2047,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,706,1344,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.xml?_metadata=all,views,formats,execution,bindings&_view=all   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9303,421,0
+7,0,-2,422,420,0
+8,0,-2,419,420,0
+9,0,-2,422,420,0
+4,0,-2,5643,364,0
+3,0,-2,370,365,0
+2,0,-2,369,366,0
+1,0,-2,367,364,0
+0,0,-2,289,311,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,648,833,8
+0,2,0,-2,644,851,8
+0,3,0,-2,681,853,8
+0,4,0,-2,678,856,8
+0,5,0,-2,295,1079,8
+0,6,0,-2,733,1579,8
+0,7,0,-2,705,1584,8
+0,8,0,-2,706,1590,8
+0,9,0,-2,707,1601,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,490,954,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/2261   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,5062,630,0
+7,0,-2,2052,633,0
+8,0,-2,634,631,0
+9,0,-2,633,631,0
+4,0,-2,3499,446,0
+3,0,-2,449,447,0
+2,0,-2,448,446,0
+1,0,-2,447,449,0
+0,0,-2,410,422,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,831,7373,7
+0,2,0,-2,832,1011,7
+0,3,0,-2,830,1015,7
+0,4,0,-2,833,1015,7
+0,5,0,-2,389,1331,7
+0,6,0,-2,1016,2095,7
+0,7,0,-2,1016,2089,7
+0,8,0,-2,1016,2096,7
+0,9,0,-2,1016,2101,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,715,1347,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.xml?_metadata=all,views,formats,execution,bindings&_view=resourceViewer   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,502,435,0
+7,0,-2,432,432,0
+8,0,-2,437,423,0
+9,0,-2,427,421,0
+4,0,-2,3130,373,0
+3,0,-2,376,372,0
+2,0,-2,374,371,0
+1,0,-2,374,369,0
+0,0,-2,289,309,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,654,867,8
+0,2,0,-2,650,855,8
+0,3,0,-2,640,854,8
+0,4,0,-2,640,854,8
+0,5,0,-2,281,1071,8
+0,6,0,-2,695,1607,8
+0,7,0,-2,712,1609,8
+0,8,0,-2,712,1621,8
+0,9,0,-2,708,1625,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,503,973,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/4345   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,2467,579,0
+7,0,-2,599,578,0
+8,0,-2,582,579,0
+9,0,-2,582,578,0
+4,0,-2,2834,443,0
+3,0,-2,447,444,0
+2,0,-2,446,443,0
+1,0,-2,445,443,0
+0,0,-2,407,435,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,843,961,5
+0,2,0,-2,843,962,5
+0,3,0,-2,845,961,5
+0,4,0,-2,845,963,5
+0,5,0,-2,406,2991,5
+0,6,0,-2,981,1943,5
+0,7,0,-2,980,1946,5
+0,8,0,-2,980,1951,5
+0,9,0,-2,980,1958,5
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,711,1341,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.json?_metadata=all,views,formats,execution,bindings&_view=resourceViewer   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7697,439,0
+7,0,-2,440,437,0
+8,0,-2,443,449,0
+9,0,-2,455,446,0
+4,0,-2,450,370,0
+3,0,-2,381,380,0
+2,0,-2,375,371,0
+1,0,-2,374,371,0
+0,0,-2,284,307,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,646,4856,8
+0,2,0,-2,687,887,8
+0,3,0,-2,667,888,8
+0,4,0,-2,682,882,8
+0,5,0,-2,289,1126,8
+0,6,0,-2,740,1632,8
+0,7,0,-2,714,1634,8
+0,8,0,-2,718,1644,8
+0,9,0,-2,719,1645,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,517,1012,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/2532   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,687,584,0
+7,0,-2,586,584,0
+8,0,-2,588,586,0
+9,0,-2,588,585,0
+4,0,-2,521,451,0
+3,0,-2,454,444,0
+2,0,-2,447,444,0
+1,0,-2,446,444,0
+0,0,-2,390,415,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,831,1001,6
+0,2,0,-2,830,1003,6
+0,3,0,-2,832,1007,6
+0,4,0,-2,832,1002,6
+0,5,0,-2,390,1297,6
+0,6,0,-2,972,2001,6
+0,7,0,-2,972,2028,6
+0,8,0,-2,974,2020,6
+0,9,0,-2,973,2023,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,714,1343,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.json?_metadata=all,views,formats,execution,bindings&_view=all   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,494,420,0
+7,0,-2,420,421,0
+8,0,-2,421,420,0
+9,0,-2,418,412,0
+4,0,-2,433,359,0
+3,0,-2,362,359,0
+2,0,-2,359,358,0
+1,0,-2,358,358,0
+0,0,-2,279,301,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,625,2138,8
+0,2,0,-2,669,841,8
+0,3,0,-2,651,839,8
+0,4,0,-2,650,838,8
+0,5,0,-2,282,1067,8
+0,6,0,-2,711,1570,8
+0,7,0,-2,696,1564,8
+0,8,0,-2,696,1575,8
+0,9,0,-2,697,1576,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,492,949,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/928   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,669,594,0
+7,0,-2,597,597,0
+8,0,-2,599,595,0
+9,0,-2,597,596,0
+4,0,-2,517,446,0
+3,0,-2,450,446,0
+2,0,-2,450,447,0
+1,0,-2,449,447,0
+0,0,-2,389,413,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,830,2589,6
+0,2,0,-2,834,992,6
+0,3,0,-2,832,993,6
+0,4,0,-2,831,992,6
+0,5,0,-2,388,1283,6
+0,6,0,-2,980,2000,6
+0,7,0,-2,982,1998,6
+0,8,0,-2,987,1999,6
+0,9,0,-2,980,2009,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,706,1342,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.html?_metadata=all,views,formats,execution,bindings&_view=resourceViewer   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,481,402,0
+7,0,-2,407,402,0
+8,0,-2,400,397,0
+9,0,-2,412,412,0
+4,0,-2,446,367,0
+3,0,-2,372,367,0
+2,0,-2,370,367,0
+1,0,-2,368,367,0
+0,0,-2,287,312,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,646,849,8
+0,2,0,-2,648,828,8
+0,3,0,-2,636,822,8
+0,4,0,-2,635,823,8
+0,5,0,-2,280,1044,8
+0,6,0,-2,668,1540,8
+0,7,0,-2,699,1549,8
+0,8,0,-2,683,1556,8
+0,9,0,-2,685,1573,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,481,943,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/677   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3179,605,0
+7,0,-2,607,605,0
+8,0,-2,605,605,0
+9,0,-2,606,611,0
+4,0,-2,503,419,0
+3,0,-2,420,418,0
+2,0,-2,419,418,0
+1,0,-2,419,418,0
+0,0,-2,385,413,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,806,2193,5
+0,2,0,-2,802,945,5
+0,3,0,-2,801,945,5
+0,4,0,-2,801,944,5
+0,5,0,-2,386,1227,5
+0,6,0,-2,987,1951,5
+0,7,0,-2,987,1979,5
+0,8,0,-2,987,1960,5
+0,9,0,-2,988,1965,5
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,730,1361,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.json?_metadata=all,views,formats,execution,bindings&_view=publicationViewer   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,504,433,0
+7,0,-2,434,443,0
+8,0,-2,430,432,0
+9,0,-2,425,422,0
+4,0,-2,432,357,0
+3,0,-2,358,358,0
+2,0,-2,357,357,0
+1,0,-2,357,356,0
+0,0,-2,277,301,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,656,818,8
+0,2,0,-2,629,831,8
+0,3,0,-2,657,835,8
+0,4,0,-2,650,839,8
+0,5,0,-2,281,1077,8
+0,6,0,-2,717,1591,8
+0,7,0,-2,706,1587,8
+0,8,0,-2,715,1592,8
+0,9,0,-2,708,1604,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,506,963,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/1218   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,668,575,0
+7,0,-2,579,575,0
+8,0,-2,577,577,0
+9,0,-2,580,576,0
+4,0,-2,525,460,0
+3,0,-2,461,460,0
+2,0,-2,462,458,0
+1,0,-2,462,458,0
+0,0,-2,402,423,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,853,1041,7
+0,2,0,-2,858,1022,7
+0,3,0,-2,857,1023,7
+0,4,0,-2,858,1023,7
+0,5,0,-2,400,1320,7
+0,6,0,-2,976,2009,7
+0,7,0,-2,974,2015,7
+0,8,0,-2,974,2018,7
+0,9,0,-2,975,2024,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,706,1329,24
+---PATTERN START: http://bnb.data.bl.uk/doc/resource/006893251.xml?_metadata=all,views,formats,execution,bindings&_view=publicationViewer   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,486,407,0
+7,0,-2,412,409,0
+8,0,-2,411,410,0
+9,0,-2,414,409,0
+4,0,-2,452,368,0
+3,0,-2,374,372,0
+2,0,-2,373,371,0
+1,0,-2,374,370,0
+0,0,-2,288,310,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,653,875,8
+0,2,0,-2,678,863,8
+0,3,0,-2,680,860,8
+0,4,0,-2,677,861,8
+0,5,0,-2,297,1089,8
+0,6,0,-2,718,1587,8
+0,7,0,-2,696,1583,8
+0,8,0,-2,695,1590,8
+0,9,0,-2,696,1591,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,492,958,16
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/932   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,701,615,0
+7,0,-2,606,601,0
+8,0,-2,605,604,0
+9,0,-2,606,601,0
+4,0,-2,523,451,0
+3,0,-2,453,453,0
+2,0,-2,452,451,0
+1,0,-2,452,451,0
+0,0,-2,391,415,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,840,7388,7
+0,2,0,-2,845,1021,7
+0,3,0,-2,844,1021,7
+0,4,0,-2,844,1020,7
+0,5,0,-2,394,1330,7
+0,6,0,-2,996,2060,7
+0,7,0,-2,995,2114,7
+0,8,0,-2,1005,2077,7
+0,9,0,-2,997,2081,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,708,1333,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/2402   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,2191,608,0
+7,0,-2,610,605,0
+8,0,-2,610,609,0
+9,0,-2,612,606,0
+4,0,-2,6315,439,0
+3,0,-2,440,437,0
+2,0,-2,441,437,0
+1,0,-2,441,436,0
+0,0,-2,385,405,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,814,981,6
+0,2,0,-2,814,980,6
+0,3,0,-2,814,980,6
+0,4,0,-2,813,979,6
+0,5,0,-2,382,1258,6
+0,6,0,-2,985,1986,6
+0,7,0,-2,986,1987,6
+0,8,0,-2,987,1993,6
+0,9,0,-2,1002,1998,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,707,1353,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/2075   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,649,562,0
+7,0,-2,569,565,0
+8,0,-2,568,594,0
+9,0,-2,570,563,0
+4,0,-2,502,430,0
+3,0,-2,435,430,0
+2,0,-2,434,430,0
+1,0,-2,434,429,0
+0,0,-2,379,400,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,803,1015,7
+0,2,0,-2,808,1000,7
+0,3,0,-2,806,1001,7
+0,4,0,-2,807,1002,7
+0,5,0,-2,377,2840,7
+0,6,0,-2,945,2014,7
+0,7,0,-2,943,1990,7
+0,8,0,-2,941,1997,7
+0,9,0,-2,941,2004,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,683,1314,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/249   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,3877,593,0
+7,0,-2,537,530,0
+8,0,-2,466,464,0
+9,0,-2,403,401,0
+4,0,-2,2880,444,0
+3,0,-2,441,442,3
+2,0,-2,441,440,3
+1,0,-2,442,439,3
+0,0,-2,383,404,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,815,1042,8
+0,2,0,-2,816,1046,14
+0,3,0,-2,815,1046,14
+0,4,0,-2,814,1043,11
+0,5,0,-2,399,1025,11
+0,6,0,-2,970,1753,11
+0,7,0,-2,909,1765,14
+0,8,0,-2,842,1764,14
+0,9,0,-2,777,1766,14
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,698,1337,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/3590   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,2425,582,0
+7,0,-2,586,581,0
+8,0,-2,582,580,0
+9,0,-2,584,580,0
+4,0,-2,514,446,0
+3,0,-2,450,446,0
+2,0,-2,448,446,0
+1,0,-2,450,445,0
+0,0,-2,393,413,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,832,1046,8
+0,2,0,-2,833,1062,8
+0,3,0,-2,832,1044,8
+0,4,0,-2,831,1045,8
+0,5,0,-2,389,1368,8
+0,6,0,-2,968,2076,8
+0,7,0,-2,967,2081,8
+0,8,0,-2,969,2086,8
+0,9,0,-2,967,2107,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,708,1343,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/1208   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,706,602,0
+7,0,-2,621,614,0
+8,0,-2,607,603,0
+9,0,-2,605,604,0
+4,0,-2,503,432,0
+3,0,-2,435,432,0
+2,0,-2,438,433,0
+1,0,-2,438,433,0
+0,0,-2,382,403,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,816,10076,7
+0,2,0,-2,818,988,7
+0,3,0,-2,815,988,7
+0,4,0,-2,815,987,7
+0,5,0,-2,382,1297,7
+0,6,0,-2,988,2028,7
+0,7,0,-2,987,2033,7
+0,8,0,-2,986,2050,7
+0,9,0,-2,987,2047,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,695,1323,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/2838   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,683,600,0
+7,0,-2,601,598,0
+8,0,-2,600,600,0
+9,0,-2,600,599,0
+4,0,-2,503,439,0
+3,0,-2,439,438,0
+2,0,-2,437,437,0
+1,0,-2,440,437,0
+0,0,-2,385,409,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,817,1054,7
+0,2,0,-2,815,1010,7
+0,3,0,-2,815,1012,7
+0,4,0,-2,815,1012,7
+0,5,0,-2,384,1325,7
+0,6,0,-2,981,2041,7
+0,7,0,-2,980,2046,7
+0,8,0,-2,979,2052,7
+0,9,0,-2,1006,2069,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,699,1357,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/2372   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,6350,571,0
+7,0,-2,572,568,0
+8,0,-2,573,571,0
+9,0,-2,571,570,0
+4,0,-2,7050,444,0
+3,0,-2,444,443,0
+2,0,-2,442,441,0
+1,0,-2,442,440,0
+0,0,-2,406,433,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,840,985,6
+0,2,0,-2,839,977,6
+0,3,0,-2,841,977,6
+0,4,0,-2,839,977,6
+0,5,0,-2,405,1268,6
+0,6,0,-2,970,1960,6
+0,7,0,-2,969,1971,6
+0,8,0,-2,972,1974,6
+0,9,0,-2,972,1979,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,709,1343,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/673   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,2087,638,0
+7,0,-2,630,638,0
+8,0,-2,627,626,0
+9,0,-2,628,626,0
+4,0,-2,522,442,0
+3,0,-2,444,441,0
+2,0,-2,444,440,0
+1,0,-2,461,440,0
+0,0,-2,390,414,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,822,6764,8
+0,2,0,-2,1259,1361,8
+0,3,0,-2,826,1055,8
+0,4,0,-2,826,1053,8
+0,5,0,-2,386,1384,8
+0,6,0,-2,1020,2126,8
+0,7,0,-2,1009,2122,8
+0,8,0,-2,1009,2137,8
+0,9,0,-2,1011,2135,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,743,1387,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/534   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,697,605,0
+7,0,-2,619,618,0
+8,0,-2,611,607,0
+9,0,-2,610,607,0
+4,0,-2,560,461,0
+3,0,-2,466,461,0
+2,0,-2,465,462,0
+1,0,-2,464,462,0
+0,0,-2,406,434,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,862,1044,7
+0,2,0,-2,863,1045,7
+0,3,0,-2,866,1045,7
+0,4,0,-2,866,1048,7
+0,5,0,-2,407,1378,7
+0,6,0,-2,1012,2102,7
+0,7,0,-2,1008,2108,7
+0,8,0,-2,1013,2111,7
+0,9,0,-2,1012,2118,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,751,1401,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/1348   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,695,608,0
+7,0,-2,610,606,0
+8,0,-2,609,610,0
+9,0,-2,612,608,0
+4,0,-2,535,464,0
+3,0,-2,462,461,0
+2,0,-2,464,459,0
+1,0,-2,463,465,0
+0,0,-2,406,437,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,860,1081,8
+0,2,0,-2,880,1063,8
+0,3,0,-2,865,1065,8
+0,4,0,-2,863,1065,8
+0,5,0,-2,405,1414,8
+0,6,0,-2,1008,3947,8
+0,7,0,-2,1011,2161,8
+0,8,0,-2,1009,2191,8
+0,9,0,-2,1010,2170,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,723,1351,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/3459   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,677,583,0
+7,0,-2,600,587,0
+8,0,-2,593,603,0
+9,0,-2,592,587,0
+4,0,-2,526,457,0
+3,0,-2,464,458,0
+2,0,-2,463,458,0
+1,0,-2,463,459,0
+0,0,-2,387,409,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,840,1038,8
+0,2,0,-2,841,1036,8
+0,3,0,-2,842,1037,8
+0,4,0,-2,841,1035,8
+0,5,0,-2,386,1362,8
+0,6,0,-2,970,2080,8
+0,7,0,-2,970,2070,8
+0,8,0,-2,971,2075,8
+0,9,0,-2,970,2079,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,708,1341,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/4397   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,644,575,0
+7,0,-2,600,576,0
+8,0,-2,578,573,0
+9,0,-2,578,579,0
+4,0,-2,4514,442,0
+3,0,-2,445,441,0
+2,0,-2,447,440,0
+1,0,-2,445,440,0
+0,0,-2,404,424,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,839,980,6
+0,2,0,-2,849,965,6
+0,3,0,-2,842,966,6
+0,4,0,-2,841,983,6
+0,5,0,-2,403,1282,6
+0,6,0,-2,976,1963,6
+0,7,0,-2,975,1968,6
+0,8,0,-2,974,1976,6
+0,9,0,-2,975,1991,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,709,1342,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/3661   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,699,604,0
+7,0,-2,607,605,0
+8,0,-2,609,608,0
+9,0,-2,609,607,0
+4,0,-2,521,448,0
+3,0,-2,462,448,0
+2,0,-2,451,449,0
+1,0,-2,450,449,0
+0,0,-2,388,413,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,833,2629,7
+0,2,0,-2,838,1014,7
+0,3,0,-2,839,1016,7
+0,4,0,-2,838,1015,7
+0,5,0,-2,391,1323,7
+0,6,0,-2,997,2042,7
+0,7,0,-2,996,2059,7
+0,8,0,-2,995,2069,7
+0,9,0,-2,996,2061,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,721,1356,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/1045   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,5721,587,0
+7,0,-2,592,587,0
+8,0,-2,591,587,0
+9,0,-2,592,589,0
+4,0,-2,502,429,0
+3,0,-2,432,429,0
+2,0,-2,432,428,0
+1,0,-2,433,428,0
+0,0,-2,393,413,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,815,935,5
+0,2,0,-2,816,935,5
+0,3,0,-2,817,935,5
+0,4,0,-2,816,935,5
+0,5,0,-2,391,1214,5
+0,6,0,-2,978,1917,5
+0,7,0,-2,977,1929,5
+0,8,0,-2,979,1928,5
+0,9,0,-2,979,1936,5
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,706,1324,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/3840   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,3,0
+6,0,-2,670,592,0
+7,0,-2,599,581,0
+8,0,-2,625,583,0
+9,0,-2,586,581,0
+4,0,-2,487,428,0
+3,0,-2,429,427,0
+2,0,-2,429,427,0
+1,0,-2,427,427,0
+0,0,-2,374,398,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,795,1536,6
+0,2,0,-2,800,975,6
+0,3,0,-2,799,973,6
+0,4,0,-2,798,973,6
+0,5,0,-2,375,1250,6
+0,6,0,-2,956,1959,6
+0,7,0,-2,954,1951,6
+0,8,0,-2,954,1954,6
+0,9,0,-2,954,1960,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,678,1323,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/4060   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,671,599,0
+7,0,-2,602,594,0
+8,0,-2,594,595,0
+9,0,-2,602,596,0
+4,0,-2,501,430,0
+3,0,-2,449,444,0
+2,0,-2,429,430,0
+1,0,-2,429,430,0
+0,0,-2,375,404,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,798,1028,7
+0,2,0,-2,800,1009,7
+0,3,0,-2,800,1009,7
+0,4,0,-2,809,1011,7
+0,5,0,-2,375,1302,7
+0,6,0,-2,968,2026,7
+0,7,0,-2,965,2026,7
+0,8,0,-2,987,2063,7
+0,9,0,-2,966,2038,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,705,1338,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/529   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,658,591,0
+7,0,-2,594,591,0
+8,0,-2,598,581,0
+9,0,-2,584,581,0
+4,0,-2,524,448,0
+3,0,-2,451,447,0
+2,0,-2,448,446,0
+1,0,-2,450,445,0
+0,0,-2,392,414,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,831,1018,7
+0,2,0,-2,831,1018,7
+0,3,0,-2,835,1018,7
+0,4,0,-2,835,1021,7
+0,5,0,-2,391,1336,7
+0,6,0,-2,971,2050,7
+0,7,0,-2,969,2031,7
+0,8,0,-2,969,2039,7
+0,9,0,-2,969,2049,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,713,1341,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/243   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,4707,597,0
+7,0,-2,536,531,0
+8,0,-2,466,465,0
+9,0,-2,399,396,0
+4,0,-2,505,445,0
+3,0,-2,448,447,3
+2,0,-2,448,446,3
+1,0,-2,448,447,3
+0,0,-2,393,415,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,832,991,7
+0,2,0,-2,832,993,13
+0,3,0,-2,831,994,13
+0,4,0,-2,831,993,10
+0,5,0,-2,391,974,10
+0,6,0,-2,986,1697,10
+0,7,0,-2,923,1708,13
+0,8,0,-2,853,1709,13
+0,9,0,-2,785,1707,13
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,709,1342,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/178   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,647,565,0
+7,0,-2,500,494,0
+8,0,-2,441,432,0
+9,0,-2,377,372,0
+4,0,-2,520,458,0
+3,0,-2,461,461,3
+2,0,-2,461,462,3
+1,0,-2,461,459,3
+0,0,-2,401,423,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,853,8548,7
+0,2,0,-2,856,1024,13
+0,3,0,-2,855,1026,13
+0,4,0,-2,857,1024,10
+0,5,0,-2,402,1006,10
+0,6,0,-2,963,1687,10
+0,7,0,-2,894,1699,13
+0,8,0,-2,831,1728,13
+0,9,0,-2,770,1700,13
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,698,1331,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/3652   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,3,0
+6,0,-2,2602,632,0
+7,0,-2,636,632,0
+8,0,-2,635,632,0
+9,0,-2,636,634,0
+4,0,-2,5506,462,0
+3,0,-2,463,462,0
+2,0,-2,463,461,0
+1,0,-2,463,463,0
+0,0,-2,414,438,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,870,1060,7
+0,2,0,-2,868,1044,7
+0,3,0,-2,868,1044,7
+0,4,0,-2,870,1060,7
+0,5,0,-2,411,1365,7
+0,6,0,-2,1043,2165,7
+0,7,0,-2,1052,2134,7
+0,8,0,-2,1042,2140,7
+0,9,0,-2,1044,2146,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,751,1395,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/427   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,646,574,0
+7,0,-2,509,508,0
+8,0,-2,440,439,0
+9,0,-2,377,374,0
+4,0,-2,483,420,0
+3,0,-2,422,423,3
+2,0,-2,422,422,3
+1,0,-2,421,422,3
+0,0,-2,381,403,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,799,914,5
+0,2,0,-2,826,918,11
+0,3,0,-2,799,919,11
+0,4,0,-2,798,917,8
+0,5,0,-2,381,903,8
+0,6,0,-2,954,1592,8
+0,7,0,-2,887,1611,11
+0,8,0,-2,818,1613,11
+0,9,0,-2,754,1608,11
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,676,1304,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/1694   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,3,0
+6,0,-2,680,592,0
+7,0,-2,597,600,0
+8,0,-2,595,591,0
+9,0,-2,597,593,0
+4,0,-2,509,441,0
+3,0,-2,444,440,0
+2,0,-2,445,440,0
+1,0,-2,448,440,0
+0,0,-2,383,404,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,817,1030,7
+0,2,0,-2,816,1003,7
+0,3,0,-2,816,1009,7
+0,4,0,-2,817,1004,7
+0,5,0,-2,379,1309,7
+0,6,0,-2,972,2015,7
+0,7,0,-2,970,2018,7
+0,8,0,-2,969,2024,7
+0,9,0,-2,970,2052,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,712,1340,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/4086   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,4634,582,0
+7,0,-2,589,584,0
+8,0,-2,588,583,0
+9,0,-2,586,584,0
+4,0,-2,4933,426,0
+3,0,-2,426,425,0
+2,0,-2,425,424,0
+1,0,-2,425,423,0
+0,0,-2,388,411,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,812,1298,6
+0,2,0,-2,813,963,6
+0,3,0,-2,812,962,6
+0,4,0,-2,814,965,6
+0,5,0,-2,392,1272,6
+0,6,0,-2,977,1978,6
+0,7,0,-2,975,1982,6
+0,8,0,-2,975,1986,6
+0,9,0,-2,976,2003,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,702,1349,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/1197   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,6187,591,0
+7,0,-2,593,590,0
+8,0,-2,592,594,0
+9,0,-2,1599,606,0
+4,0,-2,3426,454,0
+3,0,-2,456,455,0
+2,0,-2,455,456,0
+1,0,-2,455,455,0
+0,0,-2,401,427,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,850,6168,7
+0,2,0,-2,853,1006,7
+0,3,0,-2,850,1006,7
+0,4,0,-2,850,1010,7
+0,5,0,-2,401,1303,7
+0,6,0,-2,994,1999,7
+0,7,0,-2,990,2005,7
+0,8,0,-2,990,2013,7
+0,9,0,-2,990,2021,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,726,1341,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/1008   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,2338,621,0
+7,0,-2,624,622,0
+8,0,-2,623,622,0
+9,0,-2,622,622,0
+4,0,-2,529,456,0
+3,0,-2,460,457,0
+2,0,-2,458,457,0
+1,0,-2,458,459,0
+0,0,-2,406,431,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,859,1023,7
+0,2,0,-2,859,1023,7
+0,3,0,-2,858,1022,7
+0,4,0,-2,858,1021,7
+0,5,0,-2,405,1340,7
+0,6,0,-2,1023,2110,7
+0,7,0,-2,1023,2102,7
+0,8,0,-2,1024,2107,7
+0,9,0,-2,1023,2114,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,737,1362,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/4605   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,3,0
+6,0,-2,648,572,0
+7,0,-2,579,574,0
+8,0,-2,575,575,0
+9,0,-2,577,574,0
+4,0,-2,6196,445,0
+3,0,-2,445,443,0
+2,0,-2,447,442,0
+1,0,-2,445,442,0
+0,0,-2,388,408,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,826,1027,8
+0,2,0,-2,828,1026,8
+0,3,0,-2,827,1027,8
+0,4,0,-2,827,1027,8
+0,5,0,-2,388,1383,8
+0,6,0,-2,959,2047,8
+0,7,0,-2,962,2051,8
+0,8,0,-2,962,2057,8
+0,9,0,-2,961,2067,8
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,705,1341,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/3281   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,710,618,0
+7,0,-2,620,619,0
+8,0,-2,622,620,0
+9,0,-2,621,622,0
+4,0,-2,2703,443,0
+3,0,-2,442,441,0
+2,0,-2,441,439,0
+1,0,-2,441,438,0
+0,0,-2,387,410,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,820,1012,7
+0,2,0,-2,819,998,7
+0,3,0,-2,819,997,7
+0,4,0,-2,820,999,7
+0,5,0,-2,386,1301,7
+0,6,0,-2,999,2033,7
+0,7,0,-2,1037,2040,7
+0,8,0,-2,1003,2047,7
+0,9,0,-2,1001,2054,7
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,728,1375,24
+---PATTERN START: http://aigp.csres.utexas.edu/~aigp/researcher/show/2070   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,681,583,0
+7,0,-2,587,584,0
+8,0,-2,589,583,0
+9,0,-2,587,584,0
+4,0,-2,2348,431,0
+3,0,-2,437,432,0
+2,0,-2,436,432,0
+1,0,-2,435,432,0
+0,0,-2,395,415,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,820,973,6
+0,2,0,-2,820,957,6
+0,3,0,-2,819,959,6
+0,4,0,-2,820,957,6
+0,5,0,-2,391,1271,6
+0,6,0,-2,975,1966,6
+0,7,0,-2,975,1970,6
+0,8,0,-2,975,1977,6
+0,9,0,-2,976,1980,6
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,710,1347,24

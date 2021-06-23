@@ -1,0 +1,250 @@
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0000---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0001---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0002---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0003---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0004---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0005---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0006---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0007---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0008---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0009---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0010---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0011---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0012---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0013---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0014---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0015---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0016---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0017---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0018---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0019---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0020---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0021---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0022---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0023---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0024---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0025---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0026---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0027---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0028---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0029---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0030---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0031---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0032---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0033---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0034---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0035---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0036---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0037---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0038---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0039---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0040---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0041---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0042---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0043---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0044---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0045---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0046---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0047---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0048---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/o-queries-lowCardinality.txt.0049---
+---QUERIES END---

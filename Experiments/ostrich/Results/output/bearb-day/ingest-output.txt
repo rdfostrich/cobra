@@ -1,0 +1,1240 @@
+---INSERTION START---
+version,added,durationms,rate,accsize
+Version 1
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/1/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/1/main.nt.additions.txt
+: 0 / 0
+Creating snapshot...
+: 0 / 0Loading Dictionary: 0 / 0Generating Dictionary: 0 K triples processed.: 0 / 0Sorting shared: 40 / 0Sorting subjects: 41 / 20Sorting objects: 42.5 / 50Sorting predicates: 44.5 / 90Update Dictionary IDs: 44.95 / 99Loading Triples: 50 / 0Generating Triples: 0 K triples processed.: 50 / 0Sorting triples: 89.2 / 0Converting to BitmapTriples: 94.1 / 00,360,10,36,25486
+Version 2
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/2/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/2/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 0 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 01,168,22,7,9937202
+Version 3
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/3/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/3/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 02,113,39,2,9938071
+Version 4
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/4/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/4/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 03,41,59,0,9938279
+Version 5
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/5/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/5/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 04,34,74,0,9938425
+Version 6
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/6/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/6/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 05,37,86,0,9938678
+Version 7
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/7/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/7/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 06,47,85,0,9938881
+Version 8
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/8/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/8/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 07,47,74,0,9939035
+Version 9
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/9/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/9/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 08,29,89,0,9939178
+Version 10
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/10/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/10/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 09,41,92,0,9939411
+Version 11
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/11/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/11/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 010,25,103,0,9939521
+Version 12
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/12/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/12/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 011,25,106,0,9939610
+Version 13
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/13/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/13/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 2 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 012,31,94,0,9939774
+Version 14
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/14/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/14/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 4 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 013,1650,203,8,9964876
+Version 15
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/15/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/15/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 15 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 014,1225,573,2,9803818
+Version 16
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/16/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/16/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 24 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 015,1469,871,1,9826392
+Version 17
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/17/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/17/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 30 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 016,1433,1120,1,10084189
+Version 18
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/18/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/18/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 30 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 017,1058,1331,0,10091483
+Version 19
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/19/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/19/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 34 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 018,1364,1523,0,10169348
+Version 20
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/20/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/20/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 40 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 019,1311,1682,0,10176136
+Version 21
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/21/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/21/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 41 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 020,1062,1902,0,10181514
+Version 22
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/22/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/22/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 41 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 021,25,2035,0,10182252
+Version 23
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/23/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/23/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 43 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 022,1483,1980,0,10193221
+Version 24
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/24/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/24/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 50 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 023,1573,2228,0,10204326
+Version 25
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/25/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/25/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 54 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 024,1230,2555,0,10210683
+Version 26
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/26/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/26/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 62 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 025,1323,2636,0,10223359
+Version 27
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/27/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/27/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 72 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 026,1513,2814,0,10238306
+Version 28
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/28/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/28/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 77 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 027,1531,3157,0,10608441
+Version 29
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/29/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/29/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 98 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 028,1717,3334,0,10477246
+Version 30
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/30/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/30/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 106 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 029,1453,3586,0,10751408
+Version 31
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/31/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/31/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 127 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 030,1637,3778,0,10763834
+Version 32
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/32/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/32/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 143 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 031,1282,4011,0,10772903
+Version 33
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/33/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/33/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 157 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 032,1474,4291,0,10788001
+Version 34
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/34/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/34/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 162 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 033,1273,4554,0,10801728
+Version 35
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/35/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/35/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 165 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 034,1221,4699,0,10812825
+Version 36
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/36/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/36/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 170 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 035,1398,4875,0,10822104
+Version 37
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/37/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/37/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 177 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 036,1137,5035,0,10833502
+Version 38
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/38/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/38/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 182 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 037,1315,5171,0,10846719
+Version 39
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/39/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/39/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 188 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 038,1505,5311,0,11399376
+Version 40
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/40/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/40/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 190 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 039,1517,5580,0,11417077
+Version 41
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/41/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/41/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 192 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 040,1271,5802,0,11426207
+Version 42
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/42/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/42/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 194 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 041,1304,6057,0,11435879
+Version 43
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/43/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/43/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 196 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 042,1248,6254,0,11445084
+Version 44
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/44/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/44/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 197 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 043,1132,6343,0,11456207
+Version 45
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/45/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/45/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 201 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 044,1199,6516,0,11478212
+Version 46
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/46/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/46/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 203 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 045,1193,6752,0,11489322
+Version 47
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/47/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/47/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 205 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 046,1083,6936,0,11499340
+Version 48
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/48/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/48/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 209 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 047,1123,7133,0,11509516
+Version 49
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/49/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/49/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 213 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 048,1028,7332,0,11518838
+Version 50
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/50/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/50/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 220 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 049,1116,7601,0,11530395
+Version 51
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/51/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/51/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 222 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 050,1033,7773,0,12350444
+Version 52
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/52/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/52/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 223 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 051,964,7925,0,12359165
+Version 53
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/53/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/53/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 224 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 052,1134,8131,0,12368962
+Version 54
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/54/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/54/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 226 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 053,1010,8358,0,12378620
+Version 55
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/55/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/55/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 234 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 054,1030,8557,0,12783773
+Version 56
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/56/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/56/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 242 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 055,1035,8698,0,12793866
+Version 57
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/57/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/57/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 244 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 056,974,8905,0,12803155
+Version 58
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/58/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/58/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 246 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 057,716,9068,0,12810373
+Version 59
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/59/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/59/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 246 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 058,125,9111,0,12815521
+Version 60
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/60/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/60/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 252 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 059,1401,9295,0,12831642
+Version 61
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/61/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/61/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 256 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 060,974,9710,0,13000963
+Version 62
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/62/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/62/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 260 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 061,1021,9676,0,13448782
+Version 63
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/63/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/63/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 260 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 062,1057,9779,0,13459403
+Version 64
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/64/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/64/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 260 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 063,875,9991,0,13469319
+Version 65
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/65/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/65/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 263 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 064,1012,10133,0,13479631
+Version 66
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/66/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/66/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 265 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 065,1111,10308,0,13490624
+Version 67
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/67/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/67/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 266 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 066,976,10539,0,13501752
+Version 68
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/68/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/68/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 269 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 067,903,9536,0,14994364
+Version 69
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/69/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/69/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 269 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 068,776,9903,0,15002858
+Version 70
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/70/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/70/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 271 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 069,820,8901,0,15012988
+Version 71
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/71/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/71/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 271 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 070,860,9039,0,15022107
+Version 72
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/72/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/72/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 271 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 071,771,9131,0,15030566
+Version 73
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/73/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/73/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 272 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 072,813,9271,0,15038967
+Version 74
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/74/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/74/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 273 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 073,881,9384,0,15047702
+Version 75
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/75/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/75/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 274 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 074,1021,10308,0,15058246
+Version 76
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/76/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/76/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 274 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 075,971,9705,0,15066995
+Version 77
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/77/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/77/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 274 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 076,900,9854,0,15075135
+Version 78
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/78/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/78/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 274 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 077,839,10017,0,15083320
+Version 79
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/79/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/79/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 275 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 078,820,10059,0,15091198
+Version 80
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/80/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/80/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 276 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 079,958,11123,0,15101180
+Version 81
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/81/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/81/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 276 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 080,808,10668,0,17955081
+Version 82
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/82/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/82/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 276 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 081,859,11149,0,17964153
+Version 83
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/83/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/83/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 276 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 082,833,10492,0,17975113
+Version 84
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/84/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/84/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 276 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 083,837,10595,0,17984432
+Version 85
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/85/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/85/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 278 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 084,751,11575,0,17991977
+Version 86
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/86/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/86/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 280 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 085,773,10817,0,18000561
+Version 87
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/87/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/87/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 281 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 086,742,10900,0,18008964
+Version 88
+: 0 / 0Loading patch...
+: 0 / 0FILE: /var/patches/88/main.nt.deletions.txt
+: 0 / 0FILE: /var/patches/88/main.nt.additions.txt
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 285 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 087,781,10901,0,18017227
+Version 89
+: 0 / 0Loading patch...
+: 0 / 0
+Appending patch...
+: 0 / 0Inserting into deletion and addition trees...
+: 0 / 0Triple insertion: 0 / 0
+Flushing addition counts...
+: 0 / 0
+Saved 285 addition counts
+: 0 / 0
+Finished patch insertion
+: 0 / 088,0,11885,0,18022267
+---INSERTION END---

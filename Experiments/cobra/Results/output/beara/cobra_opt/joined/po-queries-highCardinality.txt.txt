@@ -1,0 +1,1242 @@
+---PATTERN START:  http://www.w3.org/1999/xhtml/vocab#stylesheet http://www.london-gazette.co.uk/Styles/gazettes.css .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,26533,9994,5
+7,0,-2,12558,9870,0
+8,0,-2,9943,9884,0
+9,0,-2,379,9841,19
+4,0,-2,41136,12572,2
+3,0,-2,134,1800,0
+2,0,-2,130,11020,2
+1,0,-2,132,11029,14
+0,0,-2,2950,11033,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,207,35347,202
+0,2,0,-2,209,30150,190
+0,3,0,-2,208,30183,180
+0,4,0,-2,11145,30133,190
+0,5,0,-2,90,49635,188
+0,6,0,-2,11017,66786,193
+0,7,0,-2,9945,63279,126
+0,8,0,-2,9994,63727,142
+0,9,0,-2,455,63650,207
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,20667,170951,549
+---PATTERN START:  http://xmlns.com/foaf/0.1/accountServiceHomepage http://twitter.com .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,31493,21234,0
+7,0,-2,10260,9747,0
+8,0,-2,7997,4879,0
+9,0,-2,1950,145,0
+4,0,-2,16405,1849,0
+3,0,-2,97,155,0
+2,0,-2,98,153,0
+1,0,-2,98,152,0
+0,0,-2,97,29982,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,174,72270,145
+0,2,0,-2,180,52488,423
+0,3,0,-2,177,52510,422
+0,4,0,-2,175,52366,284
+0,5,0,-2,90,51932,286
+0,6,0,-2,15638,104944,284
+0,7,0,-2,9782,95404,423
+0,8,0,-2,4914,95345,423
+0,9,0,-2,175,95368,423
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,40674,2825511,1123
+---PATTERN START:  http://purl.org/dc/dcam/memberOf http://purl.org/dc/terms/ISO639-2 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,34303,73561,5
+7,0,-2,25207,22984,0
+8,0,-2,13516,13454,0
+9,0,-2,12238,38762,17
+4,0,-2,6353,48613,4
+3,0,-2,95,156,0
+2,0,-2,91,140,0
+1,0,-2,91,33715,6
+0,0,-2,1344,34019,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,166,118380,233
+0,2,0,-2,171,84734,244
+0,3,0,-2,166,84552,227
+0,4,0,-2,166,84688,240
+0,5,0,-2,86,132685,236
+0,6,0,-2,21682,189769,241
+0,7,0,-2,21388,180386,210
+0,8,0,-2,13554,180791,227
+0,9,0,-2,7030,181807,262
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,65245,1442367,1785
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.gazettes-online.co.uk/ontology#Issue .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,22094,4971,3
+7,0,-2,4722,4704,2
+8,0,-2,4602,4562,4
+9,0,-2,8508,4866,11
+4,0,-2,26092,4597,5
+3,0,-2,4628,4596,0
+2,0,-2,4621,4625,3
+1,0,-2,795,175,0
+0,0,-2,100,155,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,176,16496,91
+0,2,0,-2,4736,14167,113
+0,3,0,-2,4693,14225,129
+0,4,0,-2,4686,14223,146
+0,5,0,-2,91,15292,158
+0,6,0,-2,5081,25827,160
+0,7,0,-2,4824,23090,166
+0,8,0,-2,4664,23152,168
+0,9,0,-2,4972,23303,175
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8980,73388,254
+---PATTERN START:  http://www.w3.org/2000/01/rdf-schema#subPropertyOf http://purl.org/dc/elements/1.1/contributor .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,13905,148,1
+7,0,-2,150,151,1
+8,0,-2,148,147,1
+9,0,-2,150,148,1
+4,0,-2,16481,3682,1
+3,0,-2,3675,3676,0
+2,0,-2,3671,3676,1
+1,0,-2,3672,3690,1
+0,0,-2,5236,235,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4619,4025,106
+0,2,0,-2,3868,4025,106
+0,3,0,-2,3863,4025,105
+0,4,0,-2,3862,4035,106
+0,5,0,-2,202,7025,105
+0,6,0,-2,342,7231,106
+0,7,0,-2,340,7232,106
+0,8,0,-2,341,7227,106
+0,9,0,-2,340,7228,106
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,174,9271,1
+---PATTERN START:  http://webns.net/mvcb/generatorAgent http://www.ldodds.com/foaf/foaf-a-matic .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,12408,1364,0
+7,0,-2,1340,1354,0
+8,0,-2,1333,1331,4
+9,0,-2,1344,1366,0
+4,0,-2,22225,1174,0
+3,0,-2,1193,1153,2
+2,0,-2,1145,1141,2
+1,0,-2,1147,1164,0
+0,0,-2,7439,1123,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,2227,11647,110
+0,2,0,-2,2294,7004,135
+0,3,0,-2,2297,6976,140
+0,4,0,-2,2205,6832,130
+0,5,0,-2,1096,6790,135
+0,6,0,-2,2406,14478,120
+0,7,0,-2,2478,9895,128
+0,8,0,-2,2493,9718,143
+0,9,0,-2,2404,9631,138
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,2245,161254,62
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/255 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,25265,18632,0
+7,0,-2,13778,8160,0
+8,0,-2,8328,4185,0
+9,0,-2,2280,149,0
+4,0,-2,13816,2094,0
+3,0,-2,96,155,0
+2,0,-2,97,152,0
+1,0,-2,96,150,0
+0,0,-2,95,25180,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,171,54984,111
+0,2,0,-2,173,41050,259
+0,3,0,-2,173,41076,222
+0,4,0,-2,171,40962,185
+0,5,0,-2,89,52117,185
+0,6,0,-2,12018,85618,185
+0,7,0,-2,8210,81035,259
+0,8,0,-2,4218,81168,259
+0,9,0,-2,178,81157,259
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,32702,1591785,888
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/265 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,28846,16738,0
+7,0,-2,11360,10762,0
+8,0,-2,8299,5535,0
+9,0,-2,1648,145,0
+4,0,-2,9525,2921,0
+3,0,-2,94,150,0
+2,0,-2,94,150,0
+1,0,-2,96,150,0
+0,0,-2,93,29301,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,168,71491,150
+0,2,0,-2,177,56374,350
+0,3,0,-2,168,56416,300
+0,4,0,-2,168,56276,250
+0,5,0,-2,87,64125,250
+0,6,0,-2,16005,124257,250
+0,7,0,-2,10847,110006,350
+0,8,0,-2,5559,109978,350
+0,9,0,-2,174,110531,350
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,44183,2302995,1200
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/246 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,37120,25550,0
+7,0,-2,17449,17974,0
+8,0,-2,9747,8320,0
+9,0,-2,2161,148,0
+4,0,-2,11656,215,0
+3,0,-2,94,152,0
+2,0,-2,94,149,0
+1,0,-2,94,149,0
+0,0,-2,93,48511,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,168,103750,231
+0,2,0,-2,170,86485,539
+0,3,0,-2,169,87566,462
+0,4,0,-2,174,86260,385
+0,5,0,-2,88,98429,385
+0,6,0,-2,24317,181742,385
+0,7,0,-2,16303,168799,539
+0,8,0,-2,8386,168976,539
+0,9,0,-2,178,168492,539
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,68215,3226662,1848
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/205 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,20172,11714,0
+7,0,-2,7300,7306,0
+8,0,-2,6451,3736,0
+9,0,-2,1933,144,0
+4,0,-2,6657,2291,0
+3,0,-2,98,149,0
+2,0,-2,95,149,0
+1,0,-2,95,150,0
+0,0,-2,95,21910,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,169,45226,102
+0,2,0,-2,170,38225,238
+0,3,0,-2,169,38259,204
+0,4,0,-2,170,38243,170
+0,5,0,-2,88,45236,170
+0,6,0,-2,10819,87903,170
+0,7,0,-2,7309,74242,238
+0,8,0,-2,3765,74279,238
+0,9,0,-2,176,74296,238
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,30071,1354257,816
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/190 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,23634,15181,0
+7,0,-2,11203,9195,0
+8,0,-2,6937,4814,0
+9,0,-2,2904,146,0
+4,0,-2,10188,1556,0
+3,0,-2,93,148,0
+2,0,-2,92,152,0
+1,0,-2,93,149,0
+0,0,-2,91,24876,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,166,64664,129
+0,2,0,-2,172,48872,301
+0,3,0,-2,167,48879,258
+0,4,0,-2,167,48751,215
+0,5,0,-2,86,54325,215
+0,6,0,-2,13699,113946,215
+0,7,0,-2,9241,94480,301
+0,8,0,-2,4851,94597,301
+0,9,0,-2,172,94496,301
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,37652,1564815,1032
+---PATTERN START:  http://www.w3.org/1999/xhtml/vocab#icon http://cdn2-b.examiner.com/sites/all/themes/base/favicon.ico .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,32766,5180,13
+7,0,-2,5166,5144,6
+8,0,-2,5148,5167,9
+9,0,-2,5121,5153,16
+4,0,-2,32673,6132,2
+3,0,-2,9588,5106,1
+2,0,-2,6890,4554,1
+1,0,-2,4563,4518,0
+0,0,-2,97,164,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4594,21024,212
+0,2,0,-2,4581,18018,214
+0,3,0,-2,5365,18630,215
+0,4,0,-2,6330,17931,214
+0,5,0,-2,88,18575,213
+0,6,0,-2,5302,30437,226
+0,7,0,-2,5250,27836,221
+0,8,0,-2,5306,29002,220
+0,9,0,-2,5282,28266,229
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9457,545636,226
+---PATTERN START:  http://rdf.geospecies.org/ont/geospecies#inClass http://lod.geospecies.org/bioclasses/aEbRZ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,13925,95,0
+7,0,-2,95,92,0
+8,0,-2,93,91,0
+9,0,-2,93,91,0
+4,0,-2,23638,6982,0
+3,0,-2,6999,7005,0
+2,0,-2,6997,6979,0
+1,0,-2,7018,6985,0
+0,0,-2,7659,158,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7123,15049,198
+0,2,0,-2,7129,13535,198
+0,3,0,-2,7126,13534,198
+0,4,0,-2,7105,13555,198
+0,5,0,-2,131,13550,198
+0,6,0,-2,215,13598,198
+0,7,0,-2,216,13619,198
+0,8,0,-2,215,13605,198
+0,9,0,-2,214,13634,198
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,93,89,0
+---PATTERN START:  http://rdf.geospecies.org/ont/geospecies#inClass http://lod.geospecies.org/bioclasses/9JpKF .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,192,104,0
+7,0,-2,95,92,0
+8,0,-2,94,92,0
+9,0,-2,94,92,0
+4,0,-2,8283,7257,0
+3,0,-2,7289,7263,0
+2,0,-2,7253,7285,0
+1,0,-2,7255,7263,0
+0,0,-2,6593,159,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7402,14179,206
+0,2,0,-2,7398,14139,206
+0,3,0,-2,7395,14120,206
+0,4,0,-2,7398,14120,206
+0,5,0,-2,128,14137,206
+0,6,0,-2,213,14283,206
+0,7,0,-2,212,14190,206
+0,8,0,-2,213,14229,206
+0,9,0,-2,212,14217,206
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,95,88,0
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://xmlns.com/foaf/0.1/Group .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,19687,3910,1
+7,0,-2,7848,3534,0
+8,0,-2,6191,3186,4
+9,0,-2,2722,2710,0
+4,0,-2,13579,2742,0
+3,0,-2,2733,2765,0
+2,0,-2,2747,2744,0
+1,0,-2,2733,2712,4
+0,0,-2,2739,2748,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5435,18790,197
+0,2,0,-2,5443,14002,209
+0,3,0,-2,5444,14038,211
+0,4,0,-2,5461,13940,204
+0,5,0,-2,2722,15527,209
+0,6,0,-2,6650,21074,210
+0,7,0,-2,6211,21911,210
+0,8,0,-2,5898,21239,217
+0,9,0,-2,5391,21010,203
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,5245,235918,131
+---PATTERN START:  http://webns.net/mvcb/errorReportsTo mailto:leigh@ldodds.com .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,5920,1334,0
+7,0,-2,1315,1326,0
+8,0,-2,1305,1301,4
+9,0,-2,1302,1326,0
+4,0,-2,7690,1114,0
+3,0,-2,1097,1090,2
+2,0,-2,1087,1081,2
+1,0,-2,1086,1103,0
+0,0,-2,1045,1037,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,2079,6506,107
+0,2,0,-2,2191,6634,132
+0,3,0,-2,2188,6635,137
+0,4,0,-2,2187,6528,127
+0,5,0,-2,1011,6431,132
+0,6,0,-2,2303,11185,117
+0,7,0,-2,2404,9441,125
+0,8,0,-2,2407,9368,140
+0,9,0,-2,2304,9148,136
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,2152,10385,62
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://data.semanticweb.org/ns/swc/ontology#ProgrammeCommitteeMember .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,39984,20382,0
+7,0,-2,9553,17496,1
+8,0,-2,7107,4094,0
+9,0,-2,3418,1131,0
+4,0,-2,31548,11882,3
+3,0,-2,1317,11870,1
+2,0,-2,96,170,0
+1,0,-2,94,11899,1
+0,0,-2,95,11875,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,170,42078,115
+0,2,0,-2,170,31690,221
+0,3,0,-2,169,31589,196
+0,4,0,-2,11979,31562,171
+0,5,0,-2,87,35705,168
+0,6,0,-2,20473,65951,168
+0,7,0,-2,6084,62064,223
+0,8,0,-2,4119,62249,219
+0,9,0,-2,1179,62254,193
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,23431,926347,651
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/295 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,25193,19448,0
+7,0,-2,11267,8806,0
+8,0,-2,5042,4521,0
+9,0,-2,6020,146,0
+4,0,-2,9591,1446,0
+3,0,-2,93,145,0
+2,0,-2,92,149,0
+1,0,-2,92,145,0
+0,0,-2,91,23867,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,164,56468,120
+0,2,0,-2,172,44989,280
+0,3,0,-2,166,44961,240
+0,4,0,-2,165,44973,200
+0,5,0,-2,85,52682,200
+0,6,0,-2,12954,98641,200
+0,7,0,-2,8836,87857,280
+0,8,0,-2,4555,87917,280
+0,9,0,-2,175,87948,280
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,35219,1504902,960
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.w3.org/2006/vcard/ns#Address .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,27718,12963,62
+7,0,-2,12210,12233,0
+8,0,-2,6622,901,0
+9,0,-2,144,10771,62
+4,0,-2,33666,13653,46
+3,0,-2,93,13673,63
+2,0,-2,93,13667,54
+1,0,-2,93,13716,66
+0,0,-2,92,13628,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,163,47821,154
+0,2,0,-2,164,34361,312
+0,3,0,-2,163,34498,308
+0,4,0,-2,13817,34349,234
+0,5,0,-2,87,37339,245
+0,6,0,-2,12979,61035,238
+0,7,0,-2,12299,57979,244
+0,8,0,-2,906,57829,255
+0,9,0,-2,174,58041,308
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,24252,1474866,629
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/159 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,29107,22138,0
+7,0,-2,12361,11373,0
+8,0,-2,8916,5851,0
+9,0,-2,4115,144,0
+4,0,-2,10447,679,0
+3,0,-2,88,140,0
+2,0,-2,86,141,0
+1,0,-2,88,143,0
+0,0,-2,115,31569,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,155,80670,159
+0,2,0,-2,160,59084,371
+0,3,0,-2,156,58932,318
+0,4,0,-2,155,58896,265
+0,5,0,-2,81,69033,265
+0,6,0,-2,16852,128985,265
+0,7,0,-2,11381,114396,371
+0,8,0,-2,5855,114417,371
+0,9,0,-2,168,114511,371
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,46109,1685352,1272
+---PATTERN START:  http://xmlns.com/foaf/0.1/interest http://en.wikipedia.org/wiki/Semantic_Web .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,5,0
+6,0,-2,24143,19342,0
+7,0,-2,11885,9899,0
+8,0,-2,8062,5065,0
+9,0,-2,128,137,0
+4,0,-2,7842,4386,0
+3,0,-2,91,141,0
+2,0,-2,90,141,0
+1,0,-2,90,143,0
+0,0,-2,89,24740,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,161,68088,142
+0,2,0,-2,162,50557,413
+0,3,0,-2,164,50502,413
+0,4,0,-2,161,50406,277
+0,5,0,-2,83,49694,278
+0,6,0,-2,14644,102950,278
+0,7,0,-2,9910,92912,412
+0,8,0,-2,5078,92945,412
+0,9,0,-2,165,92156,410
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,41260,1900753,1080
+---PATTERN START:  http://purl.org/dc/terms/creator http://richard.cyganiak.de/#me .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,36222,23234,0
+7,0,-2,8073,6784,0
+8,0,-2,5495,4594,0
+9,0,-2,1313,1238,0
+4,0,-2,32447,13329,0
+3,0,-2,95,166,0
+2,0,-2,92,180,0
+1,0,-2,93,148,0
+0,0,-2,91,13297,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,166,49168,101
+0,2,0,-2,168,34555,225
+0,3,0,-2,167,34444,194
+0,4,0,-2,13393,34424,163
+0,5,0,-2,86,39325,163
+0,6,0,-2,23318,69474,163
+0,7,0,-2,6828,68321,225
+0,8,0,-2,4619,68012,225
+0,9,0,-2,1266,68051,225
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,26686,1083042,744
+---PATTERN START:  http://www.w3.org/1999/xhtml/vocab#stylesheet http://www.edinburgh-gazette.co.uk/Styles/gazettes.css .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,19372,7232,0
+7,0,-2,4290,4279,0
+8,0,-2,4317,4323,0
+9,0,-2,6677,491,0
+4,0,-2,15040,5298,1
+3,0,-2,5335,5306,2
+2,0,-2,239,5315,10
+1,0,-2,238,5317,14
+0,0,-2,2703,166,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,308,24274,150
+0,2,0,-2,311,15145,147
+0,3,0,-2,5395,15146,139
+0,4,0,-2,5381,15141,138
+0,5,0,-2,82,29894,137
+0,6,0,-2,7312,31696,137
+0,7,0,-2,4311,32132,129
+0,8,0,-2,4357,31996,132
+0,9,0,-2,499,33498,137
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9145,49146,235
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.gazettes-online.co.uk/ontology/legislation#Order .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,17314,10599,2
+7,0,-2,12733,10298,0
+8,0,-2,10432,10368,0
+9,0,-2,137,10479,17
+4,0,-2,24072,9663,0
+3,0,-2,300,375,0
+2,0,-2,298,358,0
+1,0,-2,294,356,0
+0,0,-2,98,9638,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,390,38763,165
+0,2,0,-2,376,27746,193
+0,3,0,-2,395,27056,171
+0,4,0,-2,9718,27990,161
+0,5,0,-2,98,45835,196
+0,6,0,-2,10600,64952,200
+0,7,0,-2,10264,63041,100
+0,8,0,-2,10036,63817,116
+0,9,0,-2,217,61780,212
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,19256,167091,471
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/285 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,25788,13516,0
+7,0,-2,11297,8441,0
+8,0,-2,4303,4317,0
+9,0,-2,2503,148,0
+4,0,-2,10643,964,0
+3,0,-2,91,150,0
+2,0,-2,91,147,0
+1,0,-2,92,146,0
+0,0,-2,91,22657,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,162,49807,114
+0,2,0,-2,163,45126,266
+0,3,0,-2,167,43215,228
+0,4,0,-2,163,43150,190
+0,5,0,-2,85,50875,190
+0,6,0,-2,12386,90409,190
+0,7,0,-2,8462,84778,266
+0,8,0,-2,4347,83783,266
+0,9,0,-2,174,83864,266
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,33662,1130930,912
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.w3.org/2002/07/owl#InverseFunctionalProperty .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,6,0
+6,0,-2,17559,659,0
+7,0,-2,2984,545,0
+8,0,-2,630,658,0
+9,0,-2,830,488,0
+4,0,-2,12257,1331,0
+3,0,-2,6890,3783,1
+2,0,-2,3778,3776,1
+1,0,-2,6056,799,0
+0,0,-2,8739,303,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,1021,5111,88
+0,2,0,-2,4023,5123,103
+0,3,0,-2,4025,5116,103
+0,4,0,-2,1548,5124,99
+0,5,0,-2,265,11547,102
+0,6,0,-2,879,8715,95
+0,7,0,-2,766,8776,94
+0,8,0,-2,880,8549,97
+0,9,0,-2,710,8596,98
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,547,18504,8
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/562 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,28673,15939,0
+7,0,-2,11027,10522,0
+8,0,-2,5397,5379,0
+9,0,-2,2033,145,0
+4,0,-2,11887,219,0
+3,0,-2,93,148,0
+2,0,-2,93,148,0
+1,0,-2,93,149,0
+0,0,-2,93,26231,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,166,65076,144
+0,2,0,-2,166,53796,336
+0,3,0,-2,167,53779,288
+0,4,0,-2,166,53724,240
+0,5,0,-2,85,67007,240
+0,6,0,-2,15443,121897,240
+0,7,0,-2,10537,106704,336
+0,8,0,-2,5400,106695,336
+0,9,0,-2,175,106906,336
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,41940,1399834,1152
+---PATTERN START:  http://purl.org/ontology/po/genre http://www.bbc.co.uk/programmes/genres/factual/petsandanimals#genre .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,8247,158,0
+7,0,-2,160,157,1
+8,0,-2,2559,188,0
+9,0,-2,163,184,0
+4,0,-2,21909,6675,4
+3,0,-2,6740,6693,0
+2,0,-2,6721,6728,0
+1,0,-2,6749,6734,0
+0,0,-2,1133,303,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7020,9383,184
+0,2,0,-2,7029,9461,184
+0,3,0,-2,7027,9463,183
+0,4,0,-2,6970,9340,188
+0,5,0,-2,277,13372,184
+0,6,0,-2,426,12679,184
+0,7,0,-2,423,12705,185
+0,8,0,-2,428,12706,183
+0,9,0,-2,426,12680,183
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,262,14369,6
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/47 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,24863,17110,0
+7,0,-2,10967,10570,0
+8,0,-2,8913,5408,0
+9,0,-2,4126,146,0
+4,0,-2,11799,4101,0
+3,0,-2,93,148,0
+2,0,-2,94,148,0
+1,0,-2,93,148,0
+0,0,-2,94,31634,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,166,63662,147
+0,2,0,-2,167,55924,343
+0,3,0,-2,168,55823,294
+0,4,0,-2,168,55798,245
+0,5,0,-2,86,67173,245
+0,6,0,-2,15678,113672,245
+0,7,0,-2,10579,109809,343
+0,8,0,-2,5434,109869,343
+0,9,0,-2,174,111655,343
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,44170,1531107,1176
+---PATTERN START:  http://xmlns.com/foaf/0.1/interest http://www.w3.org/2001/sw/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,6049,1062,6
+7,0,-2,2017,976,0
+8,0,-2,921,885,1
+9,0,-2,837,797,0
+4,0,-2,5820,579,0
+3,0,-2,583,581,1
+2,0,-2,581,579,1
+1,0,-2,580,580,1
+0,0,-2,580,609,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,1139,6722,102
+0,2,0,-2,1145,5204,104
+0,3,0,-2,1143,5389,105
+0,4,0,-2,1142,5472,102
+0,5,0,-2,573,6837,103
+0,6,0,-2,1624,6913,109
+0,7,0,-2,1531,6900,104
+0,8,0,-2,1446,6906,104
+0,9,0,-2,1359,7184,103
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,1213,27870,33
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.gazettes-online.co.uk/ontology/organisation#LondonBoroughCouncil .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,14623,5724,0
+7,0,-2,4149,4146,0
+8,0,-2,3563,3565,0
+9,0,-2,8888,4701,8
+4,0,-2,14771,4270,1
+3,0,-2,4288,4307,0
+2,0,-2,4297,4280,3
+1,0,-2,4300,4281,3
+0,0,-2,101,179,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4418,18366,89
+0,2,0,-2,4430,14693,142
+0,3,0,-2,4411,14647,164
+0,4,0,-2,4401,14746,163
+0,5,0,-2,95,14654,166
+0,6,0,-2,5828,21436,163
+0,7,0,-2,4285,21553,150
+0,8,0,-2,3672,21861,166
+0,9,0,-2,4828,22158,172
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7665,31777,204
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/154 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,27567,24429,0
+7,0,-2,21920,13951,0
+8,0,-2,9335,7163,0
+9,0,-2,2713,145,0
+4,0,-2,10054,3889,0
+3,0,-2,92,146,0
+2,0,-2,92,147,0
+1,0,-2,91,149,0
+0,0,-2,91,38898,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,164,92925,195
+0,2,0,-2,164,74085,455
+0,3,0,-2,164,74029,390
+0,4,0,-2,164,73969,325
+0,5,0,-2,85,82013,325
+0,6,0,-2,20610,160991,325
+0,7,0,-2,13984,144487,455
+0,8,0,-2,7205,142985,455
+0,9,0,-2,183,143081,455
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,58699,1881396,1560
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/99 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,19974,13481,0
+7,0,-2,9164,9106,0
+8,0,-2,8913,4718,0
+9,0,-2,3220,141,0
+4,0,-2,11591,3076,0
+3,0,-2,81,139,0
+2,0,-2,89,135,0
+1,0,-2,79,135,0
+0,0,-2,87,24240,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,141,54282,126
+0,2,0,-2,145,46600,294
+0,3,0,-2,142,46482,252
+0,4,0,-2,141,46568,210
+0,5,0,-2,73,54159,210
+0,6,0,-2,14370,97760,210
+0,7,0,-2,9128,91645,294
+0,8,0,-2,4715,91580,294
+0,9,0,-2,161,91643,294
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,37325,1234853,1008
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,18167,7414,3
+7,0,-2,5662,5610,0
+8,0,-2,4853,4800,0
+9,0,-2,6322,6246,15
+4,0,-2,7729,4427,0
+3,0,-2,4475,4434,0
+2,0,-2,4481,4432,0
+1,0,-2,4479,4435,0
+0,0,-2,98,4432,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4528,18585,70
+0,2,0,-2,4530,14837,125
+0,3,0,-2,6131,14845,151
+0,4,0,-2,4517,14830,153
+0,5,0,-2,91,14741,159
+0,6,0,-2,7530,28745,161
+0,7,0,-2,5683,23998,143
+0,8,0,-2,4884,24276,159
+0,9,0,-2,6351,24755,173
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9146,30453,253
+---PATTERN START:  http://www.gazettes-online.co.uk/ontology#markedUpBy http://www.gazettes-online.co.uk/ontology#ManualMarkup .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,6,0
+6,0,-2,19024,9779,8
+7,0,-2,10671,7897,0
+8,0,-2,104,142,0
+9,0,-2,3636,8619,18
+4,0,-2,25308,7777,0
+3,0,-2,81,146,0
+2,0,-2,78,129,0
+1,0,-2,79,129,0
+0,0,-2,80,7802,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,135,34316,63
+0,2,0,-2,137,24623,183
+0,3,0,-2,137,24676,236
+0,4,0,-2,7841,24737,271
+0,5,0,-2,71,24798,335
+0,6,0,-2,9841,41448,339
+0,7,0,-2,7941,39277,322
+0,8,0,-2,145,39412,335
+0,9,0,-2,1580,39886,348
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,16700,293965,416
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/274 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,33704,20300,0
+7,0,-2,15987,13518,0
+8,0,-2,11500,6914,0
+9,0,-2,2273,144,0
+4,0,-2,9125,219,0
+3,0,-2,97,148,0
+2,0,-2,94,149,0
+1,0,-2,94,148,0
+0,0,-2,93,35632,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,167,97967,195
+0,2,0,-2,168,73948,455
+0,3,0,-2,169,74122,390
+0,4,0,-2,168,73838,325
+0,5,0,-2,87,87549,325
+0,6,0,-2,20264,161716,325
+0,7,0,-2,13539,141896,455
+0,8,0,-2,6949,141949,455
+0,9,0,-2,171,141930,455
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,57763,1661143,1560
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/208 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,12,5,0
+6,0,-2,26709,18347,0
+7,0,-2,12902,11451,0
+8,0,-2,7898,5907,0
+9,0,-2,2727,145,0
+4,0,-2,13470,215,0
+3,0,-2,94,154,0
+2,0,-2,95,148,0
+1,0,-2,94,149,0
+0,0,-2,93,35670,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,169,72483,159
+0,2,0,-2,170,58824,371
+0,3,0,-2,170,58720,318
+0,4,0,-2,169,58683,265
+0,5,0,-2,87,69114,265
+0,6,0,-2,16960,131204,265
+0,7,0,-2,11500,115053,371
+0,8,0,-2,5930,115120,371
+0,9,0,-2,175,116245,371
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,46157,1353900,1272
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/90 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,30315,17968,0
+7,0,-2,13139,11723,0
+8,0,-2,5959,5963,0
+9,0,-2,173,142,0
+4,0,-2,13133,3020,0
+3,0,-2,97,148,0
+2,0,-2,97,148,0
+1,0,-2,96,152,0
+0,0,-2,95,33998,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,173,73568,168
+0,2,0,-2,174,64625,392
+0,3,0,-2,174,64588,336
+0,4,0,-2,174,64575,280
+0,5,0,-2,90,79725,280
+0,6,0,-2,17477,137982,280
+0,7,0,-2,11725,123913,392
+0,8,0,-2,5989,124025,392
+0,9,0,-2,173,123967,392
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,50017,1420389,1344
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://purl.org/ontology/bibo/Journal .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,5,0
+6,0,-2,8903,3943,76
+7,0,-2,6527,3929,0
+8,0,-2,6781,4299,0
+9,0,-2,4087,4066,0
+4,0,-2,18417,894,0
+3,0,-2,898,895,0
+2,0,-2,895,894,0
+1,0,-2,2380,753,0
+0,0,-2,727,208,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,893,14004,101
+0,2,0,-2,1061,6115,124
+0,3,0,-2,1059,6112,124
+0,4,0,-2,1058,6114,124
+0,5,0,-2,175,8958,124
+0,6,0,-2,4057,16877,120
+0,7,0,-2,4092,16774,103
+0,8,0,-2,4448,16943,123
+0,9,0,-2,4218,16862,122
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,3899,6492,82
+---PATTERN START:  http://purl.org/dc/dcam/memberOf http://www.esd.org.uk/standards/egms/3.0/egms-schema#IPSV .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,31178,68385,5
+7,0,-2,21370,23088,0
+8,0,-2,13408,13382,0
+9,0,-2,6794,38071,17
+4,0,-2,4157,33830,4
+3,0,-2,82,147,0
+2,0,-2,81,131,0
+1,0,-2,80,33675,6
+0,0,-2,79,33706,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,141,101521,233
+0,2,0,-2,148,83683,244
+0,3,0,-2,140,83779,227
+0,4,0,-2,140,83739,240
+0,5,0,-2,74,115623,236
+0,6,0,-2,21726,178200,241
+0,7,0,-2,21386,173554,210
+0,8,0,-2,13431,173276,227
+0,9,0,-2,6815,173940,262
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,65192,261422,1785
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#value http://www.esd.org.uk/standards/ipsv/2.00/ipsv-schema#RoadTransport .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,18278,29241,6
+7,0,-2,24916,24895,0
+8,0,-2,5830,5876,0
+9,0,-2,3030,3057,0
+4,0,-2,3095,25965,8
+3,0,-2,94,164,0
+2,0,-2,91,145,0
+1,0,-2,93,17300,4
+0,0,-2,91,17243,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,163,61881,119
+0,2,0,-2,163,43274,133
+0,3,0,-2,163,43288,121
+0,4,0,-2,165,43330,132
+0,5,0,-2,85,62519,124
+0,6,0,-2,10405,88457,130
+0,7,0,-2,24970,87278,101
+0,8,0,-2,5889,89438,111
+0,9,0,-2,3069,87782,132
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,32232,77156,880
+---PATTERN START:  http://www.w3.org/1999/02/22-rdf-syntax-ns#type http://www.w3.org/2002/07/owl#DataRange .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,35054,17001,1
+7,0,-2,4875,14713,1
+8,0,-2,2492,12356,1
+9,0,-2,10001,9986,0
+4,0,-2,21487,8944,0
+3,0,-2,8893,8912,0
+2,0,-2,97,171,0
+1,0,-2,95,155,0
+0,0,-2,97,8928,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,173,30105,84
+0,2,0,-2,178,23267,160
+0,3,0,-2,8957,23236,134
+0,4,0,-2,8939,23199,86
+0,5,0,-2,89,27700,126
+0,6,0,-2,17200,49272,127
+0,7,0,-2,4922,47340,162
+0,8,0,-2,2535,48380,162
+0,9,0,-2,10041,47288,157
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,18728,552212,509
+---PATTERN START:  http://xmlns.com/foaf/0.1/interest http://www.w3.org/RDF/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,6631,1788,15
+7,0,-2,1688,1627,0
+8,0,-2,1535,1475,0
+9,0,-2,1381,1367,0
+4,0,-2,990,871,0
+3,0,-2,835,851,0
+2,0,-2,828,850,0
+1,0,-2,827,851,0
+0,0,-2,822,850,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,1622,5777,106
+0,2,0,-2,1643,5771,110
+0,3,0,-2,1625,5934,111
+0,4,0,-2,1624,5985,109
+0,5,0,-2,832,7959,111
+0,6,0,-2,2597,8775,126
+0,7,0,-2,2450,8723,113
+0,8,0,-2,2282,8737,112
+0,9,0,-2,2198,8963,111
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,1989,39265,56
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/240 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,27392,18340,0
+7,0,-2,12766,11819,0
+8,0,-2,6816,6077,0
+9,0,-2,2811,142,0
+4,0,-2,11201,1096,0
+3,0,-2,90,143,0
+2,0,-2,89,144,0
+1,0,-2,89,145,0
+0,0,-2,89,34611,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,160,83812,168
+0,2,0,-2,162,63205,392
+0,3,0,-2,160,63152,336
+0,4,0,-2,160,63122,280
+0,5,0,-2,84,76712,280
+0,6,0,-2,17619,133474,280
+0,7,0,-2,11891,122420,392
+0,8,0,-2,6113,122403,392
+0,9,0,-2,171,122448,392
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,49813,1372247,1344
+---PATTERN START:  http://www.w3.org/1999/xhtml/vocab#stylesheet http://www.belfast-gazette.co.uk/Styles/gazettes.css .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,8,5,0
+6,0,-2,10718,3047,0
+7,0,-2,3117,3121,3
+8,0,-2,3298,3299,7
+9,0,-2,2985,2981,0
+4,0,-2,16318,3245,19
+3,0,-2,3227,3242,14
+2,0,-2,3230,3247,18
+1,0,-2,3232,3245,17
+0,0,-2,4588,3234,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,6396,17163,126
+0,2,0,-2,6435,11233,127
+0,3,0,-2,6416,11206,123
+0,4,0,-2,6376,11151,128
+0,5,0,-2,3164,18525,109
+0,6,0,-2,6240,22612,108
+0,7,0,-2,6307,22721,112
+0,8,0,-2,6448,22791,116
+0,9,0,-2,6144,22853,109
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,5924,47211,147
+---PATTERN START:  http://swat.cse.lehigh.edu/resources/onto/aigp.owl#inUniversity http://aigp.csres.utexas.edu/~aigp/school/show/244 .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,9,5,0
+6,0,-2,33977,19209,0
+7,0,-2,15815,12783,0
+8,0,-2,8040,6508,0
+9,0,-2,1810,142,0
+4,0,-2,6321,218,0
+3,0,-2,93,147,0
+2,0,-2,93,147,0
+1,0,-2,95,148,0
+0,0,-2,95,31434,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,165,92446,186
+0,2,0,-2,167,70702,434
+0,3,0,-2,166,70577,372
+0,4,0,-2,166,70526,310
+0,5,0,-2,86,78885,310
+0,6,0,-2,19163,147521,310
+0,7,0,-2,12812,136505,434
+0,8,0,-2,6528,136526,434
+0,9,0,-2,169,136829,434
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,55095,1473646,1488

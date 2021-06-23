@@ -1,0 +1,1350 @@
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/7ada1395-723c-3efa-82f0-f86cf4807062   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9823,3266,0
+7,0,-2,3281,3267,0
+8,0,-2,3278,3267,0
+9,0,-2,3276,3268,0
+4,0,-2,13788,3580,0
+3,0,-2,3368,3377,0
+2,0,-2,3562,3538,0
+1,0,-2,3558,3536,0
+0,0,-2,3314,3385,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,6878,18618,52
+0,2,0,-2,6805,7092,52
+0,3,0,-2,7251,7070,48
+0,4,0,-2,6547,7083,52
+0,5,0,-2,3204,11682,52
+0,6,0,-2,6504,22753,52
+0,7,0,-2,6495,17542,52
+0,8,0,-2,6485,17443,52
+0,9,0,-2,6473,17446,52
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,6417,11893,133
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/bfb2f874-c4fe-3e67-b22f-57148962f952   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9152,4052,0
+7,0,-2,4150,4124,0
+8,0,-2,4073,4049,0
+9,0,-2,4144,4118,0
+4,0,-2,16447,4569,0
+3,0,-2,4306,4301,0
+2,0,-2,4589,4564,0
+1,0,-2,4726,5726,0
+0,0,-2,45,4298,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4755,25635,56
+0,2,0,-2,4585,8888,56
+0,3,0,-2,4298,9167,52
+0,4,0,-2,4789,9396,56
+0,5,0,-2,41,14321,56
+0,6,0,-2,4299,30040,56
+0,7,0,-2,4143,21072,56
+0,8,0,-2,4106,21416,56
+0,9,0,-2,4162,22403,56
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8234,14749,159
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/b153a812-f800-3b38-945e-63991fcec62a   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,1,0
+6,0,-2,10099,3750,0
+7,0,-2,3769,3732,0
+8,0,-2,3768,3730,0
+9,0,-2,3773,3730,0
+4,0,-2,17933,4230,0
+3,0,-2,4266,4227,0
+2,0,-2,4276,4228,0
+1,0,-2,4052,4028,0
+0,0,-2,45,4018,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4056,23088,48
+0,2,0,-2,4249,8967,52
+0,3,0,-2,4249,9055,52
+0,4,0,-2,4498,9530,52
+0,5,0,-2,44,14298,52
+0,6,0,-2,4032,30045,52
+0,7,0,-2,3841,20574,52
+0,8,0,-2,3822,20572,52
+0,9,0,-2,3819,21176,52
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7994,14430,166
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/a2472e23-94d8-38e1-9d31-f5d7dd336eaa   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,7592,4889,0
+7,0,-2,4926,4888,0
+8,0,-2,4931,4885,0
+9,0,-2,4899,4881,0
+4,0,-2,12885,4439,0
+3,0,-2,4472,4442,0
+2,0,-2,4534,5437,0
+1,0,-2,4200,4187,0
+0,0,-2,49,4178,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4229,20695,58
+0,2,0,-2,4560,9428,62
+0,3,0,-2,4476,10025,62
+0,4,0,-2,4728,10057,62
+0,5,0,-2,47,16245,62
+0,6,0,-2,4968,32397,62
+0,7,0,-2,4985,25010,62
+0,8,0,-2,4955,25133,62
+0,9,0,-2,4949,24552,62
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8888,16558,184
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/96cc2627-e55b-39a8-a027-b600c57e40f6   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,11371,4699,0
+7,0,-2,8129,4849,0
+8,0,-2,4926,4922,0
+9,0,-2,4845,4837,0
+4,0,-2,9234,5322,0
+3,0,-2,5219,5225,0
+2,0,-2,5216,5221,0
+1,0,-2,5206,5205,0
+0,0,-2,44,4972,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5279,23183,73
+0,2,0,-2,5213,11146,73
+0,3,0,-2,5212,11468,73
+0,4,0,-2,5569,11752,73
+0,5,0,-2,42,17385,73
+0,6,0,-2,5093,26155,69
+0,7,0,-2,4940,26194,73
+0,8,0,-2,4998,27509,73
+0,9,0,-2,4912,27426,73
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9819,17082,174
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/6c4a7301-1fc1-34c3-8139-90bfafe561e3   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,11290,4360,0
+7,0,-2,4370,4352,0
+8,0,-2,4383,4378,0
+9,0,-2,4367,4380,0
+4,0,-2,11666,4379,0
+3,0,-2,4201,4208,0
+2,0,-2,4395,4375,0
+1,0,-2,4386,4381,0
+0,0,-2,46,4175,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4432,29822,62
+0,2,0,-2,4410,9136,62
+0,3,0,-2,4219,9174,58
+0,4,0,-2,4529,9675,62
+0,5,0,-2,45,16823,62
+0,6,0,-2,4463,34222,62
+0,7,0,-2,4409,22502,62
+0,8,0,-2,4412,23790,62
+0,9,0,-2,4403,23981,62
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8798,15591,168
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/9d30b752-24ba-3259-8658-1ecedbd1b8fe   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9351,4098,0
+7,0,-2,4109,4133,0
+8,0,-2,4110,4110,0
+9,0,-2,4125,4121,0
+4,0,-2,4314,4145,0
+3,0,-2,4142,4145,0
+2,0,-2,4171,4149,0
+1,0,-2,4151,4164,0
+0,0,-2,48,3866,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4252,25658,59
+0,2,0,-2,4164,8831,59
+0,3,0,-2,4164,9165,59
+0,4,0,-2,4404,9339,59
+0,5,0,-2,46,14198,59
+0,6,0,-2,4374,26932,59
+0,7,0,-2,4150,21106,59
+0,8,0,-2,4152,21522,59
+0,9,0,-2,4179,22500,59
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7741,14655,164
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/f0665d5d-3ce0-3bb7-b0ac-9dfec0b8e236   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9473,3574,0
+7,0,-2,3606,3567,0
+8,0,-2,3591,3578,0
+9,0,-2,3586,3587,0
+4,0,-2,12870,4415,0
+3,0,-2,4487,4382,0
+2,0,-2,4403,5414,0
+1,0,-2,4385,4337,0
+0,0,-2,47,4115,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4471,22301,53
+0,2,0,-2,4443,8713,53
+0,3,0,-2,4249,8550,53
+0,4,0,-2,4237,8641,53
+0,5,0,-2,43,13916,53
+0,6,0,-2,3897,24387,53
+0,7,0,-2,3643,19739,53
+0,8,0,-2,3652,19502,53
+0,9,0,-2,3675,19549,53
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7265,13520,152
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/05b2aa5c-3612-3eae-a9d4-9456fd96d7af   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9964,4407,0
+7,0,-2,5459,4409,0
+8,0,-2,4423,4413,0
+9,0,-2,4443,4401,0
+4,0,-2,4536,4443,0
+3,0,-2,4473,4446,0
+2,0,-2,4453,4440,0
+1,0,-2,4283,4276,0
+0,0,-2,46,4273,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4303,21313,56
+0,2,0,-2,4503,9454,57
+0,3,0,-2,4472,9708,57
+0,4,0,-2,4742,9950,57
+0,5,0,-2,43,15496,57
+0,6,0,-2,4462,23538,57
+0,7,0,-2,4455,22341,57
+0,8,0,-2,4474,23555,57
+0,9,0,-2,4466,23837,57
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8929,15617,164
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/83e19a8c-6272-3609-9ddf-df7bb5be2f88   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9072,4126,0
+7,0,-2,4153,4127,0
+8,0,-2,4057,4060,0
+9,0,-2,4142,4118,0
+4,0,-2,13959,4413,0
+3,0,-2,4070,4072,0
+2,0,-2,4439,4409,0
+1,0,-2,4433,4411,0
+0,0,-2,45,4036,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4467,18107,57
+0,2,0,-2,4576,9117,57
+0,3,0,-2,4077,8732,53
+0,4,0,-2,4443,8726,57
+0,5,0,-2,42,16219,57
+0,6,0,-2,4183,29343,57
+0,7,0,-2,4180,21656,57
+0,8,0,-2,4084,21520,56
+0,9,0,-2,4174,21510,57
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8010,14772,158
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/b3269092-2d30-32c4-a614-74861864cb15   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7297,3682,0
+7,0,-2,3751,3730,0
+8,0,-2,3735,3732,0
+9,0,-2,3739,3746,0
+4,0,-2,10127,4136,0
+3,0,-2,3976,3987,0
+2,0,-2,4129,4125,0
+1,0,-2,4127,4161,31
+0,0,-2,46,3950,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4177,14926,53
+0,2,0,-2,5086,8458,53
+0,3,0,-2,3999,8605,49
+0,4,0,-2,4333,8931,53
+0,5,0,-2,44,13734,53
+0,6,0,-2,3951,25027,49
+0,7,0,-2,3833,20023,53
+0,8,0,-2,3815,20050,53
+0,9,0,-2,3826,20852,53
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7933,14093,159
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/29ded604-539e-39dc-a04c-878bfd936337   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,5062,4058,0
+7,0,-2,4082,4079,0
+8,0,-2,4080,4059,0
+9,0,-2,4087,4050,0
+4,0,-2,8372,4258,0
+3,0,-2,4278,4277,0
+2,0,-2,4273,4261,0
+1,0,-2,4105,4073,0
+0,0,-2,46,4082,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4105,14598,55
+0,2,0,-2,4289,9137,59
+0,3,0,-2,4491,9674,59
+0,4,0,-2,4539,9692,59
+0,5,0,-2,45,14542,59
+0,6,0,-2,4331,23238,59
+0,7,0,-2,4107,21748,59
+0,8,0,-2,4137,23094,59
+0,9,0,-2,4092,23069,59
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8506,14926,166
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/9616a23c-68ce-31ec-bba9-a60d3a8174dc   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,11853,4119,0
+7,0,-2,4149,4144,0
+8,0,-2,4186,4207,0
+9,0,-2,4115,4112,0
+4,0,-2,8506,4363,0
+3,0,-2,4171,4199,0
+2,0,-2,9823,4371,0
+1,0,-2,4498,4531,0
+0,0,-2,49,4363,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4607,15811,61
+0,2,0,-2,4400,9040,61
+0,3,0,-2,4195,9322,57
+0,4,0,-2,4509,9619,61
+0,5,0,-2,45,14865,61
+0,6,0,-2,4190,31299,61
+0,7,0,-2,4181,22188,61
+0,8,0,-2,4244,23341,61
+0,9,0,-2,4178,23470,61
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8465,15082,163
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/241abae4-775e-3c09-aaca-7019f07aa7fe   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,12443,4763,0
+7,0,-2,4719,4694,0
+8,0,-2,4722,4686,0
+9,0,-2,4714,4682,0
+4,0,-2,14925,4885,0
+3,0,-2,4925,4888,0
+2,0,-2,5048,4990,0
+1,0,-2,4914,4877,0
+0,0,-2,50,4664,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5962,39008,63
+0,2,0,-2,5031,10540,63
+0,3,0,-2,5203,10953,63
+0,4,0,-2,5214,10895,63
+0,5,0,-2,48,16662,63
+0,6,0,-2,4845,35588,63
+0,7,0,-2,4767,25861,63
+0,8,0,-2,4766,25577,63
+0,9,0,-2,4752,24928,63
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9313,17147,186
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/7ec18c84-7f39-3647-be31-93db49155fd7   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,6376,3678,0
+7,0,-2,3690,3667,0
+8,0,-2,3685,3690,0
+9,0,-2,3707,3667,0
+4,0,-2,8665,4173,0
+3,0,-2,3887,3895,0
+2,0,-2,4167,4152,0
+1,0,-2,4189,4159,0
+0,0,-2,48,3871,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4223,16016,54
+0,2,0,-2,4276,8533,54
+0,3,0,-2,3900,8336,50
+0,4,0,-2,4192,8388,54
+0,5,0,-2,46,13226,54
+0,6,0,-2,3734,21803,54
+0,7,0,-2,3736,20290,54
+0,8,0,-2,3725,19940,54
+0,9,0,-2,3736,19855,54
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7398,13683,155
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/dac98c9f-ccac-32f4-ba55-ec6194a30f34   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,8799,4206,0
+7,0,-2,4228,4196,0
+8,0,-2,4213,4223,0
+9,0,-2,4211,4203,0
+4,0,-2,13789,4499,0
+3,0,-2,4513,4525,0
+2,0,-2,4511,4495,0
+1,0,-2,4292,4317,0
+0,0,-2,57,4295,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4323,23136,55
+0,2,0,-2,4522,9413,59
+0,3,0,-2,4519,9417,59
+0,4,0,-2,4544,9925,59
+0,5,0,-2,43,14966,59
+0,6,0,-2,4285,26810,59
+0,7,0,-2,4294,22262,59
+0,8,0,-2,4298,22987,59
+0,9,0,-2,4305,23606,59
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8849,15661,171
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/e8393d7b-3e70-3d0a-abe8-165358db317e   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9438,4041,0
+7,0,-2,4044,4044,0
+8,0,-2,4071,4049,0
+9,0,-2,4065,4052,0
+4,0,-2,9147,4062,0
+3,0,-2,4070,4060,0
+2,0,-2,4085,4070,0
+1,0,-2,3896,3905,0
+0,0,-2,47,3920,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4112,20474,53
+0,2,0,-2,4086,8703,57
+0,3,0,-2,4105,8701,57
+0,4,0,-2,4087,8983,57
+0,5,0,-2,46,16809,57
+0,6,0,-2,4076,28078,57
+0,7,0,-2,4108,20725,57
+0,8,0,-2,4091,20815,57
+0,9,0,-2,4095,21621,57
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7861,14733,160
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/d19b6926-3374-3123-a9d9-bd52e9a058a6   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3757,3663,0
+7,0,-2,3686,3684,0
+8,0,-2,3732,3666,0
+9,0,-2,3659,3651,0
+4,0,-2,15759,3989,0
+3,0,-2,4000,3987,0
+2,0,-2,3999,3987,0
+1,0,-2,4776,3817,0
+0,0,-2,47,3766,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3834,25478,48
+0,2,0,-2,4274,8885,52
+0,3,0,-2,4036,8547,52
+0,4,0,-2,4035,8542,52
+0,5,0,-2,43,14023,52
+0,6,0,-2,3735,25563,52
+0,7,0,-2,3746,20061,52
+0,8,0,-2,3722,19829,52
+0,9,0,-2,3716,19753,52
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7344,14021,157
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/ec924274-b5ea-34a3-89d5-f758948b1c7e   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9013,3682,0
+7,0,-2,3753,3739,0
+8,0,-2,3771,3736,0
+9,0,-2,3751,3747,0
+4,0,-2,14021,4321,0
+3,0,-2,4332,4330,0
+2,0,-2,4187,4180,0
+1,0,-2,4006,4008,0
+0,0,-2,45,4197,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4234,18828,50
+0,2,0,-2,4331,8967,54
+0,3,0,-2,4365,8934,54
+0,4,0,-2,4384,9198,54
+0,5,0,-2,44,13568,54
+0,6,0,-2,3896,22721,50
+0,7,0,-2,3812,20461,54
+0,8,0,-2,3830,20508,54
+0,9,0,-2,3789,20754,54
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7937,14217,163
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/7fd1c9ea-5e71-38ed-add1-af04e4b5db1f   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,12640,4934,0
+7,0,-2,4940,4891,0
+8,0,-2,5926,4898,0
+9,0,-2,4978,4960,0
+4,0,-2,11672,5217,0
+3,0,-2,5013,5010,0
+2,0,-2,5269,5247,0
+1,0,-2,5222,5250,39
+0,0,-2,49,4970,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5292,26593,70
+0,2,0,-2,5273,10750,70
+0,3,0,-2,5274,11162,66
+0,4,0,-2,5493,11082,70
+0,5,0,-2,45,17222,70
+0,6,0,-2,5010,35218,70
+0,7,0,-2,5025,26820,70
+0,8,0,-2,5057,27038,70
+0,9,0,-2,5093,25710,70
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9820,17734,182
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/743844d2-be57-3496-bf56-08a8d353b22b   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,12160,4414,0
+7,0,-2,4197,4172,0
+8,0,-2,4204,4174,0
+9,0,-2,4190,4174,0
+4,0,-2,7061,4049,0
+3,0,-2,4146,4286,0
+2,0,-2,4281,4228,0
+1,0,-2,4269,4259,0
+0,0,-2,49,4051,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4325,27299,55
+0,2,0,-2,4079,8802,55
+0,3,0,-2,4091,9131,55
+0,4,0,-2,4327,9323,55
+0,5,0,-2,46,13103,55
+0,6,0,-2,4708,22751,55
+0,7,0,-2,4235,20783,55
+0,8,0,-2,4237,21464,55
+0,9,0,-2,4237,22027,55
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8347,14815,161
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/a71906b0-8469-3bac-813c-1d595b1782d4   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7315,3901,0
+7,0,-2,3915,3900,0
+8,0,-2,3905,3897,0
+9,0,-2,3909,3910,0
+4,0,-2,12428,4852,0
+3,0,-2,4041,4019,0
+2,0,-2,3934,3916,0
+1,0,-2,3700,3707,0
+0,0,-2,3648,3675,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7368,20040,53
+0,2,0,-2,7887,8445,57
+0,3,0,-2,7655,8238,57
+0,4,0,-2,7573,8249,57
+0,5,0,-2,3652,13721,57
+0,6,0,-2,7630,33033,57
+0,7,0,-2,7572,19727,57
+0,8,0,-2,7579,19824,57
+0,9,0,-2,7581,19848,57
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7478,13837,153
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/bc0d1af2-b13f-35f0-9d26-7904168ad70d   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3478,3330,0
+7,0,-2,3328,3297,0
+8,0,-2,3317,3303,0
+9,0,-2,3315,3300,0
+4,0,-2,11057,3444,0
+3,0,-2,3256,3269,0
+2,0,-2,3466,3447,0
+1,0,-2,3249,3260,0
+0,0,-2,3202,3236,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,6453,15845,48
+0,2,0,-2,6857,7090,52
+0,3,0,-2,6388,6888,48
+0,4,0,-2,6614,6886,52
+0,5,0,-2,3191,10689,52
+0,6,0,-2,6516,20545,52
+0,7,0,-2,6524,18088,52
+0,8,0,-2,6536,17671,52
+0,9,0,-2,6530,17336,52
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,6458,11565,123
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/b725f008-03ba-334a-8504-4d5867fba63c   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,10137,5178,0
+7,0,-2,5221,5240,0
+8,0,-2,5684,5244,0
+9,0,-2,5240,5236,0
+4,0,-2,14000,5101,0
+3,0,-2,5117,5101,0
+2,0,-2,5998,5101,0
+1,0,-2,4757,4795,0
+0,0,-2,46,4754,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4828,13524,69
+0,2,0,-2,5133,10685,73
+0,3,0,-2,5135,11204,73
+0,4,0,-2,5273,11326,73
+0,5,0,-2,43,18410,73
+0,6,0,-2,5210,30080,69
+0,7,0,-2,5329,27753,73
+0,8,0,-2,5294,27893,73
+0,9,0,-2,5314,26762,73
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9775,17658,188
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/821cdb2f-23a7-378b-ba80-6615cfc513c5   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,12242,4160,0
+7,0,-2,4147,4114,0
+8,0,-2,4128,4122,0
+9,0,-2,4266,4247,0
+4,0,-2,13628,4192,0
+3,0,-2,4207,4192,0
+2,0,-2,4235,4194,0
+1,0,-2,4199,4186,0
+0,0,-2,48,3961,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4260,22584,56
+0,2,0,-2,4232,8849,56
+0,3,0,-2,4238,8899,56
+0,4,0,-2,4498,9358,56
+0,5,0,-2,48,13477,56
+0,6,0,-2,4198,29940,56
+0,7,0,-2,4184,21079,56
+0,8,0,-2,4180,21806,56
+0,9,0,-2,4367,22269,56
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8342,14731,159
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/c9fe656e-991d-3983-81f5-205a0a2fcbc7   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9719,4263,0
+7,0,-2,4291,4265,0
+8,0,-2,7098,4294,0
+9,0,-2,4234,4218,0
+4,0,-2,17413,4761,0
+3,0,-2,4752,4720,0
+2,0,-2,4748,4787,0
+1,0,-2,4753,4727,0
+0,0,-2,45,4524,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4800,29206,60
+0,2,0,-2,4742,9924,60
+0,3,0,-2,4878,10540,60
+0,4,0,-2,4903,10538,60
+0,5,0,-2,43,15520,60
+0,6,0,-2,4313,30901,60
+0,7,0,-2,4360,24486,60
+0,8,0,-2,4427,24587,60
+0,9,0,-2,4337,24842,60
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9022,16224,179
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/000168a4-c53a-35c8-bdd2-ab57596cc16e   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,11200,3460,0
+7,0,-2,3469,3437,0
+8,0,-2,3578,3541,0
+9,0,-2,3478,3436,0
+4,0,-2,5957,3557,0
+3,0,-2,3653,3739,0
+2,0,-2,3760,3704,0
+1,0,-2,3768,3721,0
+0,0,-2,3529,3530,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7592,10185,51
+0,2,0,-2,6849,7641,51
+0,3,0,-2,6863,7627,51
+0,4,0,-2,6904,8113,51
+0,5,0,-2,3525,13148,51
+0,6,0,-2,7609,24631,51
+0,7,0,-2,7509,18596,51
+0,8,0,-2,6968,18082,51
+0,9,0,-2,6795,18482,51
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,6728,12371,143
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/3e75c871-e0ab-382d-9858-591c863268d0   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,8892,3930,0
+7,0,-2,3951,3942,0
+8,0,-2,3950,3932,0
+9,0,-2,3834,3855,0
+4,0,-2,21515,4058,0
+3,0,-2,4079,4061,0
+2,0,-2,4120,4099,0
+1,0,-2,4146,4124,0
+0,0,-2,3809,3839,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7967,15807,54
+0,2,0,-2,8778,8450,54
+0,3,0,-2,7841,8711,54
+0,4,0,-2,8288,8959,54
+0,5,0,-2,4035,13439,54
+0,6,0,-2,8195,26256,54
+0,7,0,-2,7751,20063,54
+0,8,0,-2,7757,20035,54
+0,9,0,-2,7659,21473,50
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7963,14126,155
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/32994791-04d3-3d99-b7cd-f9b9efa5aba8   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7053,4894,0
+7,0,-2,5044,5017,0
+8,0,-2,4912,4893,0
+9,0,-2,4906,4884,0
+4,0,-2,7735,5011,0
+3,0,-2,5019,4998,0
+2,0,-2,5019,6003,0
+1,0,-2,4746,4710,0
+0,0,-2,46,4707,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4761,22370,59
+0,2,0,-2,5038,10313,63
+0,3,0,-2,5053,10507,63
+0,4,0,-2,5325,10940,63
+0,5,0,-2,44,15372,63
+0,6,0,-2,4959,29997,63
+0,7,0,-2,5081,24998,63
+0,8,0,-2,4970,25825,63
+0,9,0,-2,4980,25861,63
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9741,17262,194
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/b494a78c-4302-3621-ab8b-0a81c789c17f   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,6468,4074,0
+7,0,-2,4160,4116,0
+8,0,-2,4135,4133,0
+9,0,-2,4146,4130,0
+4,0,-2,9616,3794,0
+3,0,-2,3848,3817,0
+2,0,-2,3810,3791,0
+1,0,-2,3611,3646,0
+0,0,-2,3565,3604,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7172,29379,52
+0,2,0,-2,7301,8144,56
+0,3,0,-2,7323,8162,56
+0,4,0,-2,7398,8485,56
+0,5,0,-2,3607,14583,56
+0,6,0,-2,7665,29323,52
+0,7,0,-2,7738,20229,56
+0,8,0,-2,7720,20208,56
+0,9,0,-2,7758,21282,56
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7596,13917,150
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/c8b2de77-076c-36cd-b69a-d141ec7373f0   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,10657,3360,0
+7,0,-2,3350,3361,0
+8,0,-2,3345,3360,0
+9,0,-2,3357,3370,0
+4,0,-2,6035,3701,0
+3,0,-2,3501,3533,0
+2,0,-2,3691,3709,0
+1,0,-2,3679,3698,0
+0,0,-2,3448,3498,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7129,11320,53
+0,2,0,-2,7080,7366,53
+0,3,0,-2,6907,7380,49
+0,4,0,-2,7109,7718,53
+0,5,0,-2,3497,11816,53
+0,6,0,-2,6773,26497,53
+0,7,0,-2,6791,17979,53
+0,8,0,-2,6799,17996,53
+0,9,0,-2,6808,18004,53
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,6733,12114,132
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/138fda0a-1ae0-3dbf-922c-8b6118d79b4c   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,5672,3800,0
+7,0,-2,3814,3798,0
+8,0,-2,3810,3799,0
+9,0,-2,3807,3798,0
+4,0,-2,12791,4348,0
+3,0,-2,4356,4347,0
+2,0,-2,4358,4342,0
+1,0,-2,4348,4343,0
+0,0,-2,44,4197,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4386,22774,54
+0,2,0,-2,4368,9185,54
+0,3,0,-2,4371,9175,54
+0,4,0,-2,4380,9703,54
+0,5,0,-2,43,14826,54
+0,6,0,-2,3854,26216,54
+0,7,0,-2,3855,21069,54
+0,8,0,-2,3845,21173,54
+0,9,0,-2,3850,22364,54
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8271,14608,157
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/a5f91681-11c6-3ad3-abb2-9dc4ef4aa947   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,11752,4100,0
+7,0,-2,3870,3833,0
+8,0,-2,3867,3841,0
+9,0,-2,3892,3832,0
+4,0,-2,14741,4033,0
+3,0,-2,4144,4187,0
+2,0,-2,4256,4179,0
+1,0,-2,4234,4182,0
+0,0,-2,3932,4012,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,8132,19679,55
+0,2,0,-2,8216,8460,55
+0,3,0,-2,7767,8441,55
+0,4,0,-2,7762,8590,55
+0,5,0,-2,3976,13917,55
+0,6,0,-2,8239,26772,55
+0,7,0,-2,7616,19860,55
+0,8,0,-2,7618,19804,55
+0,9,0,-2,7610,19702,55
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7514,13749,157
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/0b52822b-c505-38aa-b72f-71089f79103e   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,6540,5037,0
+7,0,-2,5059,5016,0
+8,0,-2,5042,5015,0
+9,0,-2,5037,5006,0
+4,0,-2,9179,5041,0
+3,0,-2,5069,5040,0
+2,0,-2,5069,5042,0
+1,0,-2,4844,4855,0
+0,0,-2,46,4826,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4887,25423,63
+0,2,0,-2,5072,10545,67
+0,3,0,-2,5080,11089,67
+0,4,0,-2,5397,11181,67
+0,5,0,-2,45,17998,67
+0,6,0,-2,5067,30885,67
+0,7,0,-2,5068,26926,67
+0,8,0,-2,5074,26999,67
+0,9,0,-2,5081,26089,67
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9751,17702,181
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/3e2b207a-dd44-3d8d-8ad5-ebeee3450300   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,10204,3489,0
+7,0,-2,3507,3488,0
+8,0,-2,4423,3903,0
+9,0,-2,3582,3590,0
+4,0,-2,7246,3799,0
+3,0,-2,3816,3795,0
+2,0,-2,3840,3791,0
+1,0,-2,3811,3787,0
+0,0,-2,3524,3560,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7320,19153,52
+0,2,0,-2,7289,8051,52
+0,3,0,-2,7299,8242,52
+0,4,0,-2,7718,8506,52
+0,5,0,-2,3771,12697,52
+0,6,0,-2,7395,20043,52
+0,7,0,-2,7031,18675,52
+0,8,0,-2,7224,18742,52
+0,9,0,-2,6926,19189,48
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7083,12863,149
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/b87e9818-425e-34ac-b59d-2774409859e4   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7321,3838,0
+7,0,-2,3853,3839,0
+8,0,-2,3873,3840,0
+9,0,-2,3853,3839,0
+4,0,-2,15035,4214,0
+3,0,-2,4229,4217,0
+2,0,-2,4272,4257,0
+1,0,-2,4221,4204,0
+0,0,-2,43,4026,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4255,23182,57
+0,2,0,-2,4539,9141,57
+0,3,0,-2,4246,9108,57
+0,4,0,-2,4246,9428,57
+0,5,0,-2,41,14915,57
+0,6,0,-2,3919,28272,57
+0,7,0,-2,3943,21028,57
+0,8,0,-2,3942,21821,57
+0,9,0,-2,3923,22231,57
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8071,14732,168
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/eab9bfaa-47f1-368a-a9b7-a87bb345cf30   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,10043,5353,0
+7,0,-2,5521,5476,0
+8,0,-2,5368,5367,0
+9,0,-2,5373,5416,48
+4,0,-2,8858,5742,0
+3,0,-2,5502,5513,0
+2,0,-2,5760,5751,0
+1,0,-2,5762,7028,0
+0,0,-2,47,5461,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5809,24861,82
+0,2,0,-2,5771,12149,82
+0,3,0,-2,5708,12601,78
+0,4,0,-2,5946,12310,82
+0,5,0,-2,50,19565,82
+0,6,0,-2,5446,31303,82
+0,7,0,-2,5621,30668,82
+0,8,0,-2,5459,29176,82
+0,9,0,-2,5477,30141,82
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,10833,19726,203
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/345d274d-533e-3473-a800-95b5319a75a5   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9185,5074,0
+7,0,-2,4999,4973,0
+8,0,-2,5006,4970,0
+9,0,-2,4998,4964,0
+4,0,-2,11561,5345,0
+3,0,-2,5379,5343,0
+2,0,-2,5372,5345,0
+1,0,-2,5111,5090,0
+0,0,-2,44,5080,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5132,20943,60
+0,2,0,-2,5367,10948,64
+0,3,0,-2,5362,11592,64
+0,4,0,-2,5647,11609,64
+0,5,0,-2,44,17097,64
+0,6,0,-2,5131,30919,64
+0,7,0,-2,5063,27522,64
+0,8,0,-2,5025,27654,64
+0,9,0,-2,5024,27260,64
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9931,18155,191
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/bd8540df-a13f-360c-9e28-64b55adde9c8   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,10365,4180,0
+7,0,-2,4188,4195,0
+8,0,-2,4184,4172,0
+9,0,-2,4279,4238,0
+4,0,-2,11530,4105,0
+3,0,-2,4133,4107,0
+2,0,-2,4117,4105,0
+1,0,-2,3910,3967,0
+0,0,-2,46,3877,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3891,15655,56
+0,2,0,-2,4089,9030,60
+0,3,0,-2,4095,9208,60
+0,4,0,-2,4339,9568,60
+0,5,0,-2,44,13750,60
+0,6,0,-2,4163,26152,60
+0,7,0,-2,4193,21016,60
+0,8,0,-2,4180,21256,60
+0,9,0,-2,4254,22065,60
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7873,14666,158
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/018a40be-eadd-34ab-a418-48f096979ea0   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,6143,4305,0
+7,0,-2,4361,4290,0
+8,0,-2,4331,4266,0
+9,0,-2,4319,4251,0
+4,0,-2,6218,4593,0
+3,0,-2,4661,4594,0
+2,0,-2,4660,4589,0
+1,0,-2,4653,4583,0
+0,0,-2,46,4390,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4662,26042,61
+0,2,0,-2,4661,10258,61
+0,3,0,-2,4923,10527,61
+0,4,0,-2,4902,10413,61
+0,5,0,-2,43,14838,61
+0,6,0,-2,4366,23850,61
+0,7,0,-2,4378,24616,61
+0,8,0,-2,4382,24583,61
+0,9,0,-2,4383,24379,61
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8690,16068,180
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/ac46ca60-ecab-3d01-9dc6-c192035d5ffd   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,10699,4071,0
+7,0,-2,4108,4077,0
+8,0,-2,4093,4067,0
+9,0,-2,4087,4071,0
+4,0,-2,16692,3874,0
+3,0,-2,3665,3652,0
+2,0,-2,3832,3805,0
+1,0,-2,3835,3806,0
+0,0,-2,3613,3641,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,7428,22750,55
+0,2,0,-2,7374,8015,55
+0,3,0,-2,7205,8096,51
+0,4,0,-2,7579,8461,55
+0,5,0,-2,3595,12715,55
+0,6,0,-2,7908,25244,55
+0,7,0,-2,7678,20176,55
+0,8,0,-2,7699,20221,55
+0,9,0,-2,7675,21055,55
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7870,14147,158
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/f3e4768e-524b-36c5-a67c-04d01eb4f3a7   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,8474,4394,0
+7,0,-2,4420,4369,0
+8,0,-2,4385,4379,0
+9,0,-2,4392,4384,0
+4,0,-2,11554,4589,0
+3,0,-2,4545,4471,0
+2,0,-2,4513,4494,0
+1,0,-2,4528,4471,0
+0,0,-2,47,4331,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4590,22807,56
+0,2,0,-2,4339,9207,56
+0,3,0,-2,4354,9724,56
+0,4,0,-2,4598,9795,56
+0,5,0,-2,44,14569,56
+0,6,0,-2,4667,23553,56
+0,7,0,-2,4434,23670,56
+0,8,0,-2,4449,23622,56
+0,9,0,-2,4415,23577,56
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8726,15655,171
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/260b5d1a-8240-3f3d-ae24-f159c134e447   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7078,4807,0
+7,0,-2,4818,4790,0
+8,0,-2,4810,4804,0
+9,0,-2,4666,4671,0
+4,0,-2,12766,5016,0
+3,0,-2,5038,5035,0
+2,0,-2,5043,5010,0
+1,0,-2,5054,5032,0
+0,0,-2,54,4658,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5084,31567,66
+0,2,0,-2,5051,10590,66
+0,3,0,-2,5351,10915,66
+0,4,0,-2,5352,10859,66
+0,5,0,-2,51,16174,66
+0,6,0,-2,4868,39085,66
+0,7,0,-2,4873,25957,66
+0,8,0,-2,4916,25782,66
+0,9,0,-2,4708,25447,62
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9267,16773,184
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/f08c4e64-8fc4-3ac1-97ee-7366d76233d9   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,15499,4326,0
+7,0,-2,4358,4330,0
+8,0,-2,4356,4330,0
+9,0,-2,4371,4330,0
+4,0,-2,7307,4895,0
+3,0,-2,8582,4992,0
+2,0,-2,4886,4822,0
+1,0,-2,5052,4977,0
+0,0,-2,48,4658,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5084,27402,59
+0,2,0,-2,4654,9583,59
+0,3,0,-2,4821,10175,59
+0,4,0,-2,4842,10193,59
+0,5,0,-2,43,15011,59
+0,6,0,-2,4624,31067,59
+0,7,0,-2,4389,22709,59
+0,8,0,-2,4392,24013,59
+0,9,0,-2,4383,24193,59
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9025,16100,179
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/bfe6db89-dddf-3480-b718-f41b892b3404   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,7382,4038,0
+7,0,-2,4200,4184,0
+8,0,-2,4047,4019,0
+9,0,-2,4036,4063,39
+4,0,-2,7329,4456,0
+3,0,-2,4474,4453,0
+2,0,-2,4486,4450,0
+1,0,-2,4199,4212,0
+0,0,-2,45,4179,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4238,29794,56
+0,2,0,-2,4480,9260,60
+0,3,0,-2,4483,9559,60
+0,4,0,-2,4746,9837,60
+0,5,0,-2,45,14770,60
+0,6,0,-2,4306,27640,60
+0,7,0,-2,4221,21444,60
+0,8,0,-2,4071,21698,60
+0,9,0,-2,4120,22955,60
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8367,14943,161
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/051152c0-b8b9-390b-8ab7-0acb09f3cd9b   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9201,5164,0
+7,0,-2,5192,5159,0
+8,0,-2,5198,5160,0
+9,0,-2,5188,5171,0
+4,0,-2,12726,5516,0
+3,0,-2,5555,5525,0
+2,0,-2,5565,5539,0
+1,0,-2,5309,5304,0
+0,0,-2,44,5298,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5333,23702,65
+0,2,0,-2,5550,11808,69
+0,3,0,-2,5861,12037,69
+0,4,0,-2,5933,11655,69
+0,5,0,-2,44,16887,69
+0,6,0,-2,5210,30121,69
+0,7,0,-2,5219,28159,69
+0,8,0,-2,5212,27993,69
+0,9,0,-2,5224,26728,69
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,10347,18790,203
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/e7b77866-3a23-3dec-97d7-e711f1ff2ff4   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,10033,4835,0
+7,0,-2,4872,4839,0
+8,0,-2,4862,4832,0
+9,0,-2,4857,4831,0
+4,0,-2,8186,5132,0
+3,0,-2,5144,5112,0
+2,0,-2,5136,5106,0
+1,0,-2,5142,5101,0
+0,0,-2,47,4909,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5158,30324,71
+0,2,0,-2,5122,10838,71
+0,3,0,-2,5124,11511,71
+0,4,0,-2,5427,11488,71
+0,5,0,-2,44,16408,71
+0,6,0,-2,5595,29780,71
+0,7,0,-2,4901,27125,71
+0,8,0,-2,4911,27191,71
+0,9,0,-2,4912,26057,71
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9707,17763,189
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/8e31f1da-1e9a-3d70-99c8-ca7e3832faa1   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9506,3844,0
+7,0,-2,3815,3841,0
+8,0,-2,3816,3834,0
+9,0,-2,3811,3834,0
+4,0,-2,19292,4317,0
+3,0,-2,4306,4332,0
+2,0,-2,4298,4322,0
+1,0,-2,4078,4140,0
+0,0,-2,46,4114,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4158,15078,53
+0,2,0,-2,4347,9128,57
+0,3,0,-2,4360,9414,57
+0,4,0,-2,4556,9656,57
+0,5,0,-2,46,14472,57
+0,6,0,-2,4109,29131,57
+0,7,0,-2,3850,21335,57
+0,8,0,-2,3870,21600,57
+0,9,0,-2,3865,22630,57
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,8096,14626,165
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/5e026e3f-b1a3-3038-b5fb-ab37d800f57b   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9546,4506,0
+7,0,-2,4485,4498,0
+8,0,-2,4578,4525,0
+9,0,-2,4477,4514,0
+4,0,-2,6435,5039,0
+3,0,-2,5096,5088,0
+2,0,-2,5011,5037,0
+1,0,-2,5012,5072,42
+0,0,-2,46,4876,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,5051,24864,64
+0,2,0,-2,5021,10339,64
+0,3,0,-2,5083,10844,64
+0,4,0,-2,5313,10925,64
+0,5,0,-2,45,16338,64
+0,6,0,-2,4764,25388,64
+0,7,0,-2,4508,25635,64
+0,8,0,-2,4530,25617,64
+0,9,0,-2,4527,25674,64
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,9518,16461,179
+---PATTERN START: http://d.opencalais.com/er/company/ralg-tr1r/18c4fb09-cb60-362b-af2e-c92d789e173e   .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7383,3535,0
+7,0,-2,3539,3540,0
+8,0,-2,3543,3538,0
+9,0,-2,3538,3537,0
+4,0,-2,8614,4101,0
+3,0,-2,4106,4093,0
+2,0,-2,4099,4099,0
+1,0,-2,4197,4174,0
+0,0,-2,49,3783,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,4218,32853,51
+0,2,0,-2,4118,8641,51
+0,3,0,-2,4140,8772,51
+0,4,0,-2,4381,9141,51
+0,5,0,-2,48,13222,51
+0,6,0,-2,3605,22229,51
+0,7,0,-2,3580,19785,51
+0,8,0,-2,3580,20052,51
+0,9,0,-2,3587,20917,51
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,7554,13955,161

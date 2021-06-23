@@ -1,0 +1,1350 @@
+---PATTERN START: http://id.crossref.org/issn/1615-5262  http://purl.org/ontology/bibo/Journal .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3276,100,0
+7,0,-2,104,100,0
+8,0,-2,101,100,0
+9,0,-2,100,100,0
+4,0,-2,3901,124,0
+3,0,-2,125,126,0
+2,0,-2,125,124,0
+1,0,-2,123,124,0
+0,0,-2,5328,141,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,239,130,1
+0,2,0,-2,242,130,1
+0,3,0,-2,238,130,1
+0,4,0,-2,240,130,1
+0,5,0,-2,120,130,1
+0,6,0,-2,217,215,1
+0,7,0,-2,217,214,1
+0,8,0,-2,218,213,1
+0,9,0,-2,217,214,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,93,92,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#NotifiableThing  http://www.gazettes-online.co.uk/ontology#Authoriser .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,8679,87,0
+7,0,-2,88,87,0
+8,0,-2,87,86,0
+9,0,-2,88,87,0
+4,0,-2,8230,107,0
+3,0,-2,111,108,0
+2,0,-2,108,109,0
+1,0,-2,110,109,0
+0,0,-2,2936,135,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,216,119,1
+0,2,0,-2,212,118,1
+0,3,0,-2,214,118,1
+0,4,0,-2,212,118,1
+0,5,0,-2,110,117,1
+0,6,0,-2,197,192,1
+0,7,0,-2,193,190,1
+0,8,0,-2,194,191,1
+0,9,0,-2,193,190,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,85,83,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/resources/councils#BarkingAndDagenhamLondonBoroughCouncil  http://www.gazettes-online.co.uk/ontology/organisation#LondonBoroughCouncil .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3963,89,0
+7,0,-2,91,89,0
+8,0,-2,88,88,0
+9,0,-2,89,88,0
+4,0,-2,2271,130,0
+3,0,-2,133,130,0
+2,0,-2,129,129,0
+1,0,-2,130,130,0
+0,0,-2,284,156,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,255,144,1
+0,2,0,-2,258,143,1
+0,3,0,-2,254,143,1
+0,4,0,-2,257,142,1
+0,5,0,-2,131,142,1
+0,6,0,-2,219,218,1
+0,7,0,-2,207,208,1
+0,8,0,-2,207,209,1
+0,9,0,-2,206,208,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,95,90,0
+---PATTERN START: http://data.dcs.shef.ac.uk/group/ml  http://xmlns.com/foaf/0.1/Group .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3749,95,0
+7,0,-2,97,95,0
+8,0,-2,96,98,0
+9,0,-2,96,96,0
+4,0,-2,14380,137,0
+3,0,-2,138,136,0
+2,0,-2,140,137,0
+1,0,-2,137,138,0
+0,0,-2,5592,158,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,267,148,1
+0,2,0,-2,263,148,1
+0,3,0,-2,264,147,1
+0,4,0,-2,264,148,1
+0,5,0,-2,131,148,1
+0,6,0,-2,223,225,1
+0,7,0,-2,225,227,1
+0,8,0,-2,223,225,1
+0,9,0,-2,224,226,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,102,98,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/authority#hasAuthority  http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3253,98,0
+7,0,-2,101,98,0
+8,0,-2,98,98,0
+9,0,-2,97,98,0
+4,0,-2,10086,118,0
+3,0,-2,118,117,0
+2,0,-2,117,117,0
+1,0,-2,122,120,0
+0,0,-2,5845,146,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,237,135,1
+0,2,0,-2,232,135,1
+0,3,0,-2,234,134,1
+0,4,0,-2,235,134,1
+0,5,0,-2,119,133,1
+0,6,0,-2,218,217,1
+0,7,0,-2,239,215,1
+0,8,0,-2,210,212,1
+0,9,0,-2,210,212,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,99,95,0
+---PATTERN START: http://example.org/bnode/httpx3Ax2Fx2Fcoursewarex2Erkbex78plorerx2Ecomx2Fontologiesx2Fcoursewarexxbnode0  http://www.w3.org/2002/07/owl#DataRange .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,4418,96,0
+7,0,-2,97,99,0
+8,0,-2,96,96,0
+9,0,-2,96,96,0
+4,0,-2,7815,107,0
+3,0,-2,106,106,0
+2,0,-2,106,110,0
+1,0,-2,107,106,0
+0,0,-2,107,107,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,206,91,0
+0,2,0,-2,207,90,0
+0,3,0,-2,205,90,0
+0,4,0,-2,206,92,0
+0,5,0,-2,107,91,0
+0,6,0,-2,204,173,0
+0,7,0,-2,200,174,0
+0,8,0,-2,199,173,0
+0,9,0,-2,198,173,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,103,101,0
+---PATTERN START: http://data.dcs.shef.ac.uk/group/oak  http://xmlns.com/foaf/0.1/Group .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,198,97,0
+7,0,-2,97,96,0
+8,0,-2,110,96,0
+9,0,-2,96,97,0
+4,0,-2,236,137,0
+3,0,-2,140,137,0
+2,0,-2,137,137,0
+1,0,-2,138,138,0
+0,0,-2,4799,165,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,267,148,1
+0,2,0,-2,273,152,1
+0,3,0,-2,266,147,1
+0,4,0,-2,268,147,1
+0,5,0,-2,135,147,1
+0,6,0,-2,227,228,1
+0,7,0,-2,227,227,1
+0,8,0,-2,228,226,1
+0,9,0,-2,226,227,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,104,99,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/legislation#NorthernIrelandOrderInCouncil  http://www.gazettes-online.co.uk/ontology/legislation#Order .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,2948,105,0
+7,0,-2,106,109,0
+8,0,-2,106,106,0
+9,0,-2,106,105,0
+4,0,-2,10679,143,0
+3,0,-2,139,138,0
+2,0,-2,140,138,0
+1,0,-2,138,139,0
+0,0,-2,179,168,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,269,156,1
+0,2,0,-2,268,155,1
+0,3,0,-2,267,156,1
+0,4,0,-2,267,156,1
+0,5,0,-2,135,156,1
+0,6,0,-2,247,250,1
+0,7,0,-2,241,249,1
+0,8,0,-2,238,251,1
+0,9,0,-2,240,250,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,113,103,0
+---PATTERN START: http://twitter.com/#!/clange  http://twitter.com .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,5422,98,0
+7,0,-2,103,98,0
+8,0,-2,99,98,0
+9,0,-2,99,98,0
+4,0,-2,14039,142,0
+3,0,-2,144,142,0
+2,0,-2,145,148,0
+1,0,-2,149,149,0
+0,0,-2,1243,170,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,275,160,1
+0,2,0,-2,276,159,1
+0,3,0,-2,277,168,1
+0,4,0,-2,289,168,1
+0,5,0,-2,145,167,1
+0,6,0,-2,245,250,1
+0,7,0,-2,236,250,1
+0,8,0,-2,236,250,1
+0,9,0,-2,238,249,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,109,107,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#isInIssue  http://www.gazettes-online.co.uk/ontology#Issue .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,1230,103,0
+7,0,-2,104,102,0
+8,0,-2,103,102,0
+9,0,-2,103,102,0
+4,0,-2,4997,132,0
+3,0,-2,133,131,0
+2,0,-2,133,133,0
+1,0,-2,133,142,0
+0,0,-2,1395,157,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,256,145,1
+0,2,0,-2,256,144,1
+0,3,0,-2,255,145,1
+0,4,0,-2,257,144,1
+0,5,0,-2,129,144,1
+0,6,0,-2,228,231,1
+0,7,0,-2,227,229,1
+0,8,0,-2,240,233,1
+0,9,0,-2,227,229,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,104,101,0
+---PATTERN START: http://xmlns.com/foaf/0.1/weblog  http://www.w3.org/2002/07/owl#InverseFunctionalProperty .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,14112,99,0
+7,0,-2,96,96,0
+8,0,-2,95,95,0
+9,0,-2,96,95,0
+4,0,-2,3541,121,0
+3,0,-2,121,122,0
+2,0,-2,121,121,0
+1,0,-2,123,122,0
+0,0,-2,4706,143,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,232,129,1
+0,2,0,-2,234,128,1
+0,3,0,-2,231,128,1
+0,4,0,-2,234,128,1
+0,5,0,-2,118,128,1
+0,6,0,-2,209,207,1
+0,7,0,-2,209,205,1
+0,8,0,-2,208,207,1
+0,9,0,-2,208,205,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,93,90,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#hasAuthorisingLocation  http://www.gazettes-online.co.uk/ontology#Authoriser .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,202,86,0
+7,0,-2,88,101,0
+8,0,-2,89,87,0
+9,0,-2,87,86,0
+4,0,-2,199,109,0
+3,0,-2,112,109,0
+2,0,-2,110,110,0
+1,0,-2,110,110,0
+0,0,-2,5459,137,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,221,121,1
+0,2,0,-2,215,120,1
+0,3,0,-2,215,121,1
+0,4,0,-2,216,120,1
+0,5,0,-2,112,119,1
+0,6,0,-2,197,194,1
+0,7,0,-2,195,192,1
+0,8,0,-2,195,194,1
+0,9,0,-2,195,192,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,84,82,0
+---PATTERN START: http://www.examiner.com/article/chicago-valentine-s-day-dining-by-the-numbers  http://cdn2-b.examiner.com/sites/all/themes/base/favicon.ico .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,8124,106,0
+7,0,-2,106,106,0
+8,0,-2,106,107,0
+9,0,-2,106,106,0
+4,0,-2,10904,138,0
+3,0,-2,134,132,0
+2,0,-2,132,131,0
+1,0,-2,131,132,0
+0,0,-2,2342,152,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,245,136,1
+0,2,0,-2,266,197,1
+0,3,0,-2,363,213,1
+0,4,0,-2,379,213,1
+0,5,0,-2,196,213,1
+0,6,0,-2,351,325,1
+0,7,0,-2,241,237,1
+0,8,0,-2,238,238,1
+0,9,0,-2,234,236,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,109,105,0
+---PATTERN START: http://www.loa-cnr.it/ontologies/DUL.owl#isObjectIncludedIn  http://www.loa-cnr.it/ontologies/DUL.owl#Situation .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3029,90,0
+7,0,-2,88,86,0
+8,0,-2,87,86,0
+9,0,-2,87,86,0
+4,0,-2,3043,125,0
+3,0,-2,126,126,0
+2,0,-2,124,124,0
+1,0,-2,125,124,0
+0,0,-2,172,147,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,243,133,1
+0,2,0,-2,241,132,1
+0,3,0,-2,243,133,1
+0,4,0,-2,241,132,1
+0,5,0,-2,124,132,1
+0,6,0,-2,206,204,1
+0,7,0,-2,206,204,1
+0,8,0,-2,205,204,1
+0,9,0,-2,206,205,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,88,85,0
+---PATTERN START: http://example.org/bnode/httpx3Ax2Fx2Fb4madx2Enetx2FFOAFx2FB4madx2Erdfxxb4mad  http://xmlns.com/foaf/0.1/Group .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,201,114,0
+7,0,-2,103,101,0
+8,0,-2,102,101,0
+9,0,-2,103,101,0
+4,0,-2,223,112,0
+3,0,-2,113,112,0
+2,0,-2,113,112,0
+1,0,-2,117,113,0
+0,0,-2,114,113,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,218,94,0
+0,2,0,-2,218,94,0
+0,3,0,-2,217,94,0
+0,4,0,-2,216,95,0
+0,5,0,-2,111,94,0
+0,6,0,-2,209,180,0
+0,7,0,-2,208,179,0
+0,8,0,-2,207,180,0
+0,9,0,-2,209,179,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,106,103,0
+---PATTERN START: http://www.bbc.co.uk/programmes/b006qnnh#programme  http://www.bbc.co.uk/programmes/genres/factual/petsandanimals#genre .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,7501,84,0
+7,0,-2,87,84,0
+8,0,-2,85,84,0
+9,0,-2,84,84,0
+4,0,-2,209,118,0
+3,0,-2,121,115,0
+2,0,-2,116,115,0
+1,0,-2,117,116,0
+0,0,-2,4466,145,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,232,132,1
+0,2,0,-2,231,129,1
+0,3,0,-2,232,131,1
+0,4,0,-2,232,129,1
+0,5,0,-2,122,129,1
+0,6,0,-2,205,200,1
+0,7,0,-2,200,199,1
+0,8,0,-2,201,199,1
+0,9,0,-2,200,199,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,89,86,0
+---PATTERN START: http://bigasterisk.com/foaf.rdf  http://www.ldodds.com/foaf/foaf-a-matic .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,4051,93,0
+7,0,-2,94,95,0
+8,0,-2,93,92,0
+9,0,-2,93,93,0
+4,0,-2,10215,117,0
+3,0,-2,119,117,0
+2,0,-2,118,123,0
+1,0,-2,122,120,0
+0,0,-2,1106,154,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,236,132,1
+0,2,0,-2,232,131,1
+0,3,0,-2,234,132,1
+0,4,0,-2,232,132,1
+0,5,0,-2,119,131,1
+0,6,0,-2,211,209,1
+0,7,0,-2,208,205,1
+0,8,0,-2,204,204,1
+0,9,0,-2,203,204,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,88,85,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#Notice  http://www.gazettes-online.co.uk/ontology#Authoriser .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,203,87,0
+7,0,-2,88,87,0
+8,0,-2,87,87,0
+9,0,-2,89,87,0
+4,0,-2,195,105,0
+3,0,-2,106,105,0
+2,0,-2,105,117,0
+1,0,-2,109,106,0
+0,0,-2,152,135,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,210,121,1
+0,2,0,-2,210,118,1
+0,3,0,-2,209,117,1
+0,4,0,-2,211,117,1
+0,5,0,-2,110,118,1
+0,6,0,-2,196,194,1
+0,7,0,-2,194,191,1
+0,8,0,-2,194,210,1
+0,9,0,-2,194,191,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,85,83,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/resources/councils#BarnetLondonBoroughCouncil  http://www.gazettes-online.co.uk/ontology/organisation#LondonBoroughCouncil .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,199,87,0
+7,0,-2,88,87,0
+8,0,-2,87,87,0
+9,0,-2,101,89,0
+4,0,-2,212,127,0
+3,0,-2,127,127,0
+2,0,-2,128,126,0
+1,0,-2,126,126,0
+0,0,-2,163,145,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,237,133,1
+0,2,0,-2,240,133,1
+0,3,0,-2,239,136,1
+0,4,0,-2,235,133,1
+0,5,0,-2,119,135,1
+0,6,0,-2,204,206,1
+0,7,0,-2,203,206,1
+0,8,0,-2,202,205,1
+0,9,0,-2,202,206,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,92,90,0
+---PATTERN START: http://www.w3.org/2006/vcard/ns#locality  http://www.w3.org/2006/vcard/ns#Address .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,5747,108,0
+7,0,-2,111,107,0
+8,0,-2,107,107,0
+9,0,-2,106,107,0
+4,0,-2,1858,138,0
+3,0,-2,141,141,0
+2,0,-2,142,141,0
+1,0,-2,171,212,0
+0,0,-2,6593,161,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,265,151,1
+0,2,0,-2,263,150,1
+0,3,0,-2,266,152,1
+0,4,0,-2,267,153,1
+0,5,0,-2,133,152,1
+0,6,0,-2,236,237,1
+0,7,0,-2,235,238,1
+0,8,0,-2,234,238,1
+0,9,0,-2,233,237,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,105,103,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/organisation#HighwaysAgency  http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,217,98,0
+7,0,-2,99,98,0
+8,0,-2,97,98,0
+9,0,-2,100,98,0
+4,0,-2,921,120,0
+3,0,-2,123,120,0
+2,0,-2,121,120,0
+1,0,-2,125,125,0
+0,0,-2,3848,157,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,244,140,1
+0,2,0,-2,250,140,1
+0,3,0,-2,242,132,1
+0,4,0,-2,237,132,1
+0,5,0,-2,122,131,1
+0,6,0,-2,217,215,1
+0,7,0,-2,218,216,1
+0,8,0,-2,216,215,1
+0,9,0,-2,217,215,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,99,96,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/organisation#DepartmentForTransport  http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,212,98,0
+7,0,-2,100,98,0
+8,0,-2,97,98,0
+9,0,-2,997,98,0
+4,0,-2,216,117,0
+3,0,-2,118,117,0
+2,0,-2,118,117,0
+1,0,-2,121,120,0
+0,0,-2,1596,151,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,233,137,1
+0,2,0,-2,251,198,1
+0,3,0,-2,338,200,1
+0,4,0,-2,338,197,1
+0,5,0,-2,172,199,1
+0,6,0,-2,313,320,1
+0,7,0,-2,221,217,1
+0,8,0,-2,210,215,1
+0,9,0,-2,210,212,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,98,95,0
+---PATTERN START: http://lod.geospecies.org/families/cKk8w  http://lod.geospecies.org/bioclasses/aEbRZ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,1622,88,0
+7,0,-2,90,88,0
+8,0,-2,89,89,0
+9,0,-2,88,88,0
+4,0,-2,5094,118,0
+3,0,-2,120,118,0
+2,0,-2,118,121,0
+1,0,-2,119,119,0
+0,0,-2,13647,140,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,230,129,1
+0,2,0,-2,229,125,1
+0,3,0,-2,229,125,1
+0,4,0,-2,232,125,1
+0,5,0,-2,117,125,1
+0,6,0,-2,203,199,1
+0,7,0,-2,202,198,1
+0,8,0,-2,202,200,1
+0,9,0,-2,218,198,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,89,85,0
+---PATTERN START: http://aabs.wordpress.com/category/semanticweb/rdf  http://www.w3.org/RDF/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,194,88,0
+7,0,-2,89,88,0
+8,0,-2,89,88,0
+9,0,-2,93,93,0
+4,0,-2,5379,133,0
+3,0,-2,131,130,0
+2,0,-2,129,129,0
+1,0,-2,130,131,0
+0,0,-2,7819,151,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,262,140,1
+0,2,0,-2,245,141,1
+0,3,0,-2,245,140,1
+0,4,0,-2,245,140,1
+0,5,0,-2,124,140,1
+0,6,0,-2,209,214,1
+0,7,0,-2,209,213,1
+0,8,0,-2,207,214,1
+0,9,0,-2,209,214,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,92,89,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/organisation#BERR  http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,215,97,0
+7,0,-2,104,103,0
+8,0,-2,97,96,0
+9,0,-2,97,97,0
+4,0,-2,203,115,0
+3,0,-2,114,112,0
+2,0,-2,117,113,0
+1,0,-2,115,116,0
+0,0,-2,3541,143,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,228,131,1
+0,2,0,-2,229,131,1
+0,3,0,-2,226,131,1
+0,4,0,-2,228,131,1
+0,5,0,-2,117,130,1
+0,6,0,-2,214,216,1
+0,7,0,-2,210,212,1
+0,8,0,-2,206,209,1
+0,9,0,-2,206,208,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,101,96,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#isAuthoriserFor  http://www.gazettes-online.co.uk/ontology#Authoriser .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,204,89,0
+7,0,-2,89,93,0
+8,0,-2,90,89,0
+9,0,-2,89,89,0
+4,0,-2,205,116,0
+3,0,-2,118,115,0
+2,0,-2,116,117,0
+1,0,-2,116,116,0
+0,0,-2,6914,141,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,227,127,1
+0,2,0,-2,225,123,1
+0,3,0,-2,225,123,1
+0,4,0,-2,227,123,1
+0,5,0,-2,116,123,1
+0,6,0,-2,203,201,1
+0,7,0,-2,201,198,1
+0,8,0,-2,201,200,1
+0,9,0,-2,201,198,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,87,85,0
+---PATTERN START: http://id.crossref.org/issn/1541-1672  http://purl.org/ontology/bibo/Journal .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,216,112,0
+7,0,-2,103,103,0
+8,0,-2,103,103,0
+9,0,-2,102,103,0
+4,0,-2,236,120,0
+3,0,-2,120,119,0
+2,0,-2,119,128,0
+1,0,-2,125,121,0
+0,0,-2,157,137,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,231,126,1
+0,2,0,-2,230,125,1
+0,3,0,-2,230,126,1
+0,4,0,-2,230,125,1
+0,5,0,-2,116,124,1
+0,6,0,-2,216,210,1
+0,7,0,-2,214,209,1
+0,8,0,-2,217,209,1
+0,9,0,-2,214,209,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,97,92,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/authority#hasAuthorised  http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,216,98,0
+7,0,-2,98,97,0
+8,0,-2,99,98,0
+9,0,-2,98,110,0
+4,0,-2,208,116,0
+3,0,-2,117,117,0
+2,0,-2,117,120,0
+1,0,-2,119,120,0
+0,0,-2,167,148,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,237,137,1
+0,2,0,-2,235,137,1
+0,3,0,-2,237,137,1
+0,4,0,-2,235,136,1
+0,5,0,-2,122,137,1
+0,6,0,-2,220,220,1
+0,7,0,-2,213,214,1
+0,8,0,-2,212,214,1
+0,9,0,-2,212,215,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,98,95,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology/organisation#EnvironmentAgency  http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,4,2,0
+6,0,-2,217,98,0
+7,0,-2,110,98,0
+8,0,-2,99,98,0
+9,0,-2,123,98,0
+4,0,-2,210,116,0
+3,0,-2,127,116,0
+2,0,-2,116,115,0
+1,0,-2,120,119,0
+0,0,-2,161,146,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,242,134,1
+0,2,0,-2,234,132,1
+0,3,0,-2,232,134,1
+0,4,0,-2,232,131,1
+0,5,0,-2,120,131,1
+0,6,0,-2,219,226,1
+0,7,0,-2,212,214,1
+0,8,0,-2,216,211,1
+0,9,0,-2,211,209,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,101,95,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#hasIssueNumber  http://www.gazettes-online.co.uk/ontology#Issue .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,220,103,0
+7,0,-2,108,104,0
+8,0,-2,103,103,0
+9,0,-2,103,103,0
+4,0,-2,227,138,0
+3,0,-2,137,136,0
+2,0,-2,137,136,0
+1,0,-2,137,138,0
+0,0,-2,6171,165,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,264,150,1
+0,2,0,-2,264,150,1
+0,3,0,-2,264,149,1
+0,4,0,-2,264,150,1
+0,5,0,-2,133,149,1
+0,6,0,-2,232,235,1
+0,7,0,-2,232,233,1
+0,8,0,-2,232,234,1
+0,9,0,-2,231,234,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,106,101,0
+---PATTERN START: http://lod.geospecies.org/families/gSvIP  http://lod.geospecies.org/bioclasses/aEbRZ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,199,89,0
+7,0,-2,89,89,0
+8,0,-2,94,89,0
+9,0,-2,89,89,0
+4,0,-2,217,118,0
+3,0,-2,119,120,0
+2,0,-2,121,118,0
+1,0,-2,118,119,0
+0,0,-2,6163,139,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,229,127,1
+0,2,0,-2,230,124,1
+0,3,0,-2,228,124,1
+0,4,0,-2,230,124,1
+0,5,0,-2,117,124,1
+0,6,0,-2,201,200,1
+0,7,0,-2,201,197,1
+0,8,0,-2,201,200,1
+0,9,0,-2,200,197,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,89,85,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#hasAuthoriser  http://www.gazettes-online.co.uk/ontology#Authoriser .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,201,87,0
+7,0,-2,87,86,0
+8,0,-2,87,98,0
+9,0,-2,87,86,0
+4,0,-2,199,109,0
+3,0,-2,110,108,0
+2,0,-2,122,111,0
+1,0,-2,110,110,0
+0,0,-2,152,135,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,228,120,1
+0,2,0,-2,213,119,1
+0,3,0,-2,214,119,1
+0,4,0,-2,213,120,1
+0,5,0,-2,110,119,1
+0,6,0,-2,197,193,1
+0,7,0,-2,193,191,1
+0,8,0,-2,194,192,1
+0,9,0,-2,192,191,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,85,84,0
+---PATTERN START: http://www.london-gazette.co.uk/issues/59417/notices/1116592/page.htm  http://www.london-gazette.co.uk/Styles/gazettes.css .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,9024,90,0
+7,0,-2,91,89,0
+8,0,-2,90,89,0
+9,0,-2,91,89,0
+4,0,-2,4313,121,0
+3,0,-2,124,123,0
+2,0,-2,123,124,0
+1,0,-2,124,122,0
+0,0,-2,169,153,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,244,137,1
+0,2,0,-2,241,136,1
+0,3,0,-2,241,139,1
+0,4,0,-2,241,136,1
+0,5,0,-2,124,135,1
+0,6,0,-2,214,211,1
+0,7,0,-2,210,211,1
+0,8,0,-2,210,210,1
+0,9,0,-2,209,212,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,96,93,0
+---PATTERN START: http://example.org/bnode/httpx3Ax2Fx2Fcoursewarex2Erkbex78plorerx2Ecomx2Fontologiesx2Fcoursewarexxbnode3  http://www.w3.org/2002/07/owl#DataRange .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,209,96,0
+7,0,-2,96,96,0
+8,0,-2,101,96,0
+9,0,-2,96,96,0
+4,0,-2,203,106,0
+3,0,-2,107,108,0
+2,0,-2,106,106,0
+1,0,-2,107,105,0
+0,0,-2,106,106,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,231,90,0
+0,2,0,-2,205,90,0
+0,3,0,-2,205,94,0
+0,4,0,-2,206,91,0
+0,5,0,-2,106,91,0
+0,6,0,-2,203,175,0
+0,7,0,-2,198,173,0
+0,8,0,-2,198,174,0
+0,9,0,-2,198,172,0
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,102,100,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#hasAuthority  http://www.gazettes-online.co.uk/ontology/authority#Authority .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,7,2,0
+6,0,-2,221,97,0
+7,0,-2,98,97,0
+8,0,-2,97,97,0
+9,0,-2,109,105,0
+4,0,-2,200,110,0
+3,0,-2,111,110,0
+2,0,-2,111,114,0
+1,0,-2,1483,117,0
+0,0,-2,163,144,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,226,127,1
+0,2,0,-2,226,126,1
+0,3,0,-2,224,127,1
+0,4,0,-2,227,127,1
+0,5,0,-2,118,125,1
+0,6,0,-2,214,212,1
+0,7,0,-2,211,209,1
+0,8,0,-2,210,211,1
+0,9,0,-2,210,209,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,100,100,0
+---PATTERN START: http://lod.geospecies.org/phyla/Ac1  http://lod.geospecies.org/bioclasses/9JpKF .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,4043,86,0
+7,0,-2,88,86,0
+8,0,-2,88,86,0
+9,0,-2,88,86,0
+4,0,-2,5422,130,0
+3,0,-2,134,130,0
+2,0,-2,131,130,0
+1,0,-2,131,133,0
+0,0,-2,2582,150,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,252,137,1
+0,2,0,-2,254,136,1
+0,3,0,-2,251,137,1
+0,4,0,-2,256,137,1
+0,5,0,-2,127,136,1
+0,6,0,-2,210,210,1
+0,7,0,-2,210,208,1
+0,8,0,-2,209,210,1
+0,9,0,-2,211,209,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,84,83,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#hasAuthorisingRole  http://www.gazettes-online.co.uk/ontology#Authoriser .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,214,86,0
+7,0,-2,87,87,0
+8,0,-2,87,86,0
+9,0,-2,87,86,0
+4,0,-2,221,115,0
+3,0,-2,116,115,0
+2,0,-2,117,117,0
+1,0,-2,116,116,0
+0,0,-2,161,138,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,224,128,1
+0,2,0,-2,223,126,1
+0,3,0,-2,223,125,1
+0,4,0,-2,225,125,1
+0,5,0,-2,114,124,1
+0,6,0,-2,201,201,1
+0,7,0,-2,197,198,1
+0,8,0,-2,196,200,1
+0,9,0,-2,197,198,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,85,82,0
+---PATTERN START: http://id.loc.gov/vocabulary/relators/trl  http://purl.org/dc/elements/1.1/contributor .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,2461,89,0
+7,0,-2,89,102,0
+8,0,-2,88,89,0
+9,0,-2,89,89,0
+4,0,-2,5392,117,0
+3,0,-2,117,116,0
+2,0,-2,116,120,0
+1,0,-2,118,118,0
+0,0,-2,3745,137,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,226,123,1
+0,2,0,-2,224,124,1
+0,3,0,-2,224,123,1
+0,4,0,-2,224,123,1
+0,5,0,-2,116,122,1
+0,6,0,-2,199,195,1
+0,7,0,-2,199,195,1
+0,8,0,-2,198,194,1
+0,9,0,-2,199,195,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,87,84,0
+---PATTERN START: http://www.loa-cnr.it/ontologies/DUL.owl#Concept  http://www.loa-cnr.it/ontologies/DUL.owl#Situation .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,195,87,0
+7,0,-2,88,87,0
+8,0,-2,87,86,0
+9,0,-2,87,96,0
+4,0,-2,216,124,0
+3,0,-2,124,124,0
+2,0,-2,125,125,0
+1,0,-2,124,124,0
+0,0,-2,5826,148,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,247,133,1
+0,2,0,-2,242,133,1
+0,3,0,-2,243,132,1
+0,4,0,-2,243,132,1
+0,5,0,-2,123,133,1
+0,6,0,-2,207,205,1
+0,7,0,-2,206,205,1
+0,8,0,-2,206,204,1
+0,9,0,-2,206,204,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,91,87,0
+---PATTERN START: http://lod.geospecies.org/families/2lKGZ  http://lod.geospecies.org/bioclasses/9JpKF .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,205,85,0
+7,0,-2,86,85,0
+8,0,-2,85,85,0
+9,0,-2,84,84,0
+4,0,-2,5014,116,0
+3,0,-2,117,116,0
+2,0,-2,116,116,0
+1,0,-2,120,117,0
+0,0,-2,10163,143,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,226,126,1
+0,2,0,-2,225,125,1
+0,3,0,-2,226,125,1
+0,4,0,-2,225,125,1
+0,5,0,-2,115,125,1
+0,6,0,-2,197,194,1
+0,7,0,-2,195,196,1
+0,8,0,-2,195,194,1
+0,9,0,-2,195,196,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,83,80,0
+---PATTERN START: http://www.w3.org/2006/vcard/ns#region  http://www.w3.org/2006/vcard/ns#Address .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,224,108,0
+7,0,-2,108,108,0
+8,0,-2,108,108,0
+9,0,-2,110,108,0
+4,0,-2,238,137,0
+3,0,-2,138,141,0
+2,0,-2,138,138,0
+1,0,-2,138,141,0
+0,0,-2,8924,164,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,263,151,1
+0,2,0,-2,262,152,1
+0,3,0,-2,262,151,1
+0,4,0,-2,266,150,1
+0,5,0,-2,131,149,1
+0,6,0,-2,237,239,1
+0,7,0,-2,235,237,1
+0,8,0,-2,236,237,1
+0,9,0,-2,235,238,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,106,102,0
+---PATTERN START: http://id.crossref.org/issn/1570-8268  http://purl.org/ontology/bibo/Journal .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,217,101,0
+7,0,-2,102,100,0
+8,0,-2,103,100,0
+9,0,-2,103,101,0
+4,0,-2,229,121,0
+3,0,-2,125,121,0
+2,0,-2,123,121,0
+1,0,-2,123,122,0
+0,0,-2,168,141,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,236,127,1
+0,2,0,-2,235,128,1
+0,3,0,-2,235,126,1
+0,4,0,-2,235,128,1
+0,5,0,-2,119,126,1
+0,6,0,-2,216,209,1
+0,7,0,-2,217,209,1
+0,8,0,-2,216,209,1
+0,9,0,-2,218,210,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,94,90,0
+---PATTERN START: http://www.loa-cnr.it/ontologies/DUL.owl#isSettingFor  http://www.loa-cnr.it/ontologies/DUL.owl#Situation .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,194,87,0
+7,0,-2,88,89,0
+8,0,-2,87,87,0
+9,0,-2,88,87,0
+4,0,-2,213,124,0
+3,0,-2,127,124,0
+2,0,-2,125,124,0
+1,0,-2,124,124,0
+0,0,-2,5153,145,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,240,133,1
+0,2,0,-2,243,132,1
+0,3,0,-2,240,132,1
+0,4,0,-2,242,132,1
+0,5,0,-2,121,132,1
+0,6,0,-2,205,205,1
+0,7,0,-2,204,203,1
+0,8,0,-2,204,205,1
+0,9,0,-2,204,204,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,88,87,0
+---PATTERN START: http://ws.sioc-project.org/mediawiki/mediawiki.php?wiki=http://en.wikipedia.org/wiki/Semantic_Web  http://en.wikipedia.org/wiki/Semantic_Web .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,5855,106,0
+7,0,-2,107,105,0
+8,0,-2,109,105,0
+9,0,-2,106,117,0
+4,0,-2,14298,122,0
+3,0,-2,124,125,0
+2,0,-2,139,129,0
+1,0,-2,135,129,0
+0,0,-2,6981,146,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,237,132,1
+0,2,0,-2,250,132,1
+0,3,0,-2,236,131,1
+0,4,0,-2,238,131,1
+0,5,0,-2,120,131,1
+0,6,0,-2,222,221,1
+0,7,0,-2,222,229,1
+0,8,0,-2,221,221,1
+0,9,0,-2,222,219,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,105,103,0
+---PATTERN START: http://bigasterisk.com/foaf.rdf  mailto:leigh@ldodds.com .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,3920,90,0
+7,0,-2,95,90,0
+8,0,-2,92,90,0
+9,0,-2,92,90,0
+4,0,-2,5865,127,0
+3,0,-2,128,128,0
+2,0,-2,129,128,0
+1,0,-2,129,129,0
+0,0,-2,167,149,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,247,140,1
+0,2,0,-2,247,139,1
+0,3,0,-2,245,139,1
+0,4,0,-2,247,139,1
+0,5,0,-2,124,138,1
+0,6,0,-2,214,211,1
+0,7,0,-2,207,208,1
+0,8,0,-2,209,209,1
+0,9,0,-2,207,208,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,94,91,0
+---PATTERN START: http://www.topquadrant.com/people/dallemang/foaf.rdf#me  http://www.w3.org/2001/sw/ .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,8494,95,0
+7,0,-2,97,98,0
+8,0,-2,96,95,0
+9,0,-2,96,95,0
+4,0,-2,9502,119,0
+3,0,-2,119,119,0
+2,0,-2,122,119,0
+1,0,-2,120,120,0
+0,0,-2,7468,140,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,234,126,1
+0,2,0,-2,231,126,1
+0,3,0,-2,232,125,1
+0,4,0,-2,231,126,1
+0,5,0,-2,118,127,1
+0,6,0,-2,209,203,1
+0,7,0,-2,208,204,1
+0,8,0,-2,209,203,1
+0,9,0,-2,208,204,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,90,85,0
+---PATTERN START: http://rdfs.org/ns/void-guide  http://richard.cyganiak.de/#me .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,8793,90,0
+7,0,-2,91,90,0
+8,0,-2,92,92,0
+9,0,-2,90,90,0
+4,0,-2,9015,116,0
+3,0,-2,118,115,0
+2,0,-2,123,115,0
+1,0,-2,117,116,0
+0,0,-2,5870,143,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,227,129,1
+0,2,0,-2,227,128,1
+0,3,0,-2,228,128,1
+0,4,0,-2,227,128,1
+0,5,0,-2,118,128,1
+0,6,0,-2,203,205,1
+0,7,0,-2,202,205,1
+0,8,0,-2,203,203,1
+0,9,0,-2,202,207,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,90,86,0
+---PATTERN START: http://www.w3.org/2006/vcard/ns#postal-code  http://www.w3.org/2006/vcard/ns#Address .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,228,115,0
+7,0,-2,109,107,0
+8,0,-2,107,107,0
+9,0,-2,107,111,0
+4,0,-2,242,135,0
+3,0,-2,135,138,0
+2,0,-2,142,150,0
+1,0,-2,139,138,0
+0,0,-2,178,159,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,274,147,1
+0,2,0,-2,259,148,1
+0,3,0,-2,259,148,1
+0,4,0,-2,262,150,1
+0,5,0,-2,131,147,1
+0,6,0,-2,233,233,1
+0,7,0,-2,234,233,1
+0,8,0,-2,232,234,1
+0,9,0,-2,233,233,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,104,102,0
+---PATTERN START: http://www.gazettes-online.co.uk/ontology#Notice  http://www.gazettes-online.co.uk/ontology#Issue .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,218,103,0
+7,0,-2,104,103,0
+8,0,-2,103,106,0
+9,0,-2,103,103,0
+4,0,-2,256,137,0
+3,0,-2,139,137,0
+2,0,-2,137,137,0
+1,0,-2,137,137,0
+0,0,-2,184,162,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,266,149,1
+0,2,0,-2,267,149,1
+0,3,0,-2,265,149,1
+0,4,0,-2,266,149,1
+0,5,0,-2,133,148,1
+0,6,0,-2,237,236,1
+0,7,0,-2,235,236,1
+0,8,0,-2,235,235,1
+0,9,0,-2,235,237,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,105,102,0
+---PATTERN START: http://videolectures.net/iswc08_heath_hpldw/  http://richard.cyganiak.de/#me .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,3,2,0
+6,0,-2,210,90,0
+7,0,-2,91,89,0
+8,0,-2,1034,90,0
+9,0,-2,99,95,0
+4,0,-2,213,120,0
+3,0,-2,121,120,0
+2,0,-2,123,120,0
+1,0,-2,120,120,0
+0,0,-2,1203,143,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,234,133,1
+0,2,0,-2,233,135,1
+0,3,0,-2,233,133,1
+0,4,0,-2,234,134,1
+0,5,0,-2,117,132,1
+0,6,0,-2,204,207,1
+0,7,0,-2,204,205,1
+0,8,0,-2,201,205,1
+0,9,0,-2,203,205,1
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,88,86,0

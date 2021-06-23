@@ -1,0 +1,65 @@
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0000---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0001---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0002---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0003---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0004---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0005---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0006---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0007---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0008---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0009---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0010---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0011---
+---QUERIES END---
+running bear executable ...
+expecting the following arguments: insertion option or query option, path, path to bear files or path to queries, number of patches, number of replications, line_nr 
+number of patches 10
+---QUERIES START: /var/queries/sp-queries-highCardinality.txt.0012---
+---QUERIES END---

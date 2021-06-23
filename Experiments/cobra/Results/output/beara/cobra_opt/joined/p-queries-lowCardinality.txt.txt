@@ -1,0 +1,162 @@
+---PATTERN START:  http://ogp.me/ns#postal-code  .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,17,11,0
+6,0,-2,17553,5706,2
+7,0,-2,5775,5746,12
+8,0,-2,887,5774,26
+9,0,-2,138,5760,28
+4,0,-2,20023,6831,0
+3,0,-2,10446,5593,13
+2,0,-2,455,5760,9
+1,0,-2,3582,5511,5
+0,0,-2,3463,180,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,281,36774,443
+0,2,0,-2,517,29643,448
+0,3,0,-2,5605,29559,456
+0,4,0,-2,6927,28825,443
+0,5,0,-2,95,37215,443
+0,6,0,-2,5764,46621,445
+0,7,0,-2,5750,44425,455
+0,8,0,-2,211,44231,469
+0,9,0,-2,213,44416,471
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,10932,431236,288
+---PATTERN START:  http://d-nb.info/standards/elementset/gnd#relatedDdcWithDegreeOfDeterminacy1  .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,18,11,0
+6,0,-2,3893,3771,35
+7,0,-2,1733,1718,0
+8,0,-2,3740,3743,6
+9,0,-2,2374,1663,0
+4,0,-2,1650,1544,0
+3,0,-2,6510,1740,0
+2,0,-2,10975,5949,0
+1,0,-2,1726,1738,0
+0,0,-2,4958,1512,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,3140,17995,306
+0,2,0,-2,7318,15379,341
+0,3,0,-2,3145,15370,308
+0,4,0,-2,2945,15339,252
+0,5,0,-2,1466,18555,308
+0,6,0,-2,5187,24653,343
+0,7,0,-2,3135,24162,307
+0,8,0,-2,5179,23328,314
+0,9,0,-2,3111,25108,324
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,3051,4183,36
+---PATTERN START:  http://ogp.me/ns#locality  .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,18,12,0
+6,0,-2,12575,5901,2
+7,0,-2,5925,5918,12
+8,0,-2,127,6039,24
+9,0,-2,83,6046,25
+4,0,-2,14068,6905,0
+3,0,-2,5702,5694,13
+2,0,-2,543,6065,9
+1,0,-2,276,5806,5
+0,0,-2,2723,157,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,307,62288,589
+0,2,0,-2,576,51050,596
+0,3,0,-2,5735,49144,613
+0,4,0,-2,6978,49232,599
+0,5,0,-2,69,48945,450
+0,6,0,-2,6199,63435,550
+0,7,0,-2,6172,59956,582
+0,8,0,-2,133,60488,641
+0,9,0,-2,132,68186,645
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,11182,31374,304
+---PATTERN START:  http://ogp.me/ns#country-name  .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,18,12,0
+6,0,-2,12838,5990,2
+7,0,-2,5927,5967,12
+8,0,-2,135,6163,24
+9,0,-2,93,6149,25
+4,0,-2,10923,7100,0
+3,0,-2,5907,5915,13
+2,0,-2,547,6427,9
+1,0,-2,295,6127,1
+0,0,-2,139,162,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,333,63571,589
+0,2,0,-2,583,47221,596
+0,3,0,-2,5903,47308,613
+0,4,0,-2,7101,47218,599
+0,5,0,-2,78,46002,450
+0,6,0,-2,6336,58956,550
+0,7,0,-2,6044,58338,582
+0,8,0,-2,152,58083,641
+0,9,0,-2,155,63074,645
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,11475,30927,304
+---PATTERN START:  http://ogp.me/ns#phone_number  .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,18,11,0
+6,0,-2,6080,5844,2
+7,0,-2,5910,5856,12
+8,0,-2,125,5940,27
+9,0,-2,116,5928,28
+4,0,-2,18519,5598,0
+3,0,-2,5780,5704,13
+2,0,-2,527,6138,9
+1,0,-2,208,5889,5
+0,0,-2,86,160,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,246,37354,587
+0,2,0,-2,550,34214,594
+0,3,0,-2,6599,31481,611
+0,4,0,-2,5922,29375,596
+0,5,0,-2,72,54456,448
+0,6,0,-2,5985,60476,548
+0,7,0,-2,6031,62005,580
+0,8,0,-2,175,61986,637
+0,9,0,-2,170,64295,639
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,12869,21164,304
+---PATTERN START:  http://ogp.me/ns#street-address  .
+--- ---VERSION MATERIALIZED
+patch,offset,limit,count-ms,lookup-mus,results
+5,0,-2,16,11,0
+6,0,-2,16022,5637,2
+7,0,-2,5692,5647,12
+8,0,-2,137,5714,26
+9,0,-2,137,5719,28
+4,0,-2,16400,7023,0
+3,0,-2,5883,5814,13
+2,0,-2,489,6058,9
+1,0,-2,229,5974,5
+0,0,-2,128,192,0
+--- ---DELTA MATERIALIZED
+patch_start,patch_end,offset,limit,count-ms,lookup-mus,results
+0,1,0,-2,298,34920,443
+0,2,0,-2,565,28863,448
+0,3,0,-2,5949,29082,456
+0,4,0,-2,7172,28806,443
+0,5,0,-2,107,35058,443
+0,6,0,-2,5850,43358,445
+0,7,0,-2,5789,43769,455
+0,8,0,-2,223,43318,469
+0,9,0,-2,222,43305,471
+--- ---VERSION
+offset,limit,count-ms,lookup-mus,results
+0,-2,11334,27328,288
