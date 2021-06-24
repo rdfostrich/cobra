@@ -47,8 +47,11 @@ case "${ingestionkind}" in
   pre_fix_up | fix_up)
     evalrundir=${evalrunbasedir}/${bearkind}/pre_fix_up-fix_up
     ;;
+  pre_fix_up_ostrich_opt | fix_up_ostrich_opt)
+    evalrundir=${evalrunbasedir}/${bearkind}/pre_fix_up_ostrich_opt-fix_up_ostrich_opt
+    ;;
   *)
-    echo "Usage: $0 {ingest|query|ingest-query} {beara|bearb-day|bearb-hour} {cobra_opt|pre_fix_up|fix_up}"
+    echo "Usage: $0 {ingest|query|ingest-query} {beara|bearb-day|bearb-hour} {cobra_opt|pre_fix_up|fix_up|pre_fix_up_ostrich_opt|fix_up_ostrich_opt}"
     exit 2
     ;;
 esac
