@@ -67,22 +67,22 @@ sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 
 # ingestion only, all bearkinds, ingestion options pre_fix_up and fix_up in sequence
 # (in preferred order of execution)
-# (this one is suspected at this moment, because the last one crashed)
-#./run-docker.sh ingest bearb-day  pre_fix_up 2>&1 | tee ingest-bearb-day-pre_fix_up.log
-#./run-docker.sh ingest bearb-day  fix_up     2>&1 | tee ingest-bearb-day-fix_up.log
-#./run-docker.sh ingest bearb-hour pre_fix_up 2>&1 | tee ingest-bearb-hour-pre_fix_up.log
-#./run-docker.sh ingest bearb-hour fix_up     2>&1 | tee ingest-bearb-hour-fix_up.log
-#./run-docker.sh ingest beara      pre_fix_up 2>&1 | tee ingest-beara-pre_fix_up.log
+# (this one is suspected at this moment, because the last one (commented) crashed)
+./run-docker.sh ingest bearb-day  pre_fix_up 2>&1 | tee ingest-bearb-day-pre_fix_up.log
+./run-docker.sh ingest bearb-day  fix_up     2>&1 | tee ingest-bearb-day-fix_up.log
+./run-docker.sh ingest bearb-hour pre_fix_up 2>&1 | tee ingest-bearb-hour-pre_fix_up.log
+./run-docker.sh ingest bearb-hour fix_up     2>&1 | tee ingest-bearb-hour-fix_up.log
+./run-docker.sh ingest beara      pre_fix_up 2>&1 | tee ingest-beara-pre_fix_up.log
 #./run-docker.sh ingest beara      fix_up     2>&1 | tee ingest-beara-fix_up.log
 
 # ingestion only, all bearkinds, ingestion options pre_fix_up and fix_up in sequence
 # (in preferred order of execution)
 ./run-docker.sh ingest bearb-day  pre_fix_up_ostrich_opt 2>&1 | tee ingest-bearb-day-pre_fix_up_ostrich_opt.log
 ./run-docker.sh ingest bearb-day  fix_up_ostrich_opt     2>&1 | tee ingest-bearb-day-fix_up_ostrich_opt.log
-./run-docker.sh ingest bearb-hour pre_fix_up_ostrich_opt 2>&1 | tee ingest-bearb-hour-pre_fix_up_ostrich_opt.log
-./run-docker.sh ingest bearb-hour fix_up_ostrich_opt     2>&1 | tee ingest-bearb-hour-fix_up_ostrich_opt.log
 ./run-docker.sh ingest beara      pre_fix_up_ostrich_opt 2>&1 | tee ingest-beara-pre_fix_up_ostrich_opt.log
 ./run-docker.sh ingest beara      fix_up_ostrich_opt     2>&1 | tee ingest-beara-fix_up_ostrich_opt.log
+./run-docker.sh ingest bearb-hour pre_fix_up_ostrich_opt 2>&1 | tee ingest-bearb-hour-pre_fix_up_ostrich_opt.log
+./run-docker.sh ingest bearb-hour fix_up_ostrich_opt     2>&1 | tee ingest-bearb-hour-fix_up_ostrich_opt.log
 ```
 
 Note: to join output of queries on split query files, use the `/utils/join-xyzt.sh` script of this project.
