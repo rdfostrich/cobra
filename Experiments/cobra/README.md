@@ -1,11 +1,5 @@
 # Reproducing COBRA experiments
 
-This documentation is as good as identical to the documentation for the OSTRICH experiment.
-The few differences are marked with !!DIFF!! in the OSTRICH documentation.
-
-Execute all commands shown below in this directory of a working copy cloned from this repository
-(unless explicitly stated otherwise).
-
 ## Prerequisites
 
 ### Docker
@@ -14,22 +8,35 @@ Have [docker](https://docs.docker.com/get-docker/) installed and [get access as 
 
 ### Submodules
 
-If you didn't clone this repo with the `--recurse-submodules` option in your `git clone` command, get the required submodules now:
+If you didn't clone this repo with the `--recurse-submodules` option in your `git clone` command, get the required submodules now,
+by executing this in the root of your working copy:
+
 ```
 git submodule update --init
 ```
 
 ## Create docker image
 
+Execute in the directory containing this README, in a working copy cloned from this repository.
+
 ```sh
 docker build -t cobra .
 ```
 
+## Get input data and queries
+
+The input data and queries can be get as explained for HDT.
+
+In addition, some query files need to be split in lines:
+```
+cd /mnt/datastore/data/dslab/experimental/patch/BEAR/queries_new/
+/path/to/working-copy/utils/split-in-lines.sh
+```
+(where `/path/to/working-copy/` is the path to the root of a working copy of this repo)
+
 ## Put the data and queries in place
 
-This step is needed to run locally. When running on server donizetti.labnet, the data is already there.
-
-**TODO: Document how to create input, starting from [the BEAR documentation](https://aic.ai.wu.ac.at/qadlod/bear.html).**
+This step is needed to run locally, assuming the data and queries at `donizetti.labnet:/mnt/datastore/data/dslab/experimental/patch/` are golden.
 
 ```sh
 # create directories
@@ -54,7 +61,10 @@ Note: the `query_news` directory has a subdirectory `split`, containing queries 
 
 ## Run the experiments
 
+Execute in the directory containing this README, in a working copy cloned from this repository.
+
 Note - on the server you may want to do this in a **screen** session.
+
 ```sh
 # this line is optional; execute in case you don't have rwx access to the folder
 sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
@@ -67,22 +77,12 @@ sudo chown $USER:docker /mnt/datastore/data/dslab/experimental/patch/
 
 # ingestion only, all bearkinds, ingestion options pre_fix_up and fix_up in sequence
 # (in preferred order of execution)
-# (this one is suspected at this moment, because the last one (commented) crashed)
 ./run-docker.sh ingest bearb-day  pre_fix_up 2>&1 | tee ingest-bearb-day-pre_fix_up.log
 ./run-docker.sh ingest bearb-day  fix_up     2>&1 | tee ingest-bearb-day-fix_up.log
 ./run-docker.sh ingest bearb-hour pre_fix_up 2>&1 | tee ingest-bearb-hour-pre_fix_up.log
 ./run-docker.sh ingest bearb-hour fix_up     2>&1 | tee ingest-bearb-hour-fix_up.log
 ./run-docker.sh ingest beara      pre_fix_up 2>&1 | tee ingest-beara-pre_fix_up.log
 #./run-docker.sh ingest beara      fix_up     2>&1 | tee ingest-beara-fix_up.log
-
-# ingestion only, all bearkinds, ingestion options pre_fix_up and fix_up in sequence
-# (in preferred order of execution)
-./run-docker.sh ingest bearb-day  pre_fix_up_ostrich_opt 2>&1 | tee ingest-bearb-day-pre_fix_up_ostrich_opt.log
-./run-docker.sh ingest bearb-day  fix_up_ostrich_opt     2>&1 | tee ingest-bearb-day-fix_up_ostrich_opt.log
-./run-docker.sh ingest beara      pre_fix_up_ostrich_opt 2>&1 | tee ingest-beara-pre_fix_up_ostrich_opt.log
-./run-docker.sh ingest beara      fix_up_ostrich_opt     2>&1 | tee ingest-beara-fix_up_ostrich_opt.log
-./run-docker.sh ingest bearb-hour pre_fix_up_ostrich_opt 2>&1 | tee ingest-bearb-hour-pre_fix_up_ostrich_opt.log
-./run-docker.sh ingest bearb-hour fix_up_ostrich_opt     2>&1 | tee ingest-bearb-hour-fix_up_ostrich_opt.log
 ```
 
 Note: to join output of queries on split query files, use the `/utils/join-xyzt.sh` script of this project.
